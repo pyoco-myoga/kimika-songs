@@ -29,7 +29,7 @@ function eventHandler() {
             $("#songs-list").append(`
             <tr>
                 <th scope="row">${result.item.artist}</th>
-                <td><a href="https://www.youtube.com/watch?v=${result.item.song.id}&t=${result.item.song.t}">${result.item.song.name}</th>
+                <td><a href="https://www.youtube.com/watch?v=${result.item.song.video}&t=${result.item.song.t}">${result.item.song.name}</th>
             </tr>
     `);
         }
@@ -38,7 +38,7 @@ function eventHandler() {
             $("#songs-list").append(`
             <tr>
                 <th scope="row">${item.artist}</th>
-                <td><a href="https://www.youtube.com/watch?v=${item.song.id}&t=${item.song.t}">${item.song.name}</th>
+                <td><a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</th>
             </tr>
             `);
         }
@@ -52,7 +52,7 @@ $(() => {
         $("#songs-list").append(`
         <tr>
             <th scope="row">${item.artist}</th>
-            <td><a href="https://www.youtube.com/watch?v=${item.song.id}&t=${item.song.t}">${item.song.name}</th>
+            <td><a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</th>
         </tr>
         `);
         console.log(item);

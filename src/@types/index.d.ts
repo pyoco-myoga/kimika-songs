@@ -2,8 +2,9 @@
 export type Quality = "full" | "short";
 
 export interface Song {
+    uuid: string;
     name: string;
-    id: string;
+    video: string;
     t: number;
     quality?: Quality;
 }
