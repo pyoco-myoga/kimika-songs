@@ -33,12 +33,21 @@ function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<stri
             return;
         }
     }
+    const isFull = item.song.length === "full";
+    if ($("#full-only").prop("checked")) {
+        if (!isFull) {
+            return;
+        }
+    }
     $("#songs-list").append(`
     <tr>
         <th scope="row">
             <i id="${item.song.uuid}" class="bi ${(isFavorite) ? "bi-heart-fill" : "bi-heart"}"></i>
         </th>
-        <td><a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</a>
+            ${(item.song.length === "full") ? "<i class='bi bi-star'></i>" : ""}
+        </td>
         <td>${item.artist}</td>
     </tr>
     `);
@@ -92,5 +101,6 @@ $(() => {
     }
     $("#search-query").on("keyup", () => keyupEventHandler(favoriteSongsUUID));
     $("#favorite-only").on("change", () => keyupEventHandler(favoriteSongsUUID));
+    $("#full-only").on("change", () => keyupEventHandler(favoriteSongsUUID));
 });
 
