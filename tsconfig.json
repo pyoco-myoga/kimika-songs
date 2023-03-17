@@ -1,6 +1,9 @@
 {
     "compilerOptions": {
+        "moduleResolution": "node",
         "resolveJsonModule": true,
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "lib": ["ESNext"],
+        "target": "ES2015"
     }
 }

@@ -2,7 +2,11 @@
 import songs from "./songs.json";
 import $ from "jquery";
 import Fuse from "fuse.js";
+import {getCookie, setCookie} from "typescript-cookie";
 import {Song} from "./@types";
+
+const FAVORITE_SONGS_COOKIE_KEY = "favorite";
+const COOKIE_EXPIRES = 161 * 365
 
 let songsList: {artist: string, song: Song}[] = [];
 for (const artist of Object.keys(songs)) {
@@ -22,43 +26,71 @@ const fuse = new Fuse(songsList, {
     ]
 });
 
-function eventHandler() {
+function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<string>) {
+    const isFavorite = favoriteSongs.has(item.song.uuid);
+    if ($("#favorite-only").prop("checked")) {
+        if (!isFavorite) {
+            return;
+        }
+    }
+    $("#songs-list").append(`
+    <tr>
+        <th scope="row">
+            <i id="${item.song.uuid}" class="bi ${(isFavorite) ? "bi-heart-fill" : "bi-heart"}"></i>
+        </th>
+        <td><a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</td>
+        <td>${item.artist}</td>
+    </tr>
+    `);
+}
+
+function keyupEventHandler(favoriteSongs: Set<string>) {
     $("#songs-list").empty();
     if ($("#search-query").val() !== "") {
         for (const result of fuse.search($("#search-query").val() as string)) {
-            $("#songs-list").append(`
-            <tr>
-                <th scope="row">${result.item.artist}</th>
-                <td><a href="https://www.youtube.com/watch?v=${result.item.song.video}&t=${result.item.song.t}">${result.item.song.name}</th>
-            </tr>
-    `);
+            addTableRow(result.item, favoriteSongs);
+            addFavoriteButtonEvent(result.item.song.uuid, favoriteSongs);
         }
     } else {
         for (const item of songsList) {
-            $("#songs-list").append(`
-            <tr>
-                <th scope="row">${item.artist}</th>
-                <td><a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</th>
-            </tr>
-            `);
+            addTableRow(item, favoriteSongs);
+            addFavoriteButtonEvent(item.song.uuid, favoriteSongs);
         }
     }
 }
 
+function addFavoriteButtonEvent(uuid: string, favoriteSongs: Set<string>) {
+    $(`#${uuid}`).click(function () {
+        if ($(this).hasClass("bi-heart")) {
+            favoriteSongs.add(uuid);
+            setCookie(
+                FAVORITE_SONGS_COOKIE_KEY,
+                JSON.stringify([...favoriteSongs]), {expires: COOKIE_EXPIRES, sameSite: "strict"});
+            $(this).removeClass("bi-heart").addClass("bi-heart-fill");
+        } else {
+            favoriteSongs.delete(uuid);
+            setCookie(
+                FAVORITE_SONGS_COOKIE_KEY,
+                JSON.stringify([...favoriteSongs]), {expires: COOKIE_EXPIRES, sameSite: "strict"});
+            $(this).removeClass("bi-heart-fill").addClass("bi-heart");
+        }
+    });
+}
+
+let favoriteSongsUUID = new Set<string>();
+const cookieString = getCookie(FAVORITE_SONGS_COOKIE_KEY);
+
+if (cookieString !== undefined) {
+    favoriteSongsUUID = new Set<string>(JSON.parse(cookieString));
+}
 
 // initialize
 $(() => {
     for (const item of songsList) {
-        $("#songs-list").append(`
-        <tr>
-            <th scope="row">${item.artist}</th>
-            <td><a href="https://www.youtube.com/watch?v=${item.song.video}&t=${item.song.t}">${item.song.name}</th>
-        </tr>
-        `);
-        console.log(item);
+        addTableRow(item, favoriteSongsUUID);
+        addFavoriteButtonEvent(item.song.uuid, favoriteSongsUUID);
     }
+    $("#search-query").on("keyup", () => keyupEventHandler(favoriteSongsUUID));
+    $("#favorite-only").on("change", () => keyupEventHandler(favoriteSongsUUID));
 });
-
-$("#search-query").on("keyup", eventHandler);
-
 
