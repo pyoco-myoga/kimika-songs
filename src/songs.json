@@ -264,7 +264,7 @@
             "uuid": "94019076-bf73-4150-88a2-0af71e2a826f",
             "name": "Danny",
             "video": "uo3MAj6Df_0",
-            "t": 1656
+            "t": 1710
         },
         {
             "uuid": "5100363c-eab4-4869-a0c2-4edde72d8131",
@@ -327,6 +327,12 @@
             "t": 3357,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "dffbf051-0676-46b8-9b2b-4f3efce6b111",
+            "name": "私、アイドル宣言",
+            "video": "Mve6gP5bGPQ",
+            "t": 2987
         }
     ],
     "ClariS": [
@@ -397,6 +403,20 @@
             "t": 6717,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "7835f525-31d2-48d7-a6be-1e8cdb1e2e04",
+            "name": "Don't Trust Over Thirty",
+            "video": "Mve6gP5bGPQ",
+            "t": 316,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "e6d677f1-2a09-480b-b2d3-6fbb452c7d36",
+            "name": "若者たち",
+            "video": "Mve6gP5bGPQ",
+            "t": 1143
         }
     ],
     "GO!GO!7188": [
@@ -506,6 +526,12 @@
             "name": "野太くてごめん",
             "video": "2CCEVK-iTBc",
             "t": 1855
+        },
+        {
+            "uuid": "3992884b-e0f0-425e-8a90-525b4f359465",
+            "name": "月曜日の憂鬱",
+            "video": "Mve6gP5bGPQ",
+            "t": 4498
         }
     ],
     "JUDY AND MARY": [
@@ -630,6 +656,12 @@
             "name": "ファンサ",
             "video": "3Vx8BIGWUUc",
             "t": 2720
+        },
+        {
+            "uuid": "2995a3b7-47de-4dfc-a45b-aaf0e255705d",
+            "name": "ファンサ",
+            "video": "Mve6gP5bGPQ",
+            "t": 2571
         }
     ],
     "MONGOL800": [
@@ -1122,6 +1154,12 @@
             "t": 2208
         },
         {
+            "uuid": "b016491d-e34d-4a84-b87f-fd05d0ea0513",
+            "name": "マリーゴールド",
+            "video": "Mve6gP5bGPQ",
+            "t": 7013
+        },
+        {
             "uuid": "1598be3b-f15d-4b4b-92ab-4b63760e32d5",
             "name": "君はロックを聴かない",
             "video": "S3sqt66VpEM",
@@ -1300,6 +1338,18 @@
             "name": "婦rick裸にて",
             "video": "jQaB4I_mKY0",
             "t": 1338
+        },
+        {
+            "uuid": "7cbab69d-4677-494d-87d8-6f9e697d7acf",
+            "name": "ミッドナイト清純異性交流",
+            "video": "Mve6gP5bGPQ",
+            "t": 711
+        },
+        {
+            "uuid": "30b1fe52-86c5-466d-8277-04c0d40bc013",
+            "name": "ノスタルジックJ-pop",
+            "video": "Mve6gP5bGPQ",
+            "t": 3987
         }
     ],
     "海援隊": [
@@ -1364,6 +1414,12 @@
             "t": 1400,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "a56d8b5c-a7ad-49ee-8562-be246e4ea499",
+            "name": "祭りの準備",
+            "video": "Mve6gP5bGPQ",
+            "t": 5403
         }
     ],
     "上白石萌歌": [
@@ -1433,6 +1489,12 @@
             "t": 2212,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "83eb15d8-f624-458f-aaf6-e93c53c5be64",
+            "name": "人間",
+            "video": "Mve6gP5bGPQ",
+            "t": 2058
         }
     ],
     "グッチ裕三&グッチーズ": [
@@ -1496,7 +1558,7 @@
             "uuid": "bb1216c9-0dc5-429f-ad41-1cd1813426f1",
             "name": "東京",
             "video": "2rnFJQe8jho",
-            "t": 2085,
+            "t": 2805,
             "length": "full",
             "singType": "live"
         }
@@ -1783,10 +1845,30 @@
             "t": 4804
         },
         {
+            "uuid": "ebc9c7fe-962d-4eeb-9a64-50b55fc1cf47",
+            "name": "チェリー",
+            "video": "Mve6gP5bGPQ",
+            "t": 6587
+        },
+        {
             "uuid": "e4e7a2d7-71eb-4d7f-a55a-7bb17aee2243",
             "name": "空も飛べるはず",
             "video": "BkSrCEvv0YE",
             "t": 5024
+        },
+        {
+            "uuid": "933fd5d9-3c65-4d8f-8047-f7e796cb02fd",
+            "name": "ロビンソン",
+            "video": "Mve6gP5bGPQ",
+            "t": 5938
+        }
+    ],
+    "相対性理論": [
+        {
+            "uuid": "79192a45-a78a-48a5-8bc0-706731fd4253",
+            "name": "LOVEずっきゅん",
+            "video": "Mve6gP5bGPQ",
+            "t": 4894
         }
     ],
     "滝廉太郎": [
@@ -2063,6 +2145,12 @@
             "name": "春よ、来い",
             "video": "3Vx8BIGWUUc",
             "t": 12307
+        },
+        {
+            "uuid": "e7aad097-7c71-4b48-a0cc-9cb75e145d64",
+            "name": "卒業写真",
+            "video": "Mve6gP5bGPQ",
+            "t": 1636
         }
     ],
     "松本梨香": [
@@ -2077,6 +2165,12 @@
             "name": "めざせポケモンマスター",
             "video": "uo3MAj6Df_0",
             "t": 4833
+        },
+        {
+            "uuid": "e189fd84-450a-451f-8f49-3ed6e6441dbc",
+            "name": "めざせポケモンマスター",
+            "video": "Mve6gP5bGPQ",
+            "t": 3457
         },
         {
             "uuid": "cc73903d-3fdd-4f0a-aac3-6ba0605e1b3b",
