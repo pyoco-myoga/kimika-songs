@@ -1,0 +1,31 @@
+
+name: Build Github Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 19
+      - run: yarn install
+      - run: yarn build
+      - name: Commit files
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: build project for github pages
+      - name: Push changes
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: No changes detected
+        if: steps.auto-commit-action.outputs.changes_detected == 'false'
+        run: echo "No changes"
