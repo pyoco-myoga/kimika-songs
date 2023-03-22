@@ -580,7 +580,7 @@ const fuse = new (0, _fuseJsDefault.default)(songsList, {
         "song.name"
     ]
 });
-function addTableRow(item, favoriteSongs) {
+function addTableRow(item, favoriteSongs, videoId) {
     const isFavorite = favoriteSongs.has(item.song.uuid);
     if ((0, _jqueryDefault.default)("#favorite-only").prop("checked")) {
         if (!isFavorite) return;
@@ -589,6 +589,7 @@ function addTableRow(item, favoriteSongs) {
     if ((0, _jqueryDefault.default)("#full-only").prop("checked")) {
         if (!isFull) return;
     }
+    if (videoId !== "" && videoId !== item.song.video) return;
     (0, _jqueryDefault.default)("#songs-list").append(`
     <tr>
         <th scope="row">
@@ -602,18 +603,19 @@ function addTableRow(item, favoriteSongs) {
     </tr>
     `);
 }
-function keyupEventHandler(favoriteSongs, keyword) {
+function keyupEventHandler(favoriteSongs, keyword, videoId) {
     (0, _jqueryDefault.default)("#songs-list").empty();
     if (keyword != null && keyword != "") for (const result of fuse.search(keyword)){
-        addTableRow(result.item, favoriteSongs);
+        addTableRow(result.item, favoriteSongs, videoId);
         addFavoriteButtonEvent(result.item.song.uuid, favoriteSongs);
     }
     else for (const item of songsList){
-        addTableRow(item, favoriteSongs);
+        addTableRow(item, favoriteSongs, videoId);
         addFavoriteButtonEvent(item.song.uuid, favoriteSongs);
     }
 }
 function addFavoriteButtonEvent(uuid, favoriteSongs) {
+    // if #uuid exists, event will be handled
     (0, _jqueryDefault.default)(`#${uuid}`).click(function() {
         if ((0, _jqueryDefault.default)(this).hasClass("bi-heart")) {
             favoriteSongs.add(uuid);
@@ -642,12 +644,12 @@ if (cookieString !== undefined) favoriteSongsUUID = new Set(JSON.parse(cookieStr
 // initialize
 (0, _jqueryDefault.default)(()=>{
     const params = new URLSearchParams(location.search);
-    console.log(params.get("q"));
     (0, _jqueryDefault.default)("#search-query").val(params.get("q"));
-    keyupEventHandler(favoriteSongsUUID, params.get("q"));
-    (0, _jqueryDefault.default)("#search-query").on("keyup", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val()));
-    (0, _jqueryDefault.default)("#favorite-only").on("change", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val()));
-    (0, _jqueryDefault.default)("#full-only").on("change", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val()));
+    keyupEventHandler(favoriteSongsUUID, params.get("q"), (0, _jqueryDefault.default)("#video-id-specify").val());
+    (0, _jqueryDefault.default)("#search-query").on("keyup", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val(), (0, _jqueryDefault.default)("#video-id-specify").val()));
+    (0, _jqueryDefault.default)("#favorite-only").on("change", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val(), (0, _jqueryDefault.default)("#video-id-specify").val()));
+    (0, _jqueryDefault.default)("#full-only").on("change", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val(), (0, _jqueryDefault.default)("#video-id-specify").val()));
+    (0, _jqueryDefault.default)("#video-id-specify").on("keyup", ()=>keyupEventHandler(favoriteSongsUUID, (0, _jqueryDefault.default)("#search-query").val(), (0, _jqueryDefault.default)("#video-id-specify").val()));
 });
 
 },{"./songs.json":"4svCt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","fuse.js":"4xnao","jquery":"hgMhh","typescript-cookie":"5VVRg"}],"4svCt":[function(require,module,exports) {

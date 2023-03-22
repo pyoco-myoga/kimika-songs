@@ -26,7 +26,7 @@ const fuse = new Fuse(songsList, {
     ]
 });
 
-function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<string>) {
+function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<string>, videoId: string) {
     const isFavorite = favoriteSongs.has(item.song.uuid);
     if ($("#favorite-only").prop("checked")) {
         if (!isFavorite) {
@@ -38,6 +38,9 @@ function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<stri
         if (!isFull) {
             return;
         }
+    }
+    if (videoId !== "" && videoId !== item.song.video) {
+        return;
     }
     $("#songs-list").append(`
     <tr>
@@ -53,22 +56,23 @@ function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<stri
     `);
 }
 
-function keyupEventHandler(favoriteSongs: Set<string>, keyword: string | null) {
+function keyupEventHandler(favoriteSongs: Set<string>, keyword: string | null, videoId: string) {
     $("#songs-list").empty();
     if (keyword != null && keyword != "") {
         for (const result of fuse.search(keyword)) {
-            addTableRow(result.item, favoriteSongs);
+            addTableRow(result.item, favoriteSongs, videoId);
             addFavoriteButtonEvent(result.item.song.uuid, favoriteSongs);
         }
     } else {
         for (const item of songsList) {
-            addTableRow(item, favoriteSongs);
+            addTableRow(item, favoriteSongs, videoId);
             addFavoriteButtonEvent(item.song.uuid, favoriteSongs);
         }
     }
 }
 
 function addFavoriteButtonEvent(uuid: string, favoriteSongs: Set<string>) {
+    // if #uuid exists, event will be handled
     $(`#${uuid}`).click(function () {
         if ($(this).hasClass("bi-heart")) {
             favoriteSongs.add(uuid);
@@ -96,12 +100,12 @@ if (cookieString !== undefined) {
 // initialize
 $(() => {
     const params = new URLSearchParams(location.search);
-    console.log(params.get("q"));
     $("#search-query").val(params.get("q"));
-    keyupEventHandler(favoriteSongsUUID, params.get("q"));
+    keyupEventHandler(favoriteSongsUUID, params.get("q"), $("#video-id-specify").val() as string);
 
-    $("#search-query").on("keyup", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string));
-    $("#favorite-only").on("change", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string));
-    $("#full-only").on("change", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string));
+    $("#search-query").on("keyup", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string, $("#video-id-specify").val() as string));
+    $("#favorite-only").on("change", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string, $("#video-id-specify").val() as string));
+    $("#full-only").on("change", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string, $("#video-id-specify").val() as string));
+    $("#video-id-specify").on("keyup", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string, $("#video-id-specify").val() as string));
 });
 
