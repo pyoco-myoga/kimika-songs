@@ -53,9 +53,9 @@ function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<stri
     `);
 }
 
-function keyupEventHandler(favoriteSongs: Set<string>, keyword: string) {
+function keyupEventHandler(favoriteSongs: Set<string>, keyword: string | null) {
     $("#songs-list").empty();
-    if ($("#search-query").val() !== "") {
+    if (keyword != null && keyword != "") {
         for (const result of fuse.search(keyword)) {
             addTableRow(result.item, favoriteSongs);
             addFavoriteButtonEvent(result.item.song.uuid, favoriteSongs);
