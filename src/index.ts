@@ -7,6 +7,7 @@ import {Song} from "./@types";
 
 const FAVORITE_SONGS_COOKIE_KEY = "favorite";
 const COOKIE_EXPIRES = 161 * 365
+const MAX_NUM_FAVORITE_SONGS = 50;
 
 let songsList: {artist: string, song: Song}[] = [];
 for (const artist of Object.keys(songs)) {
@@ -75,11 +76,13 @@ function addFavoriteButtonEvent(uuid: string, favoriteSongs: Set<string>) {
     // if #uuid exists, event will be handled
     $(`#${uuid}`).click(function () {
         if ($(this).hasClass("bi-heart")) {
-            favoriteSongs.add(uuid);
-            setCookie(
-                FAVORITE_SONGS_COOKIE_KEY,
-                JSON.stringify([...favoriteSongs]), {expires: COOKIE_EXPIRES, sameSite: "strict"});
-            $(this).removeClass("bi-heart").addClass("bi-heart-fill");
+            if (favoriteSongs.size < MAX_NUM_FAVORITE_SONGS) {
+                favoriteSongs.add(uuid);
+                setCookie(
+                    FAVORITE_SONGS_COOKIE_KEY,
+                    JSON.stringify([...favoriteSongs]), {expires: COOKIE_EXPIRES, sameSite: "strict"});
+                $(this).removeClass("bi-heart").addClass("bi-heart-fill");
+            }
         } else {
             favoriteSongs.delete(uuid);
             setCookie(
