@@ -53,10 +53,10 @@ function addTableRow(item: {artist: string, song: Song}, favoriteSongs: Set<stri
     `);
 }
 
-function keyupEventHandler(favoriteSongs: Set<string>) {
+function keyupEventHandler(favoriteSongs: Set<string>, keyword: string) {
     $("#songs-list").empty();
     if ($("#search-query").val() !== "") {
-        for (const result of fuse.search($("#search-query").val() as string)) {
+        for (const result of fuse.search(keyword)) {
             addTableRow(result.item, favoriteSongs);
             addFavoriteButtonEvent(result.item.song.uuid, favoriteSongs);
         }
@@ -95,12 +95,13 @@ if (cookieString !== undefined) {
 
 // initialize
 $(() => {
-    for (const item of songsList) {
-        addTableRow(item, favoriteSongsUUID);
-        addFavoriteButtonEvent(item.song.uuid, favoriteSongsUUID);
-    }
-    $("#search-query").on("keyup", () => keyupEventHandler(favoriteSongsUUID));
-    $("#favorite-only").on("change", () => keyupEventHandler(favoriteSongsUUID));
-    $("#full-only").on("change", () => keyupEventHandler(favoriteSongsUUID));
+    const params = new URLSearchParams(location.search);
+    console.log(params.get("q"));
+    $("#search-query").val(params.get("q"));
+    keyupEventHandler(favoriteSongsUUID, params.get("q"));
+
+    $("#search-query").on("keyup", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string));
+    $("#favorite-only").on("change", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string));
+    $("#full-only").on("change", () => keyupEventHandler(favoriteSongsUUID, $("#search-query").val() as string));
 });
 
