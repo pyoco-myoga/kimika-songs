@@ -11460,7 +11460,7 @@ parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "render", ()=>render);
 var _vue = require("vue");
 const _hoisted_1 = {
-    class: "input-group"
+    class: "input-group mb-3"
 };
 const _hoisted_2 = /*#__PURE__*/ (0, _vue.createElementVNode)("span", {
     class: "input-group-text"
@@ -11469,8 +11469,14 @@ const _hoisted_2 = /*#__PURE__*/ (0, _vue.createElementVNode)("span", {
         class: "bi bi-search"
     })
 ], -1 /* HOISTED */ );
-const _hoisted_3 = /*#__PURE__*/ (0, _vue.createElementVNode)("div", null, "検索オプション", -1 /* HOISTED */ );
-const _hoisted_4 = /*#__PURE__*/ (0, _vue.createElementVNode)("label", {
+const _hoisted_3 = {
+    class: "input-group mb-3"
+};
+const _hoisted_4 = /*#__PURE__*/ (0, _vue.createElementVNode)("span", {
+    class: "input-group-text"
+}, "検索オプション", -1 /* HOISTED */ );
+const _hoisted_5 = /*#__PURE__*/ (0, _vue.createElementVNode)("label", {
+    class: "btn btn-outline-secondary",
     for: "favorite-only"
 }, [
     /*#__PURE__*/ (0, _vue.createElementVNode)("i", {
@@ -11478,13 +11484,14 @@ const _hoisted_4 = /*#__PURE__*/ (0, _vue.createElementVNode)("label", {
     }),
     /*#__PURE__*/ (0, _vue.createTextVNode)("のみ")
 ], -1 /* HOISTED */ );
-const _hoisted_5 = /*#__PURE__*/ (0, _vue.createElementVNode)("label", {
+const _hoisted_6 = /*#__PURE__*/ (0, _vue.createElementVNode)("label", {
+    class: "btn btn-outline-secondary",
     for: "full-only"
 }, "フルのみ", -1 /* HOISTED */ );
-const _hoisted_6 = {
+const _hoisted_7 = {
     class: "input-group mb-3"
 };
-const _hoisted_7 = /*#__PURE__*/ (0, _vue.createElementVNode)("span", {
+const _hoisted_8 = /*#__PURE__*/ (0, _vue.createElementVNode)("span", {
     class: "input-group-text",
     id: "video-id-specify-label"
 }, "video ID指定", -1 /* HOISTED */ );
@@ -11505,33 +11512,37 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
             ])
         ]),
         (0, _vue.createElementVNode)("div", null, [
-            _hoisted_3,
-            (0, _vue.withDirectives)((0, _vue.createElementVNode)("input", {
-                "onUpdate:modelValue": _cache[1] || (_cache[1] = ($event)=>$setup.isFavoriteOnly = $event),
-                class: "form-check-input",
-                value: "",
-                type: "checkbox"
-            }, null, 512 /* NEED_PATCH */ ), [
-                [
-                    (0, _vue.vModelCheckbox),
-                    $setup.isFavoriteOnly
-                ]
+            (0, _vue.createElementVNode)("div", _hoisted_3, [
+                _hoisted_4,
+                (0, _vue.withDirectives)((0, _vue.createElementVNode)("input", {
+                    "onUpdate:modelValue": _cache[1] || (_cache[1] = ($event)=>$setup.isFavoriteOnly = $event),
+                    id: "favorite-only",
+                    class: "btn-check",
+                    type: "checkbox",
+                    autocomplete: "off"
+                }, null, 512 /* NEED_PATCH */ ), [
+                    [
+                        (0, _vue.vModelCheckbox),
+                        $setup.isFavoriteOnly
+                    ]
+                ]),
+                _hoisted_5,
+                (0, _vue.withDirectives)((0, _vue.createElementVNode)("input", {
+                    "onUpdate:modelValue": _cache[2] || (_cache[2] = ($event)=>$setup.isFullOnly = $event),
+                    id: "full-only",
+                    class: "btn-check",
+                    type: "checkbox",
+                    autocomplete: "off"
+                }, null, 512 /* NEED_PATCH */ ), [
+                    [
+                        (0, _vue.vModelCheckbox),
+                        $setup.isFullOnly
+                    ]
+                ]),
+                _hoisted_6
             ]),
-            _hoisted_4,
-            (0, _vue.withDirectives)((0, _vue.createElementVNode)("input", {
-                "onUpdate:modelValue": _cache[2] || (_cache[2] = ($event)=>$setup.isFullOnly = $event),
-                class: "form-check-input",
-                value: "",
-                type: "checkbox"
-            }, null, 512 /* NEED_PATCH */ ), [
-                [
-                    (0, _vue.vModelCheckbox),
-                    $setup.isFullOnly
-                ]
-            ]),
-            _hoisted_5,
-            (0, _vue.createElementVNode)("div", _hoisted_6, [
-                _hoisted_7,
+            (0, _vue.createElementVNode)("div", _hoisted_7, [
+                _hoisted_8,
                 (0, _vue.withDirectives)((0, _vue.createElementVNode)("input", {
                     "onUpdate:modelValue": _cache[3] || (_cache[3] = ($event)=>$setup.videoIdSpecify = $event),
                     type: "text",
