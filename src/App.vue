@@ -1,0 +1,39 @@
+<script lang="ts">
+const params = new URLSearchParams(location.search);
+const q = params.get("q");
+</script>
+
+<script lang = "ts" setup>
+import SongTable from "./components/SongTable.vue";
+import Header from "./components/Header.vue";
+import {ref} from "vue";
+
+const keyword = ref(q !== null ? q : "");
+const isFavoriteOnly = ref(false);
+const isFullOnly = ref(false);
+const videoIdSpecify = ref("");
+</script>
+
+<template>
+    <Header />
+    <div class="input-group">
+        <span class="input-group-text">
+            <i class="bi bi-search"></i>
+        </span>
+        <input v-model="keyword" class="form-control" placeholder="キーワードであいまい絞り込み">
+    </div>
+    <div>
+        <div>検索オプション</div>
+        <input v-model="isFavoriteOnly" class="form-check-input" value="" type="checkbox">
+        <label for="favorite-only"><i class="bi bi-heart-fill"></i>のみ</label>
+        <input v-model="isFullOnly" class="form-check-input" value="" type="checkbox">
+        <label for="full-only">フルのみ</label>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="video-id-specify-label">video ID指定</span>
+            <input v-model="videoIdSpecify" type="text" class="form-control" aria-describedby="video-id-specify-label"
+                placeholder="video ID">
+        </div>
+    </div>
+    <SongTable :keyword="keyword" :video-id="videoIdSpecify" :is-full-only="isFullOnly"
+        :is-favorite-only="isFavoriteOnly" />
+</template>
