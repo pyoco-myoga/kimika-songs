@@ -1,10 +1,22 @@
 {
+    "19": [
+        {
+            "uuid": "8a5bafdb-c2a6-464f-93f4-7c0fafaa971e",
+            "name": "あの紙ヒコーキくもり空わって",
+            "video": "1byyvPl_xuE",
+            "t": 5447,
+            "endt": 5514,
+            "length": "short",
+            "SingType": "improvised"
+        }
+    ],
     "aiko": [
         {
             "uuid": "648312d8-8f1e-43fd-8d54-3028617b6e72",
             "name": "カブトムシ",
             "video": "esHHMezfp8Q",
             "t": 3785,
+            "endt": 4119,
             "length": "full",
             "singType": "live"
         }
@@ -15,6 +27,7 @@
             "name": "残響散歌",
             "video": "S3sqt66VpEM",
             "t": 2230,
+            "endt": 2407,
             "length": "full",
             "singType": "live"
         },
@@ -23,6 +36,7 @@
             "name": "残響散歌",
             "video": "BzsK2ZuSKnA",
             "t": 5300,
+            "endt": 5468,
             "length": "full",
             "singType": "known"
         }
@@ -33,6 +47,7 @@
             "name": "1・2・3",
             "video": "1byyvPl_xuE",
             "t": 2882,
+            "endt": 3184,
             "length": "full",
             "singType": "known"
         },
@@ -40,19 +55,28 @@
             "uuid": "36344118-c345-48af-991b-6f24519a5573",
             "name": "1・2・3",
             "video": "hf4Zd-7AIxI",
-            "t": 310
+            "t": 310,
+            "endt": 637,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "c268e53b-0a7d-4a2e-b2e8-6d79d5bd7716",
             "name": "1・2・3",
             "video": "uo3MAj6Df_0",
-            "t": 2565
+            "t": 2565,
+            "endt": 2883,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "722abea4-5f56-458e-9344-3f30e381538f",
             "name": "1・2・3",
             "video": "BzsK2ZuSKnA",
-            "t": 7075
+            "t": 7075,
+            "endt": 7393,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "AKB48": [
@@ -60,43 +84,64 @@
             "uuid": "855de65a-fb10-4680-a075-0a166cc9a912",
             "name": "ヘビーローテーション",
             "video": "2CCEVK-iTBc",
-            "t": 2042
+            "t": 2042,
+            "endt": 2305,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "41ccd970-0b52-4ae8-a95e-0473c486d1b1",
             "name": "ヘビーローテーション",
             "video": "hf4Zd-7AIxI",
-            "t": 5290
+            "t": 5290,
+            "endt": 5562,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "79bbfd2f-a24b-43b1-92ee-173dcdb63c7e",
             "name": "ヘビーローテーション",
             "video": "nt99sMlq34U",
-            "t": 1370
+            "t": 1370,
+            "endt": 1632,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "e36478e8-a1c9-4c97-a535-0ea32e8bc441",
             "name": "ヘビーローテーション",
             "video": "46BxnYxsHoY",
-            "t": 8078
+            "t": 8078,
+            "endt": 8352,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "b4f588eb-7b07-496b-9545-00b14d3067a4",
             "name": "ヘビーローテーション",
             "video": "3Vx8BIGWUUc",
-            "t": 5097
+            "t": 5086,
+            "endt": 5373,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "5f5186c1-1d3d-40b4-ac9b-f0b022c83d04",
             "name": "恋するフォーチュンクッキー",
             "video": "hf4Zd-7AIxI",
-            "t": 4896
+            "t": 4896,
+            "endt": 5122,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "0fa33ed2-c042-4792-b788-d42651af5886",
             "name": "恋するフォーチュンクッキー",
             "video": "46BxnYxsHoY",
-            "t": 6508
+            "t": 6508,
+            "endt": 6748,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "andymori": [
@@ -105,6 +150,7 @@
             "name": "1984",
             "video": "2rnFJQe8jho",
             "t": 1583,
+            "endt": 1851,
             "length": "full",
             "singType": "live"
         },
@@ -113,6 +159,7 @@
             "name": "革命",
             "video": "S3MIqRXp9uk",
             "t": 210,
+            "endt": 312,
             "length": "full",
             "singType": "known"
         }
@@ -123,6 +170,7 @@
             "name": "リライト",
             "video": "1byyvPl_xuE",
             "t": 690,
+            "endt": 803,
             "length": "short",
             "singType": "improvised"
         }
@@ -133,6 +181,7 @@
             "name": "クリスマスソング",
             "video": "nxzhrq4bEyU",
             "t": 1540,
+            "endt": 1862,
             "length": "full",
             "singType": "live"
         }
@@ -143,6 +192,7 @@
             "name": "赤いタンバリン",
             "video": "2rnFJQe8jho",
             "t": 1182,
+            "endt": 1407,
             "length": "full",
             "singType": "live"
         }
@@ -152,7 +202,10 @@
             "uuid": "c3e2bdee-de7e-4f61-b725-84ca9e79bcfe",
             "name": "ポラリス",
             "video": "nxzhrq4bEyU",
-            "t": 5409
+            "t": 5409,
+            "endt": 5422,
+            "length": "short",
+            "singType": "improvised"
         }
     ],
     "BUMP OF CHICKEN": [
@@ -161,6 +214,7 @@
             "name": "ダイヤモンド",
             "video": "1byyvPl_xuE",
             "t": 3331,
+            "endt": 3431,
             "length": "short",
             "singType": "improvised"
         },
@@ -169,6 +223,7 @@
             "name": "車輪の唄",
             "video": "1byyvPl_xuE",
             "t": 3825,
+            "endt": 4096,
             "length": "full",
             "singType": "improvised"
         },
@@ -177,6 +232,7 @@
             "name": "カルマ",
             "video": "1byyvPl_xuE",
             "t": 5650,
+            "endt": 5716,
             "length": "short",
             "singType": "improvised"
         },
@@ -185,6 +241,7 @@
             "name": "カルマ",
             "video": "hf4Zd-7AIxI",
             "t": 6606,
+            "endt": 6678,
             "length": "short",
             "singType": "improvised"
         },
@@ -192,8 +249,9 @@
             "uuid": "702a59b9-9fa4-4e00-8eee-180055524637",
             "name": "天体観測",
             "video": "1byyvPl_xuE",
-            "t": 6150,
-            "length": "short",
+            "t": 6148,
+            "endt": 6387,
+            "length": "full",
             "singType": "improvised"
         },
         {
@@ -201,6 +259,7 @@
             "name": "天体観測",
             "video": "BkSrCEvv0YE",
             "t": 5737,
+            "endt": 5837,
             "length": "short",
             "singType": "improvised"
         },
@@ -209,6 +268,7 @@
             "name": "ダンデライオン",
             "video": "BkSrCEvv0YE",
             "t": 5487,
+            "endt": 5660,
             "length": "full",
             "singType": "improvised"
         },
@@ -217,6 +277,7 @@
             "name": "ダンデライオン",
             "video": "3Vx8BIGWUUc",
             "t": 3718,
+            "endt": 3872,
             "length": "full",
             "singType": "known"
         },
@@ -224,19 +285,26 @@
             "uuid": "a0b1d738-10b5-4750-be9d-4f5c13700b13",
             "name": "スノースマイル",
             "video": "nxzhrq4bEyU",
-            "t": 6162
+            "t": 6162,
+            "endt": 6273,
+            "length": "short",
+            "singType": "improvised"
         },
         {
             "uuid": "abdc9494-e36e-4662-aace-d9f832fa2889",
             "name": "メロディーフラッグ",
             "video": "2CCEVK-iTBc",
-            "t": 6290
+            "t": 6290,
+            "endt": 6403,
+            "length": "short",
+            "singType": "improvised"
         },
         {
             "uuid": "16aa73fc-1acd-4c0b-968c-7d54a845b55e",
             "name": "ガラスのブルース",
             "video": "hf4Zd-7AIxI",
             "t": 6156,
+            "endt": 6473,
             "length": "full",
             "singType": "known"
         },
@@ -245,6 +313,7 @@
             "name": "ガラスのブルース",
             "video": "46BxnYxsHoY",
             "t": 9624,
+            "endt": 9950,
             "length": "full",
             "singType": "known"
         },
@@ -252,25 +321,35 @@
             "uuid": "3ba1bedf-65e7-4014-a8d4-2422ea79c181",
             "name": "K",
             "video": "cNSV4Q_U5Ww",
-            "t": 5255
+            "t": 5255,
+            "endt": 5470,
+            "length": "full",
+            "singType": "improvised"
         },
         {
             "uuid": "9797fbad-28bd-4ce8-948e-f49bf5147bac",
             "name": "Laugh Maker",
             "video": "cNSV4Q_U5Ww",
-            "t": 5645
+            "t": 5645,
+            "endt": 5874,
+            "length": "full",
+            "singType": "improvised"
         },
         {
             "uuid": "94019076-bf73-4150-88a2-0af71e2a826f",
             "name": "Danny",
             "video": "uo3MAj6Df_0",
-            "t": 1710
+            "t": 1710,
+            "endt": 1877,
+            "length": "full",
+            "singType": "improvised"
         },
         {
             "uuid": "5100363c-eab4-4869-a0c2-4edde72d8131",
             "name": "Acacia",
             "video": "BzsK2ZuSKnA",
             "t": 5820,
+            "endt": 5931,
             "length": "short",
             "singType": "improvised"
         },
@@ -278,13 +357,17 @@
             "uuid": "bb147a0e-e2b7-4a80-a512-8a73446946f9",
             "name": "才悩人応援歌",
             "video": "NjbveAjFVao",
-            "t": 4134
+            "t": 4134,
+            "endt": 4246,
+            "length": "short",
+            "singType": "improvised"
         },
         {
             "uuid": "359a3ec0-fb9e-44dc-9a7e-8687729b00c5",
             "name": "新世界",
             "video": "jQaB4I_mKY0",
             "t": 1794,
+            "endt": 2011,
             "length": "full",
             "singType": "live"
         },
@@ -293,6 +376,7 @@
             "name": "新世界",
             "video": "KmHjt5FD0Rs",
             "t": 10985,
+            "endt": 11217,
             "length": "full",
             "singType": "known"
         },
@@ -300,13 +384,17 @@
             "uuid": "c392694f-b1c1-4b85-bb93-ac9ba78665a6",
             "name": "かさぶたぶたぶ",
             "video": "v3MocqSjBL4",
-            "t": 7971
+            "t": 7971,
+            "endt": 8143,
+            "length": "full",
+            "singType": "improvised"
         },
         {
             "uuid": "2cdebc84-73c7-4a48-a2ae-090179c9640e",
             "name": "ランプ",
             "video": "KmHjt5FD0Rs",
             "t": 4021,
+            "endt": 4130,
             "length": "short",
             "singType": "improvised"
         }
@@ -393,7 +481,7 @@
             "name": "Stand by Me",
             "video": "v3MocqSjBL4",
             "t": 1449,
-            "length": "full",
+            "length": "short",
             "singType": "improvised"
         },
         {
@@ -416,7 +504,9 @@
             "uuid": "e6d677f1-2a09-480b-b2d3-6fbb452c7d36",
             "name": "若者たち",
             "video": "Mve6gP5bGPQ",
-            "t": 1143
+            "t": 1143,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "GO!GO!7188": [
@@ -454,7 +544,9 @@
             "uuid": "ac89f1b6-45e0-40ae-8aed-122e990207db",
             "name": "チョコレィト",
             "video": "jQaB4I_mKY0",
-            "t": 3484
+            "t": 3484,
+            "length": "full",
+            "singType": "live"
         }
     ],
     "Hi-STANDARD": [
@@ -1136,16 +1228,6 @@
             "t": 9965
         }
     ],
-    "19": [
-        {
-            "uuid": "8a5bafdb-c2a6-464f-93f4-7c0fafaa971e",
-            "name": "あの紙ヒコーキくもり空わって",
-            "video": "1byyvPl_xuE",
-            "t": 5447,
-            "length": "short",
-            "SingType": "improvised"
-        }
-    ],
     "あいみょん": [
         {
             "uuid": "21ecc11e-cbc7-443b-b308-4a53a6dc1922",
@@ -1337,7 +1419,9 @@
             "uuid": "d29dc0cc-1d21-4aea-8093-5c80afdf739a",
             "name": "婦rick裸にて",
             "video": "jQaB4I_mKY0",
-            "t": 1338
+            "t": 1338,
+            "length": "full",
+            "singType": "live"
         },
         {
             "uuid": "7cbab69d-4677-494d-87d8-6f9e697d7acf",
@@ -1576,7 +1660,9 @@
             "uuid": "127e56d6-5391-4dc1-ab7c-5338389c2570",
             "name": "ミルクリスピー",
             "video": "jQaB4I_mKY0",
-            "t": 826
+            "t": 826,
+            "length": "full",
+            "singType": "live"
         }
     ],
     "クロマニヨンズ": [
@@ -1746,7 +1832,9 @@
             "uuid": "81dc384f-7e67-4431-82e3-e83e6cf8fccb",
             "name": "お願いマッスル",
             "video": "jQaB4I_mKY0",
-            "t": 4551
+            "t": 4551,
+            "length": "full",
+            "singType": "live"
         },
         {
             "uuid": "641a83a5-9e17-4bfd-b942-69ff64fe0f98",
