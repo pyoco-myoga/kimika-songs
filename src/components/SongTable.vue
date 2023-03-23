@@ -55,16 +55,17 @@ const addOrRemoveFavorite = (uuid: string) => {
 };
 
 const isDisplay = (song: Song): boolean => {
+    let display = true;
     if (props.isFullOnly) {
-        return song.length === "full";
-    } else if (props.videoId !== "") {
-        return song.video === props.videoId;
-    } else if (props.isFavoriteOnly) {
-        return favoriteSongsUUID.value.has(song.uuid);
+        display &&= song.length === "full";
     }
-    else {
-        return true;
+    if (props.videoId !== "") {
+        display &&= song.video === props.videoId;
     }
+    if (props.isFavoriteOnly) {
+        display &&= favoriteSongsUUID.value.has(song.uuid);
+    }
+    return display;
 };
 </script>
 
