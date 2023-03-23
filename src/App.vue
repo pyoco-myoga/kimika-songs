@@ -16,18 +16,23 @@ const videoIdSpecify = ref("");
 
 <template>
     <Header />
-    <div class="input-group">
+    <div class="input-group mb-3">
         <span class="input-group-text">
             <i class="bi bi-search"></i>
         </span>
         <input v-model="keyword" class="form-control" placeholder="キーワードであいまい絞り込み">
     </div>
     <div>
-        <div>検索オプション</div>
-        <input v-model="isFavoriteOnly" class="form-check-input" value="" type="checkbox">
-        <label for="favorite-only"><i class="bi bi-heart-fill"></i>のみ</label>
-        <input v-model="isFullOnly" class="form-check-input" value="" type="checkbox">
-        <label for="full-only">フルのみ</label>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text">検索オプション</span>
+            <input v-model="isFavoriteOnly" id="favorite-only" class="btn-check" type="checkbox" autocomplete="off">
+            <label class="btn btn-outline-secondary" for="favorite-only"><i class="bi bi-heart-fill" />のみ</label>
+
+            <input v-model="isFullOnly" id="full-only" class="btn-check" type="checkbox" autocomplete="off">
+            <label class="btn btn-outline-secondary" for="full-only">フルのみ</label>
+        </div>
+
         <div class="input-group mb-3">
             <span class="input-group-text" id="video-id-specify-label">video ID指定</span>
             <input v-model="videoIdSpecify" type="text" class="form-control" aria-describedby="video-id-specify-label"
