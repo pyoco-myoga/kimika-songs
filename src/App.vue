@@ -15,8 +15,9 @@ const videoIdSpecify = ref("");
 </script>
 
 <template>
+    <notifications position="bottom right" />
     <Header />
-    <div class="input-group mb-3">
+    <div class="input-group mb-2">
         <span class="input-group-text">
             <i class="bi bi-search"></i>
         </span>
@@ -24,7 +25,7 @@ const videoIdSpecify = ref("");
     </div>
     <div>
 
-        <div class="input-group mb-3">
+        <div class="input-group mb-2">
             <span class="input-group-text">検索オプション</span>
             <input v-model="isFavoriteOnly" id="favorite-only" class="btn-check" type="checkbox" autocomplete="off">
             <label class="btn btn-outline-secondary" for="favorite-only"><i class="bi bi-heart-fill" />のみ</label>
