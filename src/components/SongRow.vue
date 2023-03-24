@@ -16,7 +16,7 @@ const changeFavorite = (uuid: string): void => {
     emit("changeFavoriteEvent", uuid);
 };
 const shareButtonEvent = async () => {
-    await navigator.clipboard.writeText(`[${props.name}(${props.artist})](${youtubeURL})`);
+    await navigator.clipboard.writeText(`${props.name}/${props.artist}: ${youtubeURL}`);
     notify({title: `クリップボードにコピーしました<br>${props.name}(${props.artist})`});
 };
 </script>
