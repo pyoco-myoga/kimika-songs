@@ -588,6 +588,14 @@
             "singType": "improvised"
         }
     ],
+    "halyosy": [
+        {
+            "uuid": "386dfca4-49a5-427e-acda-92b50284c420",
+            "name": "桜ノ雨",
+            "video": "XqfzGDQWyow",
+            "t": 2150
+        }
+    ],
     "Helsinki Lambda Club": [
         {
             "uuid": "ac89f1b6-45e0-40ae-8aed-122e990207db",
@@ -1249,6 +1257,12 @@
             "name": "JAM",
             "video": "46BxnYxsHoY",
             "t": 2017
+        },
+        {
+            "uuid": "e079acf5-3100-4a20-9ee8-216f2230daba",
+            "name": "プライマル。",
+            "video": "XqfzGDQWyow",
+            "t": 846
         }
     ],
     "the peggies": [
@@ -1349,6 +1363,16 @@
             "name": "天城越え",
             "video": "S3sqt66VpEM",
             "t": 939
+        }
+    ],
+    "乙女新党": [
+        {
+            "uuid": "b51490f9-adb0-4d8f-8abc-dca464714234",
+            "name": "サクラカウントダウン",
+            "video": "XqfzGDQWyow",
+            "t": 1440,
+            "length": "short",
+            "singType": "live"
         }
     ],
     "オーキド博士とポケモンキッズ": [
@@ -1521,6 +1545,14 @@
             "t": 8802
         },
         {
+            "uuid": "d2a04123-14cf-41bc-b6c5-8c56ac666675",
+            "name": "卒業",
+            "video": "XqfzGDQWyow",
+            "t": 2764,
+            "length": "full",
+            "singType": "live"
+        },
+        {
             "uuid": "ebb0ced5-db4f-4e83-9a82-04243d16e998",
             "name": "雪どけ",
             "video": "esHHMezfp8Q",
@@ -1632,6 +1664,12 @@
             "name": "人間",
             "video": "Mve6gP5bGPQ",
             "t": 2058
+        },
+        {
+            "uuid": "5e72225e-847a-4cbe-a055-c9e5ea3e3636",
+            "name": "青春時代",
+            "video": "XqfzGDQWyow",
+            "t": 4126
         }
     ],
     "グッチ裕三&グッチーズ": [
@@ -1806,12 +1844,20 @@
             "t": 2049
         }
     ],
-    "さくら学院": [
+    "坂本浩美": [
         {
             "uuid": "388d3e93-f410-4cb0-81f8-0987af532707",
             "name": "旅立ちの日に",
             "video": "KmHjt5FD0Rs",
             "t": 2444
+        },
+        {
+            "uuid": "262703ae-a7b0-4ea2-877f-29c413c27593",
+            "name": "旅立ちの日に",
+            "video": "XqfzGDQWyow",
+            "t": 357,
+            "length": "full",
+            "singType": "live"
         }
     ],
     "紗倉ひびき&街雄鳴造": [
@@ -2292,6 +2338,12 @@
             "name": "卒業写真",
             "video": "Mve6gP5bGPQ",
             "t": 1636
+        },
+        {
+            "uuid": "96f9c251-97ca-4a14-9387-4104bab6bc7d",
+            "name": "卒業写真",
+            "video": "XqfzGDQWyow",
+            "t": 3482
         }
     ],
     "松本梨香": [

@@ -11,6 +11,7 @@ export interface Song {
     name: string;
     video: string;
     t: number;
+    endt?: number;
     length?: Length;
     SingType?: SingType;
 }
