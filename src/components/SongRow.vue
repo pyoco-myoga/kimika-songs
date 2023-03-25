@@ -34,8 +34,12 @@ const shareButtonEvent = async () => {
                 <i v-if="props.isFull" class='bi bi-star' />
             </a>
             <div class="input-group mb-2">
-                <a class="bi bi-youtube btn btn-outline-secondary" v-bind:href="youtubeURL" />
-                <i class="bi bi-share btn btn-outline-secondary" @click="shareButtonEvent" />
+                <a class="btn btn-outline-secondary" v-bind:href="youtubeURL">
+                    <i class="bi bi-youtube text-danger" />
+                </a>
+                <a class="btn btn-outline-secondary" @click="shareButtonEvent">
+                    <i class="bi bi-share text-info" />
+                </a>
             </div>
         </td>
         <td>{{ props.artist }}</td>

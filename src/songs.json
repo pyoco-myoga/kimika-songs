@@ -404,15 +404,28 @@
             "uuid": "a895f511-bc7b-4dd4-aab1-5c4646585855",
             "name": "いつかのメリークリスマス",
             "video": "nxzhrq4bEyU",
-            "t": 4629
+            "t": 4629,
+            "endt": 4653,
+            "length": "short",
+            "singType": "improvised"
         }
     ],
     "CHICO with HoneyWorks": [
+        {
+            "uuid": "4271714a-506d-4e1e-b3d9-5e3c0fa44a08",
+            "name": "私、アイドル宣言",
+            "video": "ACGj4GM8YpI",
+            "t": 163,
+            "endt": 350,
+            "length": "short",
+            "singType": "known"
+        },
         {
             "uuid": "8f395dcd-29a3-47a0-ac2c-db4ae67b9847",
             "name": "私、アイドル宣言",
             "video": "SAN-CAqkp-c",
             "t": 3357,
+            "endt": 3606,
             "length": "full",
             "singType": "known"
         },
@@ -420,7 +433,10 @@
             "uuid": "dffbf051-0676-46b8-9b2b-4f3efce6b111",
             "name": "私、アイドル宣言",
             "video": "Mve6gP5bGPQ",
-            "t": 2987
+            "t": 2987,
+            "endt": 3236,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "ClariS": [
@@ -428,7 +444,10 @@
             "uuid": "fb0f599b-cf33-4ad3-ad82-b5205a29b264",
             "name": "コネクト",
             "video": "3Vx8BIGWUUc",
-            "t": 2037
+            "t": 2037,
+            "endt": 2305,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "Cygames": [
@@ -436,19 +455,28 @@
             "uuid": "e59fdede-965b-4fdc-9f53-6e82f3e2bcf3",
             "name": "うまぴょい伝説",
             "video": "NjbveAjFVao",
-            "t": 3483
+            "t": 3483,
+            "endt": 3524,
+            "length": "short",
+            "singType": "improvised"
         },
         {
             "uuid": "9c8bef2d-4f8c-4d5f-b011-636361dfd74a",
             "name": "うまぴょい伝説",
             "video": "46BxnYxsHoY",
-            "t": 2628
+            "t": 2628,
+            "endt": 2666,
+            "length": "short",
+            "singType": "improvised"
         },
         {
             "uuid": "eab62c41-8f3b-455b-8905-b14c94219a6d",
             "name": "うまぴょい伝説",
             "video": "3Vx8BIGWUUc",
-            "t": 9542
+            "t": 9542,
+            "endt": 9658,
+            "length": "short",
+            "singType": "improvised"
         }
     ],
     "DALI": [
@@ -456,7 +484,10 @@
             "uuid": "715e66e2-fa33-48df-a423-a28f30f8dc19",
             "name": "ムーンライト伝説",
             "video": "BzsK2ZuSKnA",
-            "t": 1630
+            "t": 1630,
+            "endt": 1794,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "Dream5": [
@@ -464,7 +495,10 @@
             "uuid": "86cb539b-1ddd-43ce-98ce-b522e222806e",
             "name": "ようかい体操第一",
             "video": "uo3MAj6Df_0",
-            "t": 6047
+            "t": 6056,
+            "endt": 6071,
+            "length": "short",
+            "singType": "improvised"
         }
     ],
     "GOING STEADY": [
@@ -473,6 +507,7 @@
             "name": "銀河鉄道の夜",
             "video": "hf4Zd-7AIxI",
             "t": 2417,
+            "endt": 2727,
             "length": "full",
             "singType": "improvised"
         },
@@ -481,6 +516,7 @@
             "name": "Stand by Me",
             "video": "v3MocqSjBL4",
             "t": 1449,
+            "endt": 1600,
             "length": "short",
             "singType": "improvised"
         },
@@ -489,6 +525,7 @@
             "name": "YOU&I",
             "video": "3Vx8BIGWUUc",
             "t": 6717,
+            "endt": 6939,
             "length": "full",
             "singType": "known"
         },
@@ -497,6 +534,7 @@
             "name": "Don't Trust Over Thirty",
             "video": "Mve6gP5bGPQ",
             "t": 316,
+            "endt": 507,
             "length": "full",
             "singType": "known"
         },
@@ -505,6 +543,7 @@
             "name": "若者たち",
             "video": "Mve6gP5bGPQ",
             "t": 1143,
+            "endt": 1427,
             "length": "full",
             "singType": "known"
         }
@@ -514,13 +553,17 @@
             "uuid": "fb73adb8-2ae6-4809-b3d4-f59bf5c3be8f",
             "name": "C7",
             "video": "cNSV4Q_U5Ww",
-            "t": 828
+            "t": 829,
+            "endt": 1097,
+            "length": "full",
+            "singType": "live"
         },
         {
             "uuid": "33809b3f-6ea7-4528-9554-41fb292afe25",
             "name": "こいのうた",
             "video": "2rnFJQe8jho",
             "t": 2062,
+            "endt": 2416,
             "length": "full",
             "singType": "live"
         }
@@ -530,13 +573,19 @@
             "uuid": "1d681e4d-4a3b-4b61-878e-d511a365e428",
             "name": "愛唄",
             "video": "BkSrCEvv0YE",
-            "t": 2141
+            "t": 1840,
+            "endt": 1902,
+            "length": "short",
+            "singType": "improvised"
         },
         {
             "uuid": "e2454f76-c487-4e25-bf0d-eec346110f64",
             "name": "キセキ",
             "video": "uo3MAj6Df_0",
-            "t": 1244
+            "t": 1244,
+            "endt": 1355,
+            "length": "short",
+            "singType": "improvised"
         }
     ],
     "Helsinki Lambda Club": [
@@ -545,6 +594,7 @@
             "name": "チョコレィト",
             "video": "jQaB4I_mKY0",
             "t": 3484,
+            "endt": 3694,
             "length": "full",
             "singType": "live"
         }
@@ -555,6 +605,7 @@
             "name": "Happy Xmas(War Is Over)",
             "video": "nxzhrq4bEyU",
             "t": 2742,
+            "endt": 2890,
             "length": "full",
             "singType": "live"
         },
@@ -563,6 +614,7 @@
             "name": "MY FIRST KISS",
             "video": "2rnFJQe8jho",
             "t": 502,
+            "endt": 704,
             "length": "full",
             "singType": "live"
         },
@@ -571,6 +623,7 @@
             "name": "MY FIRST KISS",
             "video": "3Vx8BIGWUUc",
             "t": 517,
+            "endt": 720,
             "length": "full",
             "singType": "known"
         }
