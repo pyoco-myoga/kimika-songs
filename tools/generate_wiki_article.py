@@ -3,7 +3,7 @@ import os
 import json
 
 if __name__ == "__main__":
-    article = "{|class=\"filter sort edit\"\n"
+    article = """{|class="filter sort edit"\n|~曲名|アーティスト|\n"""
     with open("./src/songs.json") as f:
         data = json.load(f)
     for artist in data:
