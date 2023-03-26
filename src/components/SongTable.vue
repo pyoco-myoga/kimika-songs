@@ -90,10 +90,12 @@ const isDisplay = (song: Song): boolean => {
             </template>
             <template v-else>
                 <template v-for="result of fuse.search(props.keyword)">
-                    <SongRow :uuid="result.item.song.uuid" :video="result.item.song.video" :artist="result.item.artist"
-                        :name="result.item.song.name" :t="result.item.song.t"
-                        :is-favorite="favoriteSongsUUID.has(result.item.song.uuid)"
-                        :is-full="result.item.song.length === 'full'" @change-favorite-event="addOrRemoveFavorite" />
+                    <template v-if="isDisplay(result.item.song)">
+                        <SongRow :uuid="result.item.song.uuid" :video="result.item.song.video" :artist="result.item.artist"
+                            :name="result.item.song.name" :t="result.item.song.t"
+                            :is-favorite="favoriteSongsUUID.has(result.item.song.uuid)"
+                            :is-full="result.item.song.length === 'full'" @change-favorite-event="addOrRemoveFavorite" />
+                    </template>
                 </template>
 
             </template>
