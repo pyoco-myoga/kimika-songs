@@ -35,9 +35,9 @@ const videoIdSpecify = ref("");
         </div>
 
         <div class="input-group mb-3">
-            <span class="input-group-text" id="video-id-specify-label">video ID指定</span>
+            <span class="input-group-text" id="video-id-specify-label">video ID</span>
             <input v-model="videoIdSpecify" type="text" class="form-control" aria-describedby="video-id-specify-label"
-                placeholder="video ID">
+                placeholder="YouTubeリンク または video ID">
         </div>
     </div>
     <SongTable :keyword="keyword" :video-id="videoIdSpecify" :is-full-only="isFullOnly"

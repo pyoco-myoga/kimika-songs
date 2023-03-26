@@ -54,13 +54,23 @@ const addOrRemoveFavorite = (uuid: string) => {
         JSON.stringify([...favoriteSongsUUID.value]), {expires: COOKIE_EXPIRES, sameSite: "strict"});
 };
 
+const isVideoIdRegex = /^[a-zA-Z0-9_-]{11}$/;
+const extractVideoIdRegex = /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/(?:watch\?v=|embed\/|v\/|shorts\/)|youtu\.be\/|youtube\.com\/shorts\/)([^\s&?]+)/;
+
 const isDisplay = (song: Song): boolean => {
     let display = true;
     if (props.isFullOnly) {
         display &&= song.length === "full";
     }
     if (props.videoId !== "") {
-        display &&= song.video === props.videoId;
+        if (isVideoIdRegex.test(props.videoId)) {
+            display &&= song.video === props.videoId;
+        } else {
+            const match = props.videoId.match(extractVideoIdRegex);
+            if (match && match.length >= 1) {
+                display &&= song.video === match[1];
+            }
+        }
     }
     if (props.isFavoriteOnly) {
         display &&= favoriteSongsUUID.value.has(song.uuid);
