@@ -90,7 +90,7 @@ const isDisplay = (song: Song): boolean => {
         </thead>
         <tbody>
             <template v-if="props.keyword === ''">
-                <template v-for="{artist, song} of songsList">
+                <template v-for="{artist, song} of songsList" :key="song.uuid">
                     <template v-if="isDisplay(song)">
                         <SongRow :uuid="song.uuid" :video="song.video" :artist="artist" :name="song.name" :t="song.t"
                             :is-favorite="favoriteSongsUUID.has(song.uuid)" :is-full="song.length === 'full'"
@@ -99,7 +99,7 @@ const isDisplay = (song: Song): boolean => {
                 </template>
             </template>
             <template v-else>
-                <template v-for="result of fuse.search(props.keyword)">
+                <template v-for="result of fuse.search(props.keyword)" :key="result.item.song.uuid">
                     <template v-if="isDisplay(result.item.song)">
                         <SongRow :uuid="result.item.song.uuid" :video="result.item.song.video" :artist="result.item.artist"
                             :name="result.item.song.name" :t="result.item.song.t"
