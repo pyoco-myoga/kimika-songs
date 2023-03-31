@@ -19,6 +19,15 @@
             "endt": 4119,
             "length": "full",
             "singType": "live"
+        },
+        {
+            "uuid": "72005ffc-5929-4a33-9103-7af9563a0fe4",
+            "name": "カブトムシ",
+            "video": "fHQ5MV-mLKw",
+            "t": 2347,
+            "endt": 2649,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "Aimer": [
@@ -397,6 +406,15 @@
             "endt": 4130,
             "length": "short",
             "singType": "improvised"
+        },
+        {
+            "uuid": "e26e14ea-c8e4-47a3-a63e-01c7efc51105",
+            "name": "東京賛歌",
+            "video": "fHQ5MV-mLKw",
+            "t": 733,
+            "endt": 942,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "B'z": [
@@ -594,6 +612,15 @@
             "name": "桜ノ雨",
             "video": "XqfzGDQWyow",
             "t": 2150
+        },
+        {
+            "uuid": "f0b256b3-ee65-49ac-bcfb-8824cf40dd07",
+            "name": "桜ノ雨",
+            "video": "fHQ5MV-mLKw",
+            "t": 1548,
+            "endt": 1780,
+            "length": "short",
+            "singType": "known"
         }
     ],
     "Helsinki Lambda Club": [
@@ -634,6 +661,15 @@
             "endt": 720,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "ca8bbf90-000b-42dd-8c1e-8ca29178e8fe",
+            "name": "MY FIRST KISS",
+            "video": "fHQ5MV-mLKw",
+            "t": 5673,
+            "endt": 5871,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "HoneyWorks": [
@@ -641,50 +677,73 @@
             "uuid": "0bb6eab9-7937-4485-a459-131c2906fc10",
             "name": "可愛くてごめん",
             "video": "1byyvPl_xuE",
-            "t": 1192
+            "t": 1192,
+            "endt": 1447,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "68dc48c7-fc49-4358-b426-723325510ab0",
             "name": "可愛くてごめん",
             "video": "BzsK2ZuSKnA",
-            "t": 6623
+            "t": 6623,
+            "endt": 6832,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "c3460ed2-0df3-4b67-93f7-6b53c9092472",
             "name": "可愛くてごめん",
             "video": "nt99sMlq34U",
-            "t": 4133
+            "t": 4133,
+            "endt": 4346,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "afa8a7ad-d036-4d45-86c3-9d8bace2299d",
             "name": "可愛くてごめん",
             "video": "NjbveAjFVao",
-            "t": 5498
+            "t": 5498,
+            "endt": 5756,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "d4b29f7b-5f44-4f35-97ed-8192bb79f93f",
             "name": "可愛くてごめん",
             "video": "46BxnYxsHoY",
-            "t": 12281
+            "t": 12281,
+            "endt": 12506,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "2f880769-daac-4fb4-a916-48fb2daec382",
             "name": "可愛くてごめん",
             "video": "BeN6F27xYEE",
             "t": 0,
-            "length": "full"
+            "endt": 214,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "79c68c61-efac-4e9d-8285-0d027f7406a4",
             "name": "野太くてごめん",
             "video": "2CCEVK-iTBc",
-            "t": 1855
+            "t": 1855,
+            "endt": 1919,
+            "length": "short",
+            "singType": "known"
         },
         {
             "uuid": "3992884b-e0f0-425e-8a90-525b4f359465",
             "name": "月曜日の憂鬱",
             "video": "Mve6gP5bGPQ",
-            "t": 4498
+            "t": 4498,
+            "endt": 4696,
+            "length": "short",
+            "singType": "known"
         }
     ],
     "JUDY AND MARY": [
@@ -759,6 +818,17 @@
             "name": "酔いどれ知らず",
             "video": "NjbveAjFVao",
             "t": 3135
+        }
+    ],
+    "Ken Yokoyama": [
+        {
+            "uuid": "36ea7488-c73d-4fbd-ac46-c7a5b5f61ae9",
+            "name": "I Go Alone",
+            "video": "fHQ5MV-mLKw",
+            "t": 6040,
+            "endt": 6168,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "Kinki Kids": [
@@ -1262,7 +1332,18 @@
             "uuid": "e079acf5-3100-4a20-9ee8-216f2230daba",
             "name": "プライマル。",
             "video": "XqfzGDQWyow",
-            "t": 846
+            "t": 846,
+            "length": "full",
+            "singType": "live"
+        },
+        {
+            "uuid": "62e0af60-b01b-4158-a0f7-897d1953f502",
+            "name": "プライマル。",
+            "video": "fHQ5MV-mLKw",
+            "t": 4347,
+            "endt": 4518,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "the peggies": [
@@ -1455,6 +1536,15 @@
             "name": "ニャースのうた",
             "video": "2CCEVK-iTBc",
             "t": 4355
+        },
+        {
+            "uuid": "46586d2d-7a2f-4636-9cec-6ded3d090cdf",
+            "name": "ニャースのうた",
+            "video": "fHQ5MV-mLKw",
+            "t": 5161,
+            "endt": 5326,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "井上あずみ": [
@@ -1511,6 +1601,15 @@
             "name": "ノスタルジックJ-pop",
             "video": "Mve6gP5bGPQ",
             "t": 3987
+        },
+        {
+            "uuid": "1fb02841-953b-4880-9829-d45cbe77d10f",
+            "name": "絶対少女",
+            "video": "fHQ5MV-mLKw",
+            "t": 3952,
+            "endt": 4125,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "海援隊": [
@@ -1589,6 +1688,24 @@
             "name": "祭りの準備",
             "video": "Mve6gP5bGPQ",
             "t": 5403
+        },
+        {
+            "uuid": "af6c9b1c-f24e-4a82-a664-760976a1e669",
+            "name": "はじめて君としゃべった",
+            "video": "fHQ5MV-mLKw",
+            "t": 6700,
+            "endt": 6913,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "d2b1ac4a-1243-44b4-b34b-27d6962d31f0",
+            "name": "忘れられない日々",
+            "video": "fHQ5MV-mLKw",
+            "t": 7045,
+            "endt": 7243,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "上白石萌歌": [
@@ -1611,6 +1728,17 @@
             "name": "旅立ちの日に…",
             "video": "3Vx8BIGWUUc",
             "t": 8800
+        }
+    ],
+    "きのこ帝国": [
+        {
+            "uuid": "72e55040-b639-4300-90f7-fb3877aa2cf9",
+            "name": "東京",
+            "video": "fHQ5MV-mLKw",
+            "t": 1093,
+            "endt": 1333,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "銀杏BOYZ": [
@@ -1744,6 +1872,15 @@
             "name": "千本桜",
             "video": "BzsK2ZuSKnA",
             "t": 4360
+        },
+        {
+            "uuid": "04232dcf-fc3e-4238-982c-82b9c58b46d8",
+            "name": "千本桜",
+            "video": "fHQ5MV-mLKw",
+            "t": 1924,
+            "endt": 2138,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "クリープハイプ": [
@@ -1942,6 +2079,17 @@
             "t": 750
         }
     ],
+    "さくらみこ・兎田ぺこら": [
+        {
+            "uuid": "02ff7a58-7d5d-48bd-bd7e-730c73c94eaf",
+            "name": "モッシュレース",
+            "video": "fHQ5MV-mLKw",
+            "t": 391,
+            "endt": 489,
+            "length": "short",
+            "singType": "known"
+        }
+    ],
     "サザンオールスターズ": [
         {
             "uuid": "055bb825-de30-4add-bd1f-e2f4dc98e402",
@@ -2064,6 +2212,17 @@
             "name": "お正月",
             "video": "2CCEVK-iTBc",
             "t": 317
+        }
+    ],
+    "チェリッシュ": [
+        {
+            "uuid": "4eae4f5e-4880-47a3-babf-e0abb7502c26",
+            "name": "てんとう虫のサンバ",
+            "video": "fHQ5MV-mLKw",
+            "t": 3547,
+            "endt": 3659,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "チャットモンチー": [
@@ -2190,6 +2349,15 @@
             "name": "ハム太郎とっとこうた",
             "video": "KmHjt5FD0Rs",
             "t": 10103
+        },
+        {
+            "uuid": "226f855e-ee5d-44b9-bfb2-ad08ec1fd954",
+            "name": "ハム太郎とっとこうた",
+            "video": "fHQ5MV-mLKw",
+            "t": 5542,
+            "endt": 5601,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "氷川きよし": [
@@ -2306,12 +2474,34 @@
             "t": 7352
         }
     ],
+    "ポルノグラフィティ": [
+        {
+            "uuid": "640a23d8-9325-47ef-aedc-d37115ca4be4",
+            "name": "アゲハ蝶",
+            "video": "fHQ5MV-mLKw",
+            "t": 3083,
+            "endt": 3355,
+            "length": "full",
+            "singType": "improvised"
+        }
+    ],
     "マキシマムザホルモン": [
         {
             "uuid": "504c9f24-8d07-465f-857a-f7785b8e22db",
             "name": "恋のメガラバ",
             "video": "2CCEVK-iTBc",
             "t": 4623
+        }
+    ],
+    "増子とし・本多鉄麿": [
+        {
+            "uuid": "f657bcca-9ca9-4e81-95c7-0a21b933b46e",
+            "name": "おもいでのアルバム ver. きみか",
+            "video": "daqna2Ylk_c",
+            "t": 56,
+            "endt": 103,
+            "length": "short",
+            "singType": "known"
         }
     ],
     "松任谷由実": [
@@ -2364,6 +2554,15 @@
             "name": "めざせポケモンマスター",
             "video": "Mve6gP5bGPQ",
             "t": 3457
+        },
+        {
+            "uuid": "5b6b9c0d-50f0-46e3-9cbd-2dc9608e7c5b",
+            "name": "めざせポケモンマスター",
+            "video": "fHQ5MV-mLKw",
+            "t": 4804,
+            "endt": 5048,
+            "length": "full",
+            "singType": "known"
         },
         {
             "uuid": "cc73903d-3fdd-4f0a-aac3-6ba0605e1b3b",
