@@ -907,6 +907,15 @@
             "t": 3951,
             "length": "full",
             "singType": "live"
+        },
+        {
+            "uuid": "f7f546a8-442e-4759-b473-e75ad2b1511a",
+            "name": "小さな恋のうた",
+            "video": "eijbyG27ovY",
+            "t": 4427,
+            "endt": 4659,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "NiziU": [
@@ -1390,6 +1399,15 @@
             "t": 7013
         },
         {
+            "uuid": "93a6b4e6-8049-4d31-853d-5d69815e4ed8",
+            "name": "マリーゴールド",
+            "video": "eijbyG27ovY",
+            "t": 444,
+            "endt": 742,
+            "length": "full",
+            "singType": "known"
+        },
+        {
             "uuid": "1598be3b-f15d-4b4b-92ab-4b63760e32d5",
             "name": "君はロックを聴かない",
             "video": "S3sqt66VpEM",
@@ -1730,6 +1748,17 @@
             "t": 8800
         }
     ],
+    "川本真琴": [
+        {
+            "uuid": "14495002-5f9a-4b8b-81c8-d462a1372624",
+            "name": "1/2",
+            "video": "eijbyG27ovY",
+            "t": 1147,
+            "endt": 1410,
+            "length": "full",
+            "singType": "known"
+        }
+    ],
     "きのこ帝国": [
         {
             "uuid": "72e55040-b639-4300-90f7-fb3877aa2cf9",
@@ -1774,6 +1803,15 @@
             "length": "full"
         },
         {
+            "uuid": "3bf41ecb-c84d-4389-b5b2-f7f0c5aa0bee",
+            "name": "BABY BABY",
+            "video": "eijbyG27ovY",
+            "t": 3998,
+            "endt": 4246,
+            "length": "full",
+            "singType": "known"
+        },
+        {
             "uuid": "7d7973aa-441f-42d2-9d69-e35d9cc3b8e3",
             "name": "SKOOL KILL",
             "video": "3Vx8BIGWUUc",
@@ -1797,7 +1835,27 @@
             "uuid": "5e72225e-847a-4cbe-a055-c9e5ea3e3636",
             "name": "青春時代",
             "video": "XqfzGDQWyow",
-            "t": 4126
+            "t": 4126,
+            "length": "full",
+            "singType": "live"
+        },
+        {
+            "uuid": "6ae45351-176f-422e-acae-5b5083ec9200",
+            "name": "青春時代",
+            "video": "eijbyG27ovY",
+            "t": 4965,
+            "endt": 5333,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "2a1a61ad-e368-482b-9791-e2952a914333",
+            "name": "青春時代",
+            "video": "eijbyG27ovY",
+            "t": 5979,
+            "endt": 6208,
+            "length": "short",
+            "singType": "known"
         }
     ],
     "グッチ裕三&グッチーズ": [
@@ -2077,6 +2135,15 @@
             "name": "お願いマッスル",
             "video": "KmHjt5FD0Rs",
             "t": 750
+        },
+        {
+            "uuid": "36745a2e-0824-4cb2-9730-c508c4bd9fed",
+            "name": "お願いマッスル",
+            "video": "eijbyG27ovY",
+            "t": 3515,
+            "endt": 3744,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "さくらみこ・兎田ぺこら": [
@@ -2095,6 +2162,24 @@
             "video": "o0SX5i-C5c0",
             "t": 0,
             "endt": 218,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "369472e1-238a-4f29-bbd2-bd4d73849bab",
+            "name": "モッシュレース",
+            "video": "eijbyG27ovY",
+            "t": 2164,
+            "endt": 2392,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "e76d1ce0-7bc8-473e-9471-ec28a69bded3",
+            "name": "モッシュレース",
+            "video": "eijbyG27ovY",
+            "t": 5555,
+            "endt": 5763,
             "length": "full",
             "singType": "known"
         }
@@ -2282,6 +2367,17 @@
             "t": 4363
         }
     ],
+    "橋本絵莉子": [
+        {
+            "uuid": "7254493d-e4ea-46b3-92a8-2d8bf66f67d0",
+            "name": "今日がインフィニティ",
+            "video": "eijbyG27ovY",
+            "t": 1765,
+            "endt": 1946,
+            "length": "full",
+            "singType": "known"
+        }
+    ],
     "浜田雅功&槇原敬之": [
         {
             "uuid": "a184da2e-de7b-4dce-9a69-0ce99f8189ac",
@@ -2365,6 +2461,15 @@
             "video": "fHQ5MV-mLKw",
             "t": 5542,
             "endt": 5601,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "7a22e2c4-9f68-4984-ac09-0a9b74712105",
+            "name": "ハム太郎とっとこうた",
+            "video": "eijbyG27ovY",
+            "t": 3244,
+            "endt": 3319,
             "length": "full",
             "singType": "known"
         }
