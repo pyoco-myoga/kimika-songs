@@ -171,6 +171,15 @@
             "endt": 312,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "cfc01c78-178e-4884-a84f-890116e221c6",
+            "name": "16",
+            "video": "FMSEOT-MsQU",
+            "t": 3952,
+            "endt": 4147,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "ASIAN KUNG-FU GENERATION": [
@@ -1122,6 +1131,15 @@
             "name": "君の知らない物語",
             "video": "3Vx8BIGWUUc",
             "t": 12646
+        },
+        {
+            "uuid": "ea3d0987-e696-4723-89a4-02c7b8a32fd4",
+            "name": "君の知らない物語",
+            "video": "FMSEOT-MsQU",
+            "t": 4632,
+            "endt": 4988,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "SUSURU TV.": [
@@ -1563,6 +1581,15 @@
             "endt": 5326,
             "length": "full",
             "singType": "known"
+        },
+        {
+            "uuid": "0c72d022-1adb-4e2b-83de-2255f9abbada",
+            "name": "ニャースのうた",
+            "video": "FMSEOT-MsQU",
+            "t": 1997,
+            "endt": 2162,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "井上あずみ": [
@@ -1694,6 +1721,15 @@
             "singType": "known"
         },
         {
+            "uuid": "aacadc7c-8792-4a98-875c-e7d7df89f7be",
+            "name": "雪どけ",
+            "video": "FMSEOT-MsQU",
+            "t": 1042,
+            "endt": 1233,
+            "length": "full",
+            "singType": "known"
+        },
+        {
             "uuid": "3c699bea-54a4-45a2-914b-902953ee2146",
             "name": "祭りの準備",
             "video": "KmHjt5FD0Rs",
@@ -1768,6 +1804,15 @@
             "endt": 1333,
             "length": "full",
             "singType": "improvised"
+        },
+        {
+            "uuid": "4f06e39d-d0c6-43af-ac48-50ce7305bc4d",
+            "name": "クロノスタシス",
+            "video": "FMSEOT-MsQU",
+            "t": 1518,
+            "endt": 1691,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "銀杏BOYZ": [
@@ -1856,6 +1901,24 @@
             "endt": 6208,
             "length": "short",
             "singType": "known"
+        },
+        {
+            "uuid": "c0bf5119-d9b9-4cf6-97c4-e1760d65901e",
+            "name": "ナイトライダー",
+            "video": "FMSEOT-MsQU",
+            "t": 2420,
+            "endt": 2729,
+            "length": "full",
+            "singType": "known"
+        },
+        {
+            "uuid": "0618df3a-a8a7-4300-9484-9456ccb3917d",
+            "name": "東京",
+            "video": "FMSEOT-MsQU",
+            "t": 2949,
+            "endt": 3442,
+            "length": "full",
+            "singType": "known"
         }
     ],
     "グッチ裕三&グッチーズ": [
@@ -1922,6 +1985,15 @@
             "t": 2805,
             "length": "full",
             "singType": "live"
+        },
+        {
+            "uuid": "c2ba0ccb-e378-4df0-851f-4e7f993e46da",
+            "name": "ばらの花",
+            "video": "FMSEOT-MsQU",
+            "t": 488,
+            "endt": 1233,
+            "length": "full",
+            "singType": "improvised"
         }
     ],
     "黒うさP": [
