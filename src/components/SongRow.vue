@@ -12,6 +12,7 @@ const props = defineProps<{
     isFull: boolean,
 }>();
 const youtubeURL = `https://www.youtube.com/watch?v=${props.video}&t=${props.t}`;
+const youtubeThumbnailURL = `https://img.youtube.com/vi/${props.video}/0.jpg`
 
 // favorite mark: on/off
 const emit = defineEmits(["changeFavoriteEvent"]);
@@ -21,8 +22,12 @@ const changeFavorite = (uuid: string): void => {
 
 // behavior of share button
 const shareButtonEvent = async () => {
-    await navigator.clipboard.writeText(`${props.name} / ${props.artist}: ${youtubeURL}`);
-    notify({title: `クリップボードにコピーしました<br>${props.name} / ${props.artist}`});
+    try {
+        await navigator.clipboard.writeText(`${props.name} / ${props.artist}: ${youtubeURL}`);
+        notify({title: `クリップボードにコピーしました<br>${props.name} / ${props.artist}`});
+    } catch (e) {
+        console.error(e);
+    }
 };
 
 // expand youtube embed
@@ -30,6 +35,7 @@ const isExpandYoutubeEmbed = vue.ref(false);
 const expandYoutubeEmbed = () => {
     isExpandYoutubeEmbed.value = !isExpandYoutubeEmbed.value;
 };
+
 </script>
 
 <template>
@@ -45,7 +51,7 @@ const expandYoutubeEmbed = () => {
                 <i v-if="props.isFull" class='bi bi-star' />
             </a>
             <div class="input-group mb-2">
-                <a class="btn btn-outline-secondary" v-bind:href="youtubeURL">
+                <a class="btn btn-outline-secondary" v-bind:href="youtubeURL" target="_blank">
                     <i class="bi bi-youtube text-danger" />
                 </a>
                 <a class="btn btn-outline-secondary" @click="shareButtonEvent">
@@ -54,11 +60,14 @@ const expandYoutubeEmbed = () => {
                 <a class="btn btn-outline-secondary" @click="expandYoutubeEmbed">
                     <i class="bi bi-code-slash text-dark" />
                 </a>
+                <a class="btn btn-outline-secondary" v-bind:href="youtubeThumbnailURL" target="_blank">
+                    <i class="bi bi-card-image text-dark" />
+                </a>
             </div>
             <div v-if="!props.endt && isExpandYoutubeEmbed" class="embed-responsive embed-responsive-16by9">
                 <iframe type="text/html" class="embed-responsive-item"
-                    v-bind:src="`https://www.youtube-nocookie.com/embed/${props.video}?enablejsapi=1&start=${props.t}`"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    v-bind:src="`https://www.youtube.com/embed/${props.video}?enablejsapi=1&start=${props.t}`"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowfullscreen />
             </div>
         </td>
