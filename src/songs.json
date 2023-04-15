@@ -1626,6 +1626,26 @@
             "video": "KmHjt5FD0Rs"
         }
     ],
+    "おニャン子クラブ": [
+        {
+            "endt": 273,
+            "length": "short",
+            "name": "セーラー服を脱がさないで",
+            "singType": "known",
+            "t": 173,
+            "uuid": "20b49903-0574-4c89-ba5c-665645c91559",
+            "video": "O8gruBs9aWc"
+        },
+        {
+            "endt": 5901,
+            "length": "full",
+            "name": "セーラー服を脱がさないで",
+            "singType": "known",
+            "t": 5709,
+            "uuid": "e9802021-616f-4b22-beba-38d4ebae7858",
+            "video": "O8gruBs9aWc"
+        }
+    ],
     "きのこ帝国": [
         {
             "endt": 1333,
@@ -2421,47 +2441,6 @@
             "video": "daqna2Ylk_c"
         }
     ],
-    "犬山イヌコ": [
-        {
-            "name": "ニャースのうた",
-            "t": 1458,
-            "uuid": "7c2fbaf3-14fd-48a9-8843-56b788ace69a",
-            "video": "SAN-CAqkp-c"
-        },
-        {
-            "name": "ニャースのうた",
-            "t": 4355,
-            "uuid": "14de50f0-fc16-41ac-84b6-3ebb97f7c417",
-            "video": "2CCEVK-iTBc"
-        },
-        {
-            "endt": 5326,
-            "length": "full",
-            "name": "ニャースのうた",
-            "singType": "known",
-            "t": 5161,
-            "uuid": "46586d2d-7a2f-4636-9cec-6ded3d090cdf",
-            "video": "fHQ5MV-mLKw"
-        },
-        {
-            "endt": 2162,
-            "length": "full",
-            "name": "ニャースのうた",
-            "singType": "known",
-            "t": 1997,
-            "uuid": "0c72d022-1adb-4e2b-83de-2255f9abbada",
-            "video": "FMSEOT-MsQU"
-        },
-        {
-            "endt": 4492,
-            "length": "full",
-            "name": "ニャースのうた",
-            "singType": "known",
-            "t": 4313,
-            "uuid": "3d7c2f80-a095-4845-b0e4-f86fc1c4e5ff",
-            "video": "GSK6rLb-ibk"
-        }
-    ],
     "大森靖子": [
         {
             "name": "君と映画",
@@ -2932,6 +2911,47 @@
             "t": 6157,
             "uuid": "c0fcf99f-b223-40c5-81c0-df9863356f95",
             "video": "uo3MAj6Df_0"
+        }
+    ],
+    "犬山イヌコ": [
+        {
+            "name": "ニャースのうた",
+            "t": 1458,
+            "uuid": "7c2fbaf3-14fd-48a9-8843-56b788ace69a",
+            "video": "SAN-CAqkp-c"
+        },
+        {
+            "name": "ニャースのうた",
+            "t": 4355,
+            "uuid": "14de50f0-fc16-41ac-84b6-3ebb97f7c417",
+            "video": "2CCEVK-iTBc"
+        },
+        {
+            "endt": 5326,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 5161,
+            "uuid": "46586d2d-7a2f-4636-9cec-6ded3d090cdf",
+            "video": "fHQ5MV-mLKw"
+        },
+        {
+            "endt": 2162,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 1997,
+            "uuid": "0c72d022-1adb-4e2b-83de-2255f9abbada",
+            "video": "FMSEOT-MsQU"
+        },
+        {
+            "endt": 4492,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 4313,
+            "uuid": "3d7c2f80-a095-4845-b0e4-f86fc1c4e5ff",
+            "video": "GSK6rLb-ibk"
         }
     ],
     "瑛人": [
