@@ -9,9 +9,17 @@ import Header from "./components/Header.vue";
 import {ref} from "vue";
 
 const keyword = ref(q !== null ? q : "");
+const clearKeyword = () => {
+    keyword.value = "";
+};
+
 const isFavoriteOnly = ref(false);
 const isFullOnly = ref(false);
+
 const videoIdSpecify = ref("");
+const clearVideoIdSpecify = () => {
+    videoIdSpecify.value = "";
+}
 </script>
 
 <template>
@@ -22,6 +30,7 @@ const videoIdSpecify = ref("");
             <i class="bi bi-search"></i>
         </span>
         <input v-model="keyword" class="form-control" placeholder="キーワードであいまい絞り込み">
+        <button class="btn btn-outline-secondary bi bi-x" type="button" @click="clearKeyword" />
     </div>
     <div>
 
@@ -38,6 +47,7 @@ const videoIdSpecify = ref("");
             <span class="input-group-text" id="video-id-specify-label">video ID</span>
             <input v-model="videoIdSpecify" type="text" class="form-control" aria-describedby="video-id-specify-label"
                 placeholder="YouTubeリンク または video ID">
+            <button class="btn btn-outline-secondary bi bi-x" type="button" @click="clearVideoIdSpecify" />
         </div>
     </div>
     <SongTable :keyword="keyword" :video-id="videoIdSpecify" :is-full-only="isFullOnly"
