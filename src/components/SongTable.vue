@@ -58,24 +58,24 @@ const isVideoIdRegex = /^[a-zA-Z0-9_-]{11}$/;
 const extractVideoIdRegex = /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/(?:watch\?v=|embed\/|v\/|shorts\/)|youtu\.be\/|youtube\.com\/shorts\/)([^\s&?]+)/;
 
 const isDisplay = (song: Song): boolean => {
-    let display = true;
-    if (props.isFullOnly) {
-        display &&= song.length === "full";
+    if (props.isFullOnly && song.length !== "full") {
+        return false;
     }
-    if (props.videoId !== "") {
-        if (isVideoIdRegex.test(props.videoId)) {
-            display &&= song.video === props.videoId;
-        } else {
-            const match = props.videoId.match(extractVideoIdRegex);
-            if (match && match.length >= 1) {
-                display &&= song.video === match[1];
-            }
-        }
+    if (props.isFavoriteOnly && !favoriteSongsUUID.value.has(song.uuid)) {
+        return false;
     }
-    if (props.isFavoriteOnly) {
-        display &&= favoriteSongsUUID.value.has(song.uuid);
+    if (props.videoId === "") {
+        return true;
     }
-    return display;
+
+    if (isVideoIdRegex.test(props.videoId) && song.video !== props.videoId) {
+        return false;
+    }
+    const match = props.videoId.match(extractVideoIdRegex);
+    if (match && match.length >= 1 && song.video !== match[1]) {
+        return false;
+    }
+    return true;
 };
 </script>
 
