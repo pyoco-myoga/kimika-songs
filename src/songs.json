@@ -73,6 +73,15 @@
             "t": 6508,
             "uuid": "0fa33ed2-c042-4792-b788-d42651af5886",
             "video": "46BxnYxsHoY"
+        },
+        {
+            "endt": 2449,
+            "length": "full",
+            "name": "ヘビーローテーション",
+            "singType": "known",
+            "t": 2170,
+            "uuid": "9e3f5feb-d6c1-4895-aeb3-6917a0c8ef59",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "ASIAN KUNG-FU GENERATION": [
@@ -442,6 +451,15 @@
             "t": 8494,
             "uuid": "78783b5d-3e94-4aba-be58-e73f1c5b125d",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 653,
+            "length": "full",
+            "name": "私、アイドル宣言",
+            "singType": "known",
+            "t": 372,
+            "uuid": "29b33372-faf0-405e-9233-94bdca48906e",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "ClariS": [
@@ -741,6 +759,24 @@
             "t": 4498,
             "uuid": "3992884b-e0f0-425e-8a90-525b4f359465",
             "video": "Mve6gP5bGPQ"
+        },
+        {
+            "endt": 3916,
+            "length": "full",
+            "name": "可愛くてごめん",
+            "singType": "known",
+            "t": 3701,
+            "uuid": "43ca7f24-a578-44c4-a806-e6a8ff39f745",
+            "video": "sLuwsDJuDAo"
+        },
+        {
+            "endt": 5867,
+            "length": "full",
+            "name": "ファンサ",
+            "singType": "known",
+            "t": 5611,
+            "uuid": "61989e46-ab53-40c8-b2db-6bad8d1a01b0",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "JUDY AND MARY": [
@@ -816,6 +852,15 @@
             "t": 4225,
             "uuid": "99dbfc06-c50c-4940-b578-09f1ceec9a1e",
             "video": "46BxnYxsHoY"
+        },
+        {
+            "endt": 4576,
+            "length": "short",
+            "name": "ぐらでーしょん feat. 北澤ゆうほ",
+            "singType": "known",
+            "t": 4509,
+            "uuid": "3bf7cf4f-7e56-449e-a5d1-20a4e680b3bb",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "Kanaria": [
@@ -1114,6 +1159,15 @@
             "t": 4434,
             "uuid": "ab6f5c23-ca18-4338-9a35-e2334c6d565e",
             "video": "cNSV4Q_U5Ww"
+        },
+        {
+            "endt": 3394,
+            "length": "full",
+            "name": "君と夏フェス",
+            "singType": "known",
+            "t": 3148,
+            "uuid": "244393e2-abab-46fc-8d73-d2bf76612d08",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "SMAP": [
@@ -1511,6 +1565,15 @@
             "t": 775,
             "uuid": "15e64f49-ec13-4432-bf46-95884c83b33e",
             "video": "2rnFJQe8jho"
+        },
+        {
+            "endt": 1563,
+            "length": "full",
+            "name": "君のせい",
+            "singType": "known",
+            "t": 1280,
+            "uuid": "ade84396-1765-46df-b8d0-c3cdf1ac838f",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "↑THE HIGH-LOWS↓": [
@@ -2491,6 +2554,24 @@
             "t": 1185,
             "uuid": "96dc1427-07cf-40be-99ed-ab5cdae37ea8",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 984,
+            "length": "full",
+            "name": "I&YOU&I&YOU&I",
+            "singType": "known",
+            "t": 817,
+            "uuid": "61a4a01d-dfba-4988-8aff-664687ab278f",
+            "video": "sLuwsDJuDAo"
+        },
+        {
+            "endt": 1076,
+            "length": "short",
+            "name": "I&YOU&I&YOU&I",
+            "singType": "known",
+            "t": 996,
+            "uuid": "77c2fdc5-abfc-4c9d-82fc-9a692807d23c",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "宇野ゆう子": [
@@ -2532,6 +2613,15 @@
             "t": 1147,
             "uuid": "14495002-5f9a-4b8b-81c8-d462a1372624",
             "video": "eijbyG27ovY"
+        },
+        {
+            "endt": 5079,
+            "length": "full",
+            "name": "1/2",
+            "singType": "known",
+            "t": 4822,
+            "uuid": "42179a5b-707b-43df-8e5f-62948f3c5a14",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "広瀬香美": [
@@ -2679,6 +2769,15 @@
             "t": 2955,
             "uuid": "ed53f887-3d04-4522-a828-6e7cfa30cebd",
             "video": "BzsK2ZuSKnA"
+        },
+        {
+            "endt": 2959,
+            "length": "full",
+            "name": "ふわふわ時間",
+            "singType": "known",
+            "t": 2734,
+            "uuid": "25092a23-3b09-4374-9572-888075e40b67",
+            "video": "sLuwsDJuDAo"
         }
     ],
     "星野源": [
