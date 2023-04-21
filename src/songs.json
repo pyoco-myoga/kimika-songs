@@ -844,6 +844,15 @@
             "t": 4842,
             "uuid": "431744d9-490c-47e0-b865-47e77a1f95af",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 7327,
+            "length": "full",
+            "name": "BLUE TEARS",
+            "singType": "known",
+            "t": 7140,
+            "uuid": "d06e4717-d16b-47cb-bb24-327a75d494ad",
+            "video": "VIoKcOURwyM"
         }
     ],
     "KANA-BOON": [
@@ -1024,6 +1033,15 @@
             "t": 4491,
             "uuid": "f95e1d02-bf53-47df-94e6-e0ce661d7778",
             "video": "S3sqt66VpEM"
+        },
+        {
+            "endt": 4033,
+            "length": "full",
+            "name": "pretender",
+            "singType": "known",
+            "t": 3713,
+            "uuid": "8be1f34c-b099-49eb-9054-991608288537",
+            "video": "VIoKcOURwyM"
         }
     ],
     "Perfume": [
@@ -2042,6 +2060,24 @@
             "t": 12787,
             "uuid": "e7547a24-c6e9-4874-82ee-64e81391c031",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 2810,
+            "length": "full",
+            "name": "祭りの準備",
+            "singType": "known",
+            "t": 2431,
+            "uuid": "378e0293-6444-4a34-9f71-57d78a33ca78",
+            "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 3170,
+            "length": "full",
+            "name": "忘れられない日々",
+            "singType": "known",
+            "t": 2951,
+            "uuid": "57f69c2f-a4fb-4d3f-8d59-8e6286f7cfbe",
+            "video": "VIoKcOURwyM"
         }
     ],
     "クリープハイプ": [
@@ -2154,6 +2190,15 @@
             "t": 5938,
             "uuid": "933fd5d9-3c65-4d8f-8047-f7e796cb02fd",
             "video": "Mve6gP5bGPQ"
+        },
+        {
+            "endt": 1962,
+            "length": "full",
+            "name": "空も飛べるはず",
+            "singType": "known",
+            "t": 1691,
+            "uuid": "d01a50e6-b832-4ef8-8c48-1a0d93cbb218",
+            "video": "VIoKcOURwyM"
         }
     ],
     "チェリッシュ": [
@@ -2332,6 +2377,17 @@
             "t": 3083,
             "uuid": "640a23d8-9325-47ef-aedc-d37115ca4be4",
             "video": "fHQ5MV-mLKw"
+        }
+    ],
+    "マカロニえんぴつ": [
+        {
+            "endt": 3567,
+            "length": "short",
+            "name": "なんでもないよ、",
+            "singType": "improvised",
+            "t": 3480,
+            "uuid": "53e04304-8f6d-4068-808d-31f21611ec1a",
+            "video": "VIoKcOURwyM"
         }
     ],
     "マキシマムザホルモン": [
@@ -2590,6 +2646,17 @@
             "video": "KmHjt5FD0Rs"
         }
     ],
+    "岡崎体育": [
+        {
+            "endt": 790,
+            "length": "full",
+            "name": "エクレア",
+            "singType": "known",
+            "t": 512,
+            "uuid": "903df5ef-2117-4bf9-9233-ce1fb6af1222",
+            "video": "VIoKcOURwyM"
+        }
+    ],
     "川島あい": [
         {
             "name": "旅立ちの日に…",
@@ -2622,6 +2689,17 @@
             "t": 4822,
             "uuid": "42179a5b-707b-43df-8e5f-62948f3c5a14",
             "video": "sLuwsDJuDAo"
+        }
+    ],
+    "広末涼子": [
+        {
+            "endt": 1353,
+            "length": "full",
+            "name": "MajiでKoiする5秒前",
+            "singType": "improvised",
+            "t": 1067,
+            "uuid": "00d55077-ba6d-4e10-be64-ba471460fe88",
+            "video": "VIoKcOURwyM"
         }
     ],
     "広瀬香美": [
@@ -2778,6 +2856,15 @@
             "t": 2734,
             "uuid": "25092a23-3b09-4374-9572-888075e40b67",
             "video": "sLuwsDJuDAo"
+        },
+        {
+            "endt": 7864,
+            "length": "full",
+            "name": "天使にふれたよ",
+            "singType": "known",
+            "t": 7571,
+            "uuid": "5e5b8000-39fb-491f-bf08-7f147f43c48d",
+            "video": "VIoKcOURwyM"
         }
     ],
     "星野源": [
@@ -3051,6 +3138,15 @@
             "t": 4313,
             "uuid": "3d7c2f80-a095-4845-b0e4-f86fc1c4e5ff",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 4398,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 4212,
+            "uuid": "83604eae-dd51-4996-a035-ad2f05490a25",
+            "video": "VIoKcOURwyM"
         }
     ],
     "瑛人": [
@@ -3236,12 +3332,30 @@
             "video": "NjbveAjFVao"
         },
         {
-            "length": "full",
+            "length": "short",
             "name": "何が悪い",
             "singType": "known",
             "t": 0,
             "uuid": "ee36f1dc-8d5f-4a4f-843b-96b9a75eeeb4",
             "video": "cgu50QokRgQ"
+        },
+        {
+            "endt": 6378,
+            "length": "short",
+            "name": "ギターと孤独と青い惑星",
+            "singType": "improvised",
+            "t": 6107,
+            "uuid": "4940fbd0-5dc3-4416-800b-e2ba8c545cae",
+            "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 6728,
+            "length": "full",
+            "name": "何が悪い",
+            "singType": "known",
+            "t": 6494,
+            "uuid": "c3322d57-8c46-408b-8db6-4ffb8bedb80a",
+            "video": "VIoKcOURwyM"
         }
     ],
     "茂森あゆみ&速水けんたろう": [
@@ -3382,6 +3496,24 @@
             "t": 3644,
             "uuid": "239ae116-5269-46e5-a3e3-b8ac84166d8f",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 5178,
+            "length": "full",
+            "name": "惑星基地ベオウルフ",
+            "singType": "known",
+            "t": 4851,
+            "uuid": "a5dff435-ab30-4dbb-8d57-a41d52aade3f",
+            "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 5885,
+            "length": "full",
+            "name": "銀河鉄道の夜",
+            "singType": "improvised",
+            "t": 5555,
+            "uuid": "45a62e99-7865-415e-9aa8-02bd19cc52b7",
+            "video": "VIoKcOURwyM"
         }
     ],
     "黒うさP": [
