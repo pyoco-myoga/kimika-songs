@@ -777,6 +777,15 @@
             "t": 5611,
             "uuid": "61989e46-ab53-40c8-b2db-6bad8d1a01b0",
             "video": "sLuwsDJuDAo"
+        },
+        {
+            "endt": 2331,
+            "length": "full",
+            "name": "月曜日の憂鬱",
+            "singType": "known",
+            "t": 2023,
+            "uuid": "d3618f4a-7bfb-4a99-86aa-52d56cb200b1",
+            "video": "KvtEbK34tAo"
         }
     ],
     "JUDY AND MARY": [
@@ -1340,6 +1349,24 @@
             "t": 2929,
             "uuid": "6dbbf5e1-f606-4701-a62b-cf4f0910141b",
             "video": "2QfjFbwvSEk"
+        },
+        {
+            "endt": 587,
+            "length": "full",
+            "name": "人にやさしく",
+            "singType": "known",
+            "t": 448,
+            "uuid": "418c7e37-7c57-43a9-a0c9-cfdc98d0d343",
+            "video": "KvtEbK34tAo"
+        },
+        {
+            "endt": 2762,
+            "length": "full",
+            "name": "リンダリンダ",
+            "singType": "known",
+            "t": 2577,
+            "uuid": "2bf1b072-8ed6-49c8-ab72-cb9c221bfe6b",
+            "video": "KvtEbK34tAo"
         }
     ],
     "THE BOOM": [
@@ -1375,6 +1402,15 @@
             "t": 3211,
             "uuid": "ca9f3732-6ac0-4e36-b649-974d74338ce5",
             "video": "esHHMezfp8Q"
+        },
+        {
+            "endt": 4522,
+            "length": "full",
+            "name": "パレードは続く",
+            "singType": "known",
+            "t": 4242,
+            "uuid": "81fb004c-72ee-4a76-8f73-97b4627770cf",
+            "video": "KvtEbK34tAo"
         }
     ],
     "THE YELLOW MONKEY": [
@@ -1639,6 +1675,15 @@
             "t": 7199,
             "uuid": "804ea56e-1c33-4faf-a646-ee622215a0b0",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 6206,
+            "length": "full",
+            "name": "日曜日よりの使者",
+            "singType": "known",
+            "t": 5943,
+            "uuid": "18af93a5-745e-4881-a35c-e1decdab7f1a",
+            "video": "KvtEbK34tAo"
         }
     ],
     "あいみょん": [
@@ -1851,6 +1896,15 @@
             "t": 5555,
             "uuid": "e76d1ce0-7bc8-473e-9471-ec28a69bded3",
             "video": "eijbyG27ovY"
+        },
+        {
+            "endt": 1078,
+            "length": "full",
+            "name": "モッシュレース",
+            "singType": "known",
+            "t": 848,
+            "uuid": "83564e5c-9068-4009-9e66-a9805e15b2d6",
+            "video": "KvtEbK34tAo"
         }
     ],
     "すとぷり": [
@@ -2098,6 +2152,15 @@
             "t": 3639,
             "uuid": "7eb75f70-bb15-4aac-8bfb-53440c76ccd5",
             "video": "cNSV4Q_U5Ww"
+        },
+        {
+            "endt": 5016,
+            "length": "full",
+            "name": "ギリギリガガンガン",
+            "singType": "known",
+            "t": 4824,
+            "uuid": "350f01a2-e559-42f8-940e-bd2c68da7a41",
+            "video": "KvtEbK34tAo"
         }
     ],
     "グッチ裕三&グッチーズ": [
@@ -2636,6 +2699,15 @@
             "t": 4536,
             "uuid": "717a6911-ec0e-44da-92f9-5083cf0dfe88",
             "video": "hf4Zd-7AIxI"
+        },
+        {
+            "endt": 1652,
+            "length": "full",
+            "name": "サザエさん一家",
+            "singType": "known",
+            "t": 1497,
+            "uuid": "a4e93452-a69f-4272-b837-8d66ceefe34d",
+            "video": "KvtEbK34tAo"
         }
     ],
     "山野さと子": [
@@ -3036,6 +3108,15 @@
             "t": 1765,
             "uuid": "7254493d-e4ea-46b3-92a8-2d8bf66f67d0",
             "video": "eijbyG27ovY"
+        },
+        {
+            "endt": 5609,
+            "length": "full",
+            "name": "今日がインフィニティ",
+            "singType": "known",
+            "t": 5410,
+            "uuid": "ba6aaa18-b9be-4c99-89e9-9d7c3e827aa9",
+            "video": "KvtEbK34tAo"
         }
     ],
     "氷川きよし": [
@@ -3055,6 +3136,15 @@
             "t": 13856,
             "uuid": "4d8427fa-8d89-4fad-82e5-3c900d4d9d8b",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 4046,
+            "length": "full",
+            "name": "限界突破×サバイバー",
+            "singType": "known",
+            "t": 3824,
+            "uuid": "b03f9630-2ea3-43e5-ab39-652ceea5c5d5",
+            "video": "KvtEbK34tAo"
         }
     ],
     "浜田雅功&槇原敬之": [
@@ -3302,6 +3392,15 @@
             "t": 3114,
             "uuid": "51686e38-d745-49bc-a590-78412ad602da",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 3553,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 3323,
+            "uuid": "422d4282-b26d-4ccf-9fd2-aed1f43389eb",
+            "video": "KvtEbK34tAo"
         }
     ],
     "細川たかし": [

@@ -4,6 +4,18 @@ from typing import Any, Dict, List, Set
 from prompt_toolkit import prompt
 from prompt_toolkit.completion import WordCompleter
 
+def time_to_second(time_str: str) -> int:
+    """
+    time_str: str
+        [[[%H:]%M:]%S]
+    """
+    time_parts = time_str.split(":")
+    hours = int(time_parts[-3]) if len(time_parts) == 3 else 0
+    minutes = int(time_parts[-2]) if len(time_parts) >= 2 else 0
+    seconds = int(time_parts[-1]) if len(time_parts) >= 1 else 0
+    total_seconds = (hours * 3600) + (minutes * 60) + seconds
+    return total_seconds
+
 def get_all_artists(data: Dict[str, Any]) -> List[str]:
     artists = list(data.keys())
     return artists
@@ -43,8 +55,8 @@ def add_command(data: Dict[str, Any]) -> Dict[str, Any]:
     videos_completer = WordCompleter(list(videos))
     video = prompt("video> ", completer=videos_completer)
 
-    t = int(prompt("t> "))
-    endt = int(prompt("endt> "))
+    t = time_to_second(prompt("t> "))
+    endt = time_to_second(prompt("endt> "))
 
     length_completer = WordCompleter(["full", "short"])
     try:
