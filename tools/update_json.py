@@ -82,6 +82,7 @@ def add_command(data: Dict[str, Any]) -> Dict[str, Any]:
         **({"singType": sing_type} if sing_type is not None else {})
         }
     data[artist].append(song_info)
+    data[artist].sort(key=lambda x: x["name"])
 
     json_str = json.dumps(song_info, ensure_ascii=False, sort_keys=True, indent=4)
     print(f"{artist}: {json_str}")
