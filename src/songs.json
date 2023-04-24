@@ -215,6 +215,15 @@
             "video": "cNSV4Q_U5Ww"
         },
         {
+            "endt": 1506,
+            "length": "full",
+            "name": "K",
+            "singType": "improvised",
+            "t": 1253,
+            "uuid": "10568db1-dba2-4c42-b654-1588e6e1d8f2",
+            "video": "6IHtwQ3UGhg"
+        },
+        {
             "endt": 5874,
             "length": "full",
             "name": "Laugh Maker",
@@ -375,6 +384,15 @@
             "t": 733,
             "uuid": "e26e14ea-c8e4-47a3-a63e-01c7efc51105",
             "video": "fHQ5MV-mLKw"
+        },
+        {
+            "endt": 3191,
+            "length": "full",
+            "name": "涙のふるさと",
+            "singType": "improvised",
+            "t": 2908,
+            "uuid": "697a305d-7582-45b4-946d-f510999c1a35",
+            "video": "6IHtwQ3UGhg"
         },
         {
             "endt": 4096,
@@ -629,6 +647,17 @@
             "video": "BkSrCEvv0YE"
         }
     ],
+    "HY": [
+        {
+            "endt": 3495,
+            "length": "short",
+            "name": "AM11:00",
+            "singType": "improvised",
+            "t": 3464,
+            "uuid": "3e6ec1c3-146e-481c-945f-e47774e066af",
+            "video": "6IHtwQ3UGhg"
+        }
+    ],
     "Helsinki Lambda Club": [
         {
             "endt": 3694,
@@ -641,6 +670,15 @@
         }
     ],
     "Hi-STANDARD": [
+        {
+            "endt": 6257,
+            "length": "full",
+            "name": "DEAR MY FRIEND",
+            "singType": "known",
+            "t": 6060,
+            "uuid": "900e2c86-2db6-42f5-a292-21364e668089",
+            "video": "6IHtwQ3UGhg"
+        },
         {
             "endt": 2890,
             "length": "full",
@@ -1446,6 +1484,17 @@
             "video": "cNSV4Q_U5Ww"
         }
     ],
+    "YUI": [
+        {
+            "endt": 2654,
+            "length": "full",
+            "name": "CHE.R.RY",
+            "singType": "improvised",
+            "t": 2480,
+            "uuid": "9aae9cfa-6a75-463a-82ae-3bdf90898c4d",
+            "video": "6IHtwQ3UGhg"
+        }
+    ],
     "ZONE": [
         {
             "name": "secret base ~君がくれたもの~",
@@ -1525,6 +1574,15 @@
             "t": 13371,
             "uuid": "c95ea7d4-5944-4fd5-8328-78ec2803002f",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 618,
+            "length": "full",
+            "name": "愛してやまない音楽を",
+            "singType": "improvised",
+            "t": 550,
+            "uuid": "0277821a-8021-4e4e-b2ba-3f61e768eb6b",
+            "video": "6IHtwQ3UGhg"
         },
         {
             "endt": 312,
@@ -1858,6 +1916,15 @@
             "t": 2805,
             "uuid": "bb1216c9-0dc5-429f-ad41-1cd1813426f1",
             "video": "2rnFJQe8jho"
+        },
+        {
+            "endt": 956,
+            "length": "full",
+            "name": "街",
+            "singType": "improvised",
+            "t": 775,
+            "uuid": "81ca7a4d-0aae-4b4e-b69b-640887af656f",
+            "video": "6IHtwQ3UGhg"
         }
     ],
     "さくらみこ・兎田ぺこら": [
@@ -2298,6 +2365,15 @@
             "t": 1579,
             "uuid": "7409bec4-061b-4907-b567-4a227e562aaf",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 4546,
+            "length": "full",
+            "name": "風吹けば恋",
+            "singType": "known",
+            "t": 4346,
+            "uuid": "11d570c1-bbf8-4de3-a934-861b78e08abd",
+            "video": "6IHtwQ3UGhg"
         }
     ],
     "ドリーミング": [
@@ -2404,6 +2480,15 @@
             "t": 2290,
             "uuid": "e870be1c-8979-4c1d-8ca3-adc46685bd4c",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 7788,
+            "length": "full",
+            "name": "ハム太郎とっとこうた",
+            "singType": "known",
+            "t": 7716,
+            "uuid": "c152de44-f3e6-47b3-a5f3-2fad0a2b374a",
+            "video": "6IHtwQ3UGhg"
         }
     ],
     "ピンク・レディー": [
@@ -2691,6 +2776,15 @@
             "t": 3952,
             "uuid": "1fb02841-953b-4880-9829-d45cbe77d10f",
             "video": "fHQ5MV-mLKw"
+        },
+        {
+            "endt": 3961,
+            "length": "full",
+            "name": "絶対絶望絶好調",
+            "singType": "known",
+            "t": 3780,
+            "uuid": "193cda7b-1812-44b2-bd65-350f2743d6e1",
+            "video": "6IHtwQ3UGhg"
         }
     ],
     "宇野ゆう子": [
@@ -3262,6 +3356,24 @@
             "t": 368,
             "uuid": "dc863128-8dc5-4eab-b235-72dca39cd7c5",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 4980,
+            "length": "short",
+            "name": "チャイナアドバイス",
+            "singType": "improvised",
+            "t": 4937,
+            "uuid": "d66a0e1e-aee0-41e0-8afe-c5e5350f1d41",
+            "video": "6IHtwQ3UGhg"
+        },
+        {
+            "endt": 5444,
+            "length": "full",
+            "name": "気になるあの娘",
+            "singType": "known",
+            "t": 5237,
+            "uuid": "8f0b640b-fef9-4494-b5fe-0c9e930f2aad",
+            "video": "6IHtwQ3UGhg"
         }
     ],
     "石川さゆり": [
@@ -3473,6 +3585,26 @@
             "video": "KmHjt5FD0Rs"
         }
     ],
+    "藍坊主": [
+        {
+            "endt": 7111,
+            "length": "short",
+            "name": "僕らしさ君らしさ",
+            "singType": "improvised",
+            "t": 7080,
+            "uuid": "b31cf519-7e16-41d6-818c-01a9ac88a98e",
+            "video": "6IHtwQ3UGhg"
+        },
+        {
+            "endt": 6872,
+            "length": "short",
+            "name": "春風",
+            "singType": "improvised",
+            "t": 6827,
+            "uuid": "ceea15bf-91b0-49f6-b972-2a2247bb53c8",
+            "video": "6IHtwQ3UGhg"
+        }
+    ],
     "銀杏BOYZ": [
         {
             "name": "BABY BABY",
@@ -3512,6 +3644,15 @@
             "video": "GSK6rLb-ibk"
         },
         {
+            "endt": 2043,
+            "length": "full",
+            "name": "もしも君が泣くならば",
+            "singType": "known",
+            "t": 1798,
+            "uuid": "92ed3e26-6d39-4dc1-b3ce-e538997b99d7",
+            "video": "6IHtwQ3UGhg"
+        },
+        {
             "endt": 2729,
             "length": "full",
             "name": "ナイトライダー",
@@ -3525,6 +3666,15 @@
             "t": 2058,
             "uuid": "83eb15d8-f624-458f-aaf6-e93c53c5be64",
             "video": "Mve6gP5bGPQ"
+        },
+        {
+            "endt": 7531,
+            "length": "full",
+            "name": "少年少女",
+            "singType": "known",
+            "t": 7356,
+            "uuid": "56fd761d-d42e-4979-99bf-9ed7fd351f0e",
+            "video": "6IHtwQ3UGhg"
         },
         {
             "name": "惑星基地ベオウルフ",
