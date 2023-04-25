@@ -1,6 +1,7 @@
 <script lang="ts">
 const params = new URLSearchParams(location.search);
 const q = params.get("q");
+const v = params.get("v");
 </script>
 
 <script lang = "ts" setup>
@@ -8,7 +9,7 @@ import SongTable from "./components/SongTable.vue";
 import Header from "./components/Header.vue";
 import {ref} from "vue";
 
-const keyword = ref(q !== null ? q : "");
+const keyword = ref(q || "");
 const clearKeyword = () => {
     keyword.value = "";
 };
@@ -16,7 +17,7 @@ const clearKeyword = () => {
 const isFavoriteOnly = ref(false);
 const isFullOnly = ref(false);
 
-const videoIdSpecify = ref("");
+const videoIdSpecify = ref(v || "");
 const clearVideoIdSpecify = () => {
     videoIdSpecify.value = "";
 }
