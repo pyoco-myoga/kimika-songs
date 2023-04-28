@@ -2763,6 +2763,17 @@
             "video": "daqna2Ylk_c"
         }
     ],
+    "大塚愛": [
+        {
+            "endt": 1744,
+            "length": "full",
+            "name": "さくらんぼ",
+            "singType": "live",
+            "t": 1523,
+            "uuid": "3dd25be4-520c-4a56-9480-e26ca234216f",
+            "video": "9_ySJxAyLJU"
+        }
+    ],
     "大森靖子": [
         {
             "endt": 984,
@@ -3672,21 +3683,21 @@
             "video": "6IHtwQ3UGhg"
         },
         {
-            "endt": 1744,
-            "length": "full",
-            "name": "春風",
-            "singType": "live",
-            "t": 1523,
-            "uuid": "3022ca56-edc0-4198-b56f-c2cd26591cf7",
-            "video": "9_ySJxAyLJU"
-        },
-        {
             "endt": 5357,
             "length": "full",
             "name": "春風",
             "singType": "live",
             "t": 5111,
             "uuid": "7905ef53-938d-4f21-a4c6-a8de588f9dc4",
+            "video": "9_ySJxAyLJU"
+        },
+        {
+            "endt": 1124,
+            "length": "full",
+            "name": "春風",
+            "singType": "live",
+            "t": 877,
+            "uuid": "fcbe77f2-5d6a-4236-8f27-9830360b8ddb",
             "video": "9_ySJxAyLJU"
         }
     ],
