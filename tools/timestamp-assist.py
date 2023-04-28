@@ -17,7 +17,7 @@ if __name__ == "__main__":
     command_completer = WordCompleter(["ls", "append", "pop", "timestamp", "url", "base"])
     while True:
         try:
-            cmd = prompt("> ").split()
+            cmd = prompt("> ", completer=command_completer).split()
         except EOFError:
             break
         if len(cmd) == 0:
