@@ -153,6 +153,17 @@
             "video": "BzsK2ZuSKnA"
         }
     ],
+    "Awesome City Club": [
+        {
+            "endt": 4360,
+            "length": "full",
+            "name": "4月のマーチ",
+            "singType": "known",
+            "t": 4122,
+            "uuid": "9dd8a2cc-1a95-4ccc-86c0-7d66e13ab412",
+            "video": "9_ySJxAyLJU"
+        }
+    ],
     "B'z": [
         {
             "endt": 4653,
@@ -660,6 +671,15 @@
     ],
     "Helsinki Lambda Club": [
         {
+            "endt": 2400,
+            "length": "full",
+            "name": "ぎちぎち",
+            "singType": "live",
+            "t": 2071,
+            "uuid": "45b812f4-5d41-47ea-845c-9c60fb8019e5",
+            "video": "9_ySJxAyLJU"
+        },
+        {
             "endt": 3694,
             "length": "full",
             "name": "チョコレィト",
@@ -824,6 +844,23 @@
             "t": 1855,
             "uuid": "79c68c61-efac-4e9d-8285-0d027f7406a4",
             "video": "2CCEVK-iTBc"
+        }
+    ],
+    "Hysteric Blue": [
+        {
+            "name": "春 ~spring~",
+            "t": 6690,
+            "uuid": "b64d909c-3c8e-4da6-b573-96859094a5e8",
+            "video": "KmHjt5FD0Rs"
+        },
+        {
+            "endt": 647,
+            "length": "full",
+            "name": "春 ~spring~",
+            "singType": "live",
+            "t": 399,
+            "uuid": "7c14ea71-cc29-4f1d-9703-4ea84da08693",
+            "video": "9_ySJxAyLJU"
         }
     ],
     "JUDY AND MARY": [
@@ -1841,6 +1878,15 @@
             "video": "FMSEOT-MsQU"
         },
         {
+            "endt": 2841,
+            "length": "full",
+            "name": "春と修羅",
+            "singType": "live",
+            "t": 2688,
+            "uuid": "adf9873a-bc41-4c1d-bf5b-7acb9f08fdf2",
+            "video": "9_ySJxAyLJU"
+        },
+        {
             "endt": 1333,
             "length": "full",
             "name": "東京",
@@ -1908,6 +1954,15 @@
             "t": 386,
             "uuid": "a5fe5a07-b0d5-429a-b718-018ce2efde71",
             "video": "cNSV4Q_U5Ww"
+        },
+        {
+            "endt": 4861,
+            "length": "full",
+            "name": "春風",
+            "singType": "known",
+            "t": 4653,
+            "uuid": "2e1e38a8-55a7-4a33-8b9c-14c492f57d8c",
+            "video": "9_ySJxAyLJU"
         },
         {
             "length": "full",
@@ -2971,6 +3026,15 @@
             "video": "cNSV4Q_U5Ww"
         },
         {
+            "endt": 3377,
+            "length": "full",
+            "name": "北極星",
+            "singType": "live",
+            "t": 3196,
+            "uuid": "2af73ef3-bb2f-44cc-af56-6971e56258d3",
+            "video": "9_ySJxAyLJU"
+        },
+        {
             "name": "犬にしてくれ",
             "t": 414,
             "uuid": "bca36e5c-f27d-41db-bb27-c2e8e01e9513",
@@ -3154,6 +3218,17 @@
             "t": 6979,
             "uuid": "75dcfcd6-e4df-4f63-aca7-61f6d9728b3c",
             "video": "v3MocqSjBL4"
+        }
+    ],
+    "松田聖子": [
+        {
+            "endt": 3808,
+            "length": "full",
+            "name": "赤いスイートピー",
+            "singType": "live",
+            "t": 3585,
+            "uuid": "ed025dd8-ea94-4d6a-8ad8-53681a43e904",
+            "video": "9_ySJxAyLJU"
         }
     ],
     "柴矢裕美": [
@@ -3577,14 +3652,6 @@
             "video": "hf4Zd-7AIxI"
         }
     ],
-    "藍井エイル": [
-        {
-            "name": "春 ~spring~",
-            "t": 6690,
-            "uuid": "b64d909c-3c8e-4da6-b573-96859094a5e8",
-            "video": "KmHjt5FD0Rs"
-        }
-    ],
     "藍坊主": [
         {
             "endt": 7111,
@@ -3603,6 +3670,24 @@
             "t": 6827,
             "uuid": "ceea15bf-91b0-49f6-b972-2a2247bb53c8",
             "video": "6IHtwQ3UGhg"
+        },
+        {
+            "endt": 1744,
+            "length": "full",
+            "name": "春風",
+            "singType": "live",
+            "t": 1523,
+            "uuid": "3022ca56-edc0-4198-b56f-c2cd26591cf7",
+            "video": "9_ySJxAyLJU"
+        },
+        {
+            "endt": 5357,
+            "length": "full",
+            "name": "春風",
+            "singType": "live",
+            "t": 5111,
+            "uuid": "7905ef53-938d-4f21-a4c6-a8de588f9dc4",
+            "video": "9_ySJxAyLJU"
         }
     ],
     "銀杏BOYZ": [
