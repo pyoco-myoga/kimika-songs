@@ -10,7 +10,7 @@
     "scripts": {
         "dev": "npx parcel src/index.html --dist-dir docs/ --open",
         "build": "npx parcel build src/index.html --dist-dir docs/ --public-url '/kimika-songs/'",
-        "build-netlify": "npx parcel build src/index.html --dist-dir docs/ --public-url '/kimika-uta-search/'"
+        "build-netlify": "npx parcel build src/index.html --dist-dir docs/"
     },
     "dependencies": {
         "@kyvg/vue3-notification": "^2.9.0",
