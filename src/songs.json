@@ -3106,6 +3106,15 @@
             "t": 7571,
             "uuid": "5e5b8000-39fb-491f-bf08-7f147f43c48d",
             "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 3305,
+            "length": "full",
+            "name": "天使にふれたよ",
+            "singType": "known",
+            "t": 3016,
+            "uuid": "76a10704-3205-4ec1-a250-71a464976025",
+            "video": "ImpqHhZXF1s"
         }
     ],
     "星野源": [
@@ -3807,6 +3816,15 @@
             "t": 2949,
             "uuid": "0618df3a-a8a7-4300-9484-9456ccb3917d",
             "video": "FMSEOT-MsQU"
+        },
+        {
+            "endt": 696,
+            "length": "short",
+            "name": "漂流教室",
+            "singType": "known",
+            "t": 551,
+            "uuid": "f536a504-cf86-49d2-a792-e196fd6fe11d",
+            "video": "ImpqHhZXF1s"
         },
         {
             "length": "full",
