@@ -2206,6 +2206,24 @@
     ],
     "ガガガSP": [
         {
+            "endt": 7768,
+            "length": "full",
+            "name": "My First Kiss",
+            "singType": "known",
+            "t": 7580,
+            "uuid": "3509f2f5-387b-47b7-be24-b8faef2990e5",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 4482,
+            "length": "full",
+            "name": "つなひき帝国",
+            "singType": "known",
+            "t": 4283,
+            "uuid": "48299b1c-b841-4519-b071-00800d072720",
+            "video": "CfhKFBDp9OU"
+        },
+        {
             "endt": 6913,
             "length": "full",
             "name": "はじめて君としゃべった",
@@ -2213,6 +2231,33 @@
             "t": 6700,
             "uuid": "af6c9b1c-f24e-4a82-a664-760976a1e669",
             "video": "fHQ5MV-mLKw"
+        },
+        {
+            "endt": 7395,
+            "length": "full",
+            "name": "はじめて君としゃべった",
+            "singType": "known",
+            "t": 7195,
+            "uuid": "a2849486-163f-4673-97f2-61ca11446a55",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 6223,
+            "length": "full",
+            "name": "人間なのさ",
+            "singType": "known",
+            "t": 5938,
+            "uuid": "4efb18da-19ce-4445-ba74-265663152fa0",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 8434,
+            "length": "full",
+            "name": "全ては変わった",
+            "singType": "known",
+            "t": 8091,
+            "uuid": "95d12604-7f04-49cd-bd6a-77c1d05dd379",
+            "video": "CfhKFBDp9OU"
         },
         {
             "length": "full",
@@ -2250,9 +2295,27 @@
             "length": "full",
             "name": "国道2号線",
             "singType": "known",
-            "t": 12787,
+            "t": 12821,
             "uuid": "e7547a24-c6e9-4874-82ee-64e81391c031",
             "video": "cise9W9QpVU"
+        },
+        {
+            "endt": 754,
+            "length": "full",
+            "name": "国道二号線",
+            "singType": "known",
+            "t": 557,
+            "uuid": "401a3f1b-ff51-4a5d-8ea6-956358466e44",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 11019,
+            "length": "full",
+            "name": "国道二号線",
+            "singType": "known",
+            "t": 10774,
+            "uuid": "3ec63fda-b55c-4cbb-b3e0-3533d9e8d5b6",
+            "video": "CfhKFBDp9OU"
         },
         {
             "endt": 7243,
@@ -2271,6 +2334,51 @@
             "t": 2951,
             "uuid": "57f69c2f-a4fb-4d3f-8d59-8e6286f7cfbe",
             "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 9503,
+            "length": "full",
+            "name": "忘れられない日々",
+            "singType": "known",
+            "t": 9262,
+            "uuid": "eda35dc2-5a62-426c-8240-5fcfa9c71766",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 5537,
+            "length": "full",
+            "name": "晩秋",
+            "singType": "known",
+            "t": 5373,
+            "uuid": "a7ab9230-4a59-4a84-9c54-1b77791c95bd",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 5120,
+            "length": "full",
+            "name": "東京",
+            "singType": "known",
+            "t": 4730,
+            "uuid": "d77f0900-64fa-43d8-a648-da0e45b141be",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 3838,
+            "length": "full",
+            "name": "津山の夜",
+            "singType": "improvised",
+            "t": 3667,
+            "uuid": "0ed96143-3198-4f63-97fb-5449db34c50c",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 6803,
+            "length": "short",
+            "name": "満月の夕",
+            "singType": "known",
+            "t": 6616,
+            "uuid": "1da1aaf8-6cbb-49d4-8462-39ee2e39a5ca",
+            "video": "CfhKFBDp9OU"
         },
         {
             "length": "full",
@@ -2296,6 +2404,15 @@
             "video": "VIoKcOURwyM"
         },
         {
+            "endt": 9042,
+            "length": "full",
+            "name": "祭りの準備",
+            "singType": "known",
+            "t": 8723,
+            "uuid": "32998fce-42b5-4420-b85f-11897edd33f0",
+            "video": "CfhKFBDp9OU"
+        },
+        {
             "length": "full",
             "name": "線香花火",
             "singType": "known",
@@ -2311,6 +2428,15 @@
             "t": 1290,
             "uuid": "526ee767-183e-4292-8bbf-86a96d5448e0",
             "video": "E6Guj98A2a0"
+        },
+        {
+            "endt": 10118,
+            "length": "full",
+            "name": "線香花火",
+            "singType": "known",
+            "t": 9825,
+            "uuid": "45e202ec-4e15-440c-b0cd-b53a7c772aac",
+            "video": "CfhKFBDp9OU"
         },
         {
             "length": "full",
@@ -2344,6 +2470,33 @@
             "t": 1042,
             "uuid": "aacadc7c-8792-4a98-875c-e7d7df89f7be",
             "video": "FMSEOT-MsQU"
+        },
+        {
+            "endt": 1245,
+            "length": "full",
+            "name": "雪どけ",
+            "singType": "known",
+            "t": 1026,
+            "uuid": "dfee939f-0bcf-46ce-8f0f-266a31a85f5a",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 2753,
+            "length": "full",
+            "name": "青春時代",
+            "singType": "known",
+            "t": 2561,
+            "uuid": "01320cce-394f-4a04-92c4-c606354f05e4",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 2376,
+            "length": "full",
+            "name": "高架線",
+            "singType": "improvised",
+            "t": 2099,
+            "uuid": "28693d1f-7af6-464e-b116-36deec89253e",
+            "video": "CfhKFBDp9OU"
         }
     ],
     "クリープハイプ": [
