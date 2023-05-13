@@ -361,6 +361,15 @@
             "video": "KmHjt5FD0Rs"
         },
         {
+            "endt": 2363,
+            "length": "full",
+            "name": "リトルブレイバー",
+            "singType": "known",
+            "t": 2093,
+            "uuid": "3bee62f6-cb74-4e9b-9d39-877db75015bd",
+            "video": "KLxjwPDxWVk"
+        },
+        {
             "endt": 6387,
             "length": "full",
             "name": "天体観測",
@@ -404,6 +413,15 @@
             "t": 10985,
             "uuid": "3bf48f01-074d-404b-b10f-fd84dcc13a70",
             "video": "KmHjt5FD0Rs"
+        },
+        {
+            "endt": 2957,
+            "length": "full",
+            "name": "新世界",
+            "singType": "known",
+            "t": 2708,
+            "uuid": "7bc74c0f-9a52-4dea-9596-471f6d04c060",
+            "video": "KLxjwPDxWVk"
         },
         {
             "endt": 942,
@@ -656,6 +674,15 @@
             "video": "3Vx8BIGWUUc"
         },
         {
+            "endt": 9007,
+            "length": "full",
+            "name": "夜王子と月の姫",
+            "singType": "known",
+            "t": 8675,
+            "uuid": "5f102080-97e8-4e3f-9ae5-96abbf3735a9",
+            "video": "KLxjwPDxWVk"
+        },
+        {
             "endt": 1427,
             "length": "full",
             "name": "若者たち",
@@ -897,6 +924,15 @@
             "t": 399,
             "uuid": "7c14ea71-cc29-4f1d-9703-4ea84da08693",
             "video": "9_ySJxAyLJU"
+        },
+        {
+            "endt": 997,
+            "length": "full",
+            "name": "春 ~spring~",
+            "singType": "known",
+            "t": 763,
+            "uuid": "12f4e9ca-21fe-48ea-8e56-e4c56eb4f074",
+            "video": "KLxjwPDxWVk"
         }
     ],
     "JUDY AND MARY": [
@@ -1018,6 +1054,15 @@
             "t": 143,
             "uuid": "7ac2a9fd-92a6-473c-b0e4-0fb0d27a258f",
             "video": "4WnkfqEcDd0"
+        },
+        {
+            "endt": 1352,
+            "length": "full",
+            "name": "I Go Alone",
+            "singType": "known",
+            "t": 1221,
+            "uuid": "1005ba6a-ee66-4434-b58e-4f41fddb048f",
+            "video": "KLxjwPDxWVk"
         }
     ],
     "Kinki Kids": [
@@ -1238,6 +1283,15 @@
             "video": "SAN-CAqkp-c"
         },
         {
+            "endt": 4798,
+            "length": "full",
+            "name": "いいんですか",
+            "singType": "known",
+            "t": 4572,
+            "uuid": "fe65fe1c-9b4b-4863-9b0d-a8334cb05c6f",
+            "video": "G40t4f3Y0i4"
+        },
+        {
             "name": "もしも",
             "t": 2652,
             "uuid": "eefc3b44-6013-480f-b80f-afbfc5aca5da",
@@ -1324,6 +1378,15 @@
             "t": 3148,
             "uuid": "244393e2-abab-46fc-8d73-d2bf76612d08",
             "video": "sLuwsDJuDAo"
+        },
+        {
+            "endt": 4869,
+            "length": "full",
+            "name": "君と夏フェス",
+            "singType": "known",
+            "t": 4627,
+            "uuid": "d6aa3700-dbae-49c2-bbb5-cbe22be4e794",
+            "video": "KLxjwPDxWVk"
         }
     ],
     "SMAP": [
@@ -2111,6 +2174,15 @@
     ],
     "その他": [
         {
+            "endt": 5259,
+            "length": "full",
+            "name": "げんこつやまのたぬきさん",
+            "singType": "known",
+            "t": 5180,
+            "uuid": "b24de46d-1635-46f6-91c8-8093b2a02834",
+            "video": "G40t4f3Y0i4"
+        },
+        {
             "name": "やる気スイッチ",
             "t": 7132,
             "uuid": "ca0ad02b-d489-4906-b49c-81ff6999ee7b",
@@ -2289,6 +2361,24 @@
             "t": 8892,
             "uuid": "3b3f7bba-3b84-4f17-b578-2653914bd016",
             "video": "E6Guj98A2a0"
+        },
+        {
+            "endt": 3341,
+            "length": "full",
+            "name": "卒業",
+            "singType": "known",
+            "t": 3043,
+            "uuid": "0719ad65-8627-4b88-ba0b-7bf71f98d8d7",
+            "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 1759,
+            "length": "full",
+            "name": "告白",
+            "singType": "known",
+            "t": 1529,
+            "uuid": "423ccec5-715e-41ac-a224-c6114544b5c8",
+            "video": "CfhKFBDp9OU"
         },
         {
             "endt": 12991,
@@ -2623,6 +2713,15 @@
             "video": "Mve6gP5bGPQ"
         },
         {
+            "endt": 9769,
+            "length": "full",
+            "name": "ロビンソン",
+            "singType": "known",
+            "t": 9551,
+            "uuid": "cb901834-2eae-4f07-8f0f-a5aa06ef4e76",
+            "video": "KLxjwPDxWVk"
+        },
+        {
             "name": "空も飛べるはず",
             "t": 5024,
             "uuid": "e4e7a2d7-71eb-4d7f-a55a-7bb17aee2243",
@@ -2823,6 +2922,17 @@
             "video": "cise9W9QpVU"
         }
     ],
+    "フジファブリック": [
+        {
+            "endt": 4295,
+            "length": "full",
+            "name": "若者のすべて",
+            "singType": "improvised",
+            "t": 4024,
+            "uuid": "5abfb2ef-fd7d-4c92-bb15-60653e3602bb",
+            "video": "KLxjwPDxWVk"
+        }
+    ],
     "ポルノグラフィティ": [
         {
             "endt": 3355,
@@ -2865,10 +2975,28 @@
     ],
     "マキシマムザホルモン": [
         {
+            "endt": 6748,
+            "length": "full",
+            "name": "パトカー燃やす",
+            "singType": "known",
+            "t": 6720,
+            "uuid": "6505c6d2-e06e-481a-9fad-40e967582c80",
+            "video": "KLxjwPDxWVk"
+        },
+        {
             "name": "恋のメガラバ",
             "t": 4623,
             "uuid": "504c9f24-8d07-465f-857a-f7785b8e22db",
             "video": "2CCEVK-iTBc"
+        },
+        {
+            "endt": 7694,
+            "length": "full",
+            "name": "恋のメガラバ",
+            "singType": "known",
+            "t": 7377,
+            "uuid": "d3d8b09c-d65b-4c25-8be8-96f1396f5060",
+            "video": "KLxjwPDxWVk"
         }
     ],
     "モーニング娘。": [
@@ -2916,6 +3044,17 @@
             "t": 4363,
             "uuid": "07d8a10d-dfd5-4156-a2da-4a1848cdd22f",
             "video": "uo3MAj6Df_0"
+        }
+    ],
+    "中嶋義実・ヤングフレッシュ": [
+        {
+            "endt": 4081,
+            "length": "full",
+            "name": "にんげんっていいな",
+            "singType": "known",
+            "t": 3957,
+            "uuid": "b35ec166-1c33-4dc9-a033-5941a6165a3b",
+            "video": "G40t4f3Y0i4"
         }
     ],
     "中川翔子": [
@@ -3073,6 +3212,15 @@
             "video": "sLuwsDJuDAo"
         },
         {
+            "endt": 5035,
+            "length": "short",
+            "name": "あれそれ",
+            "singType": "improvised",
+            "t": 4920,
+            "uuid": "097c660d-d3d3-499e-ba8d-54e03cc61819",
+            "video": "G40t4f3Y0i4"
+        },
+        {
             "name": "ノスタルジックJ-pop",
             "t": 3987,
             "uuid": "30b1fe52-86c5-466d-8277-04c0d40bc013",
@@ -3173,6 +3321,15 @@
             "t": 3123,
             "uuid": "0457f895-2ff3-424f-9bc3-289c626caaa4",
             "video": "KmHjt5FD0Rs"
+        },
+        {
+            "endt": 2526,
+            "length": "full",
+            "name": "アイスクリームのうた",
+            "singType": "known",
+            "t": 2390,
+            "uuid": "7834ab65-14fb-476a-9e50-da75df78ac43",
+            "video": "G40t4f3Y0i4"
         }
     ],
     "岡崎体育": [
@@ -3568,6 +3725,17 @@
             "video": "E6Guj98A2a0"
         }
     ],
+    "林原めぐみ": [
+        {
+            "endt": 3236,
+            "length": "full",
+            "name": "おもちゃのチャチャチャ",
+            "singType": "known",
+            "t": 3130,
+            "uuid": "29ba5e25-ade1-42f3-9b15-163ee4c7ac11",
+            "video": "G40t4f3Y0i4"
+        }
+    ],
     "柴矢裕美": [
         {
             "endt": 3457,
@@ -3811,6 +3979,17 @@
             "video": "nxzhrq4bEyU"
         }
     ],
+    "神崎ゆう子・酒田おさむ": [
+        {
+            "endt": 750,
+            "length": "full",
+            "name": "どんな色がすき",
+            "singType": "known",
+            "t": 620,
+            "uuid": "a68cee9e-c150-4b0a-8369-52a1e7797542",
+            "video": "G40t4f3Y0i4"
+        }
+    ],
     "童謡": [
         {
             "name": "メリーさんのひつじ",
@@ -3943,6 +4122,15 @@
             "t": 5429,
             "uuid": "23c316cd-6f6a-4799-9489-d75feca21bff",
             "video": "4WnkfqEcDd0"
+        },
+        {
+            "endt": 10310,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 10079,
+            "uuid": "2050b96a-849e-4874-8a9a-8ebdcec09835",
+            "video": "KLxjwPDxWVk"
         }
     ],
     "細川たかし": [
@@ -4005,6 +4193,24 @@
             "t": 3974,
             "uuid": "c43d8ef0-7fb3-475a-9f7d-6f0539276627",
             "video": "hf4Zd-7AIxI"
+        },
+        {
+            "endt": 1737,
+            "length": "full",
+            "name": "だんご三兄弟",
+            "singType": "known",
+            "t": 1619,
+            "uuid": "53623a42-2df8-47ed-85c8-8c92e89c2929",
+            "video": "G40t4f3Y0i4"
+        },
+        {
+            "endt": 750,
+            "length": "full",
+            "name": "にじのむこうに",
+            "singType": "known",
+            "t": 1115,
+            "uuid": "b34feb97-81fd-4815-acc4-971275b9ff97",
+            "video": "G40t4f3Y0i4"
         }
     ],
     "藍坊主": [
@@ -4052,6 +4258,15 @@
             "t": 1720,
             "uuid": "213bb9ec-cfe9-4f56-8969-16edd85bcdf4",
             "video": "E6Guj98A2a0"
+        },
+        {
+            "endt": 5818,
+            "length": "full",
+            "name": "春風",
+            "singType": "known",
+            "t": 5580,
+            "uuid": "05aad07a-f5eb-4585-8049-65acf9237832",
+            "video": "KLxjwPDxWVk"
         }
     ],
     "銀杏BOYZ": [
