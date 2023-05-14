@@ -1,23 +1,24 @@
 from datetime import datetime
+import os
+import pickle
 from typing import Any, List, Optional, Tuple
 from prompt_toolkit import prompt
 from prompt_toolkit.completion import WordCompleter, base
 import pyperclip
 
+TMP_FILE = "/tmp/timestamp.pkl"
 
 def write_command(data: List[Any], video_id: str, base_time: datetime):
-    with open("./timestamp-data.html", "w", encoding="utf8") as f:
-        html_str = "<table><tbody>"
-        for (t, endt, song_artist) in data:
-            t_delta = t - base_time
-            endt_delta = endt - base_time
-            html_str += f"""<tr>
-                <td>{song_artist}</td>
-                <td><a href={youtube_url(video_id, int(t_delta.total_seconds()))}>start</a></td>
-                <td><a href={youtube_url(video_id, int(endt_delta.total_seconds()))}>start</a></td>
-            </tr>"""
-        html_str += "</tbody></table>"
-        f.write(html_str)
+    with open(TMP_FILE, "wb") as f:
+        pickle.dump((data, video_id, base_time), f)
+
+def load_command() -> Optional[Tuple[List[Any], str, datetime]]:
+    if not os.path.exists(TMP_FILE):
+        return None
+    with open(TMP_FILE, "rb") as f:
+        data, video_id, base_time = pickle.load(f)
+    return data, video_id, base_time
+
 
 def youtube_url(video_id: str, second: int) -> str:
     return f"https://youtube.com/watch?v={video_id}&t={second}"
@@ -36,7 +37,7 @@ if __name__ == "__main__":
     base_time: Optional[datetime] = None
     data: List[Tuple[datetime, datetime, str]] = []
     command_completer = WordCompleter([
-        "ls", "add", "pop", "timestamp", "url", "base", "video", "write"
+        "ls", "add", "pop", "timestamp", "url", "base", "video", "write", "load"
         ])
     while True:
         try:
@@ -117,6 +118,11 @@ if __name__ == "__main__":
                 print("video_id is not set, please set")
                 continue
             write_command(data, video_id, base_time)
+
+        elif cmd[0] == "load":
+            result = load_command()
+            if result is not None:
+                data, video_id, base_time = result
 
         else:
             print(f"not supported command {cmd[0]}")
