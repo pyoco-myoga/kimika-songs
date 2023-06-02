@@ -795,6 +795,15 @@
             "t": 3484,
             "uuid": "ac89f1b6-45e0-40ae-8aed-122e990207db",
             "video": "jQaB4I_mKY0"
+        },
+        {
+            "endt": 4631,
+            "length": "full",
+            "name": "チョコレィト",
+            "singType": "known",
+            "t": 4428,
+            "uuid": "c004d26c-8320-4f64-9e63-d608c481953f",
+            "video": "tQ2CZRKUFJE"
         }
     ],
     "Hi-STANDARD": [
@@ -1297,6 +1306,15 @@
             "t": 3713,
             "uuid": "8be1f34c-b099-49eb-9054-991608288537",
             "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 1323,
+            "length": "full",
+            "name": "pretender",
+            "singType": "known",
+            "t": 1010,
+            "uuid": "6e4e2b6a-17db-4884-bf35-13f334789f84",
+            "video": "tQ2CZRKUFJE"
         }
     ],
     "Perfume": [
@@ -1950,6 +1968,15 @@
             "t": 4632,
             "uuid": "ea3d0987-e696-4723-89a4-02c7b8a32fd4",
             "video": "FMSEOT-MsQU"
+        },
+        {
+            "endt": 5195,
+            "length": "full",
+            "name": "君の知らない物語",
+            "singType": "improvised",
+            "t": 4867,
+            "uuid": "fd58ec33-19c0-428e-aa2d-f980002de992",
+            "video": "zKDNv8jeEuk"
         }
     ],
     "the peggies": [
@@ -2065,6 +2092,15 @@
             "video": "cise9W9QpVU"
         },
         {
+            "endt": 5198,
+            "length": "full",
+            "name": "マリーゴールド",
+            "singType": "known",
+            "t": 4887,
+            "uuid": "d7f97491-f779-42fb-835a-c365f6fa45cf",
+            "video": "tQ2CZRKUFJE"
+        },
+        {
             "name": "君はロックを聴かない",
             "t": 5252,
             "uuid": "1598be3b-f15d-4b4b-92ab-4b63760e32d5",
@@ -2084,6 +2120,15 @@
             "t": 11262,
             "uuid": "aa7554d3-63cd-43ff-8afb-d7a288d80205",
             "video": "4kJShQ7xC7c"
+        },
+        {
+            "endt": 4832,
+            "length": "short",
+            "name": "愛の花",
+            "singType": "improvised",
+            "t": 4804,
+            "uuid": "5f928edd-b505-47b9-896e-bd87164235d0",
+            "video": "tQ2CZRKUFJE"
         }
     ],
     "あんしんパパ": [
@@ -2175,6 +2220,15 @@
             "t": 4828,
             "uuid": "4c3e7b2c-a1b7-49ab-92be-5e4fa037696f",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 5813,
+            "length": "full",
+            "name": "ばらの花",
+            "singType": "known",
+            "t": 5546,
+            "uuid": "3a42b133-a6a3-470b-a7cc-d55b3d67c3ce",
+            "video": "tQ2CZRKUFJE"
         },
         {
             "length": "full",
@@ -2308,6 +2362,15 @@
         }
     ],
     "その他": [
+        {
+            "endt": 4589,
+            "length": "full",
+            "name": "きらきら星",
+            "singType": "known",
+            "t": 4532,
+            "uuid": "41dbb5ce-4ea9-4cf0-8f30-6b45cb37f113",
+            "video": "zKDNv8jeEuk"
+        },
         {
             "endt": 5259,
             "length": "full",
@@ -2722,6 +2785,15 @@
             "t": 12908,
             "uuid": "2b711e2b-6f43-479b-b568-504f3130388e",
             "video": "4kJShQ7xC7c"
+        },
+        {
+            "endt": 691,
+            "length": "full",
+            "name": "雪どけ",
+            "singType": "known",
+            "t": 482,
+            "uuid": "ea18e1d1-14fd-41ce-8e46-fecaae406559",
+            "video": "tQ2CZRKUFJE"
         },
         {
             "endt": 2753,
@@ -3153,6 +3225,15 @@
         }
     ],
     "モーニング娘。": [
+        {
+            "endt": 1929,
+            "length": "full",
+            "name": "ふるさと",
+            "singType": "known",
+            "t": 1704,
+            "uuid": "b5c2c52d-3e75-4a2f-a4ff-ead9639dbc86",
+            "video": "zKDNv8jeEuk"
+        },
         {
             "name": "モーニングコーヒー",
             "t": 2228,
@@ -3636,6 +3717,15 @@
             "video": "4kJShQ7xC7c"
         },
         {
+            "endt": 1343,
+            "length": "full",
+            "name": "この高鳴りをなんと呼ぶ",
+            "singType": "known",
+            "t": 1089,
+            "uuid": "fe7e6f87-9873-4951-aa20-9ecedb079a49",
+            "video": "zKDNv8jeEuk"
+        },
+        {
             "name": "バンドやろうぜ",
             "t": 7937,
             "uuid": "22b74306-59dd-4f05-9785-6f9f4566a24c",
@@ -3672,6 +3762,15 @@
             "t": 8185,
             "uuid": "867d44eb-da44-4fcc-abfc-a6f96c4185d3",
             "video": "KmHjt5FD0Rs"
+        },
+        {
+            "endt": 4196,
+            "length": "full",
+            "name": "バンドワゴン",
+            "singType": "known",
+            "t": 3938,
+            "uuid": "466197f5-0964-4df5-9ea5-57e09a920231",
+            "video": "tQ2CZRKUFJE"
         },
         {
             "name": "僕らチェンジザワールド",
@@ -3838,6 +3937,15 @@
             "video": "4kJShQ7xC7c"
         },
         {
+            "endt": 3732,
+            "length": "full",
+            "name": "卒業写真",
+            "singType": "known",
+            "t": 3472,
+            "uuid": "57d79067-c864-4f75-a54b-6f2325f4058c",
+            "video": "tQ2CZRKUFJE"
+        },
+        {
             "name": "恋人がサンタクロース",
             "t": 5044,
             "uuid": "37ef58a9-28d0-44c4-afc1-70a509758223",
@@ -3948,6 +4056,15 @@
             "t": 12416,
             "uuid": "9916b874-6823-435c-965b-3aecda1cd5c1",
             "video": "4kJShQ7xC7c"
+        },
+        {
+            "endt": 3178,
+            "length": "full",
+            "name": "赤いスイートピー",
+            "singType": "known",
+            "t": 2826,
+            "uuid": "e032a2cc-fad0-440a-b184-f1ba765fbf4b",
+            "video": "tQ2CZRKUFJE"
         }
     ],
     "林原めぐみ": [
@@ -4025,6 +4142,17 @@
             "t": 7958,
             "uuid": "843cc272-0043-4b33-abab-96e4f8335505",
             "video": "E6Guj98A2a0"
+        }
+    ],
+    "水中、それは苦しい": [
+        {
+            "endt": 3370,
+            "length": "short",
+            "name": "農業、校長、そして手品",
+            "singType": "known",
+            "t": 3300,
+            "uuid": "403532f3-7d8e-4634-87f5-88b34777f6f1",
+            "video": "tQ2CZRKUFJE"
         }
     ],
     "氷川きよし": [
@@ -4631,6 +4759,15 @@
             "video": "FMSEOT-MsQU"
         },
         {
+            "endt": 2021,
+            "length": "full",
+            "name": "東京",
+            "singType": "known",
+            "t": 1530,
+            "uuid": "aa7ecb1a-be00-45a3-b478-26eb6c846c88",
+            "video": "tQ2CZRKUFJE"
+        },
+        {
             "endt": 696,
             "length": "short",
             "name": "漂流教室",
@@ -4690,6 +4827,17 @@
             "t": 5316,
             "uuid": "7ffe8e9a-415c-42e4-b813-9754686bb3f3",
             "video": "cise9W9QpVU"
+        }
+    ],
+    "鷲崎健": [
+        {
+            "endt": 2499,
+            "length": "full",
+            "name": "ダーリンダーリン",
+            "singType": "known",
+            "t": 2216,
+            "uuid": "5fd91b83-a38c-438f-98e7-db9cbce4a1e4",
+            "video": "tQ2CZRKUFJE"
         }
     ],
     "黒うさP": [
