@@ -804,6 +804,15 @@
             "t": 4428,
             "uuid": "c004d26c-8320-4f64-9e63-d608c481953f",
             "video": "tQ2CZRKUFJE"
+        },
+        {
+            "endt": 3493,
+            "length": "full",
+            "name": "ユアンと踊れ",
+            "singType": "live",
+            "t": 3326,
+            "uuid": "9fc62822-d313-4bdf-8be3-a24626bd9664",
+            "video": "rd0cv0P9MHc"
         }
     ],
     "Hi-STANDARD": [
@@ -1883,6 +1892,15 @@
             "video": "cise9W9QpVU"
         },
         {
+            "endt": 492,
+            "length": "full",
+            "name": "andyとrock",
+            "singType": "live",
+            "t": 437,
+            "uuid": "c6fab892-5e1e-4dac-825a-08f8dad31159",
+            "video": "rd0cv0P9MHc"
+        },
+        {
             "endt": 618,
             "length": "short",
             "name": "愛してやまない音楽を",
@@ -2005,6 +2023,15 @@
         }
     ],
     "↑THE HIGH-LOWS↓": [
+        {
+            "endt": 884,
+            "length": "full",
+            "name": "不死身のエレキマン",
+            "singType": "live",
+            "t": 717,
+            "uuid": "9e7e5cce-7684-4977-94f6-19df065a05dc",
+            "video": "rd0cv0P9MHc"
+        },
         {
             "endt": 7418,
             "length": "full",
@@ -2271,6 +2298,15 @@
             "video": "cNSV4Q_U5Ww"
         },
         {
+            "endt": 4587,
+            "length": "full",
+            "name": "ロックンロール",
+            "singType": "live",
+            "t": 4398,
+            "uuid": "9944190f-2b01-423d-8dac-fe0756dff74b",
+            "video": "rd0cv0P9MHc"
+        },
+        {
             "endt": 4861,
             "length": "full",
             "name": "春風",
@@ -2519,6 +2555,24 @@
             "t": 7195,
             "uuid": "a2849486-163f-4673-97f2-61ca11446a55",
             "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 1401,
+            "length": "full",
+            "name": "ロックンロール",
+            "singType": "live",
+            "t": 1252,
+            "uuid": "dee06ab3-c84c-4a40-acc4-f84d6a6e683d",
+            "video": "rd0cv0P9MHc"
+        },
+        {
+            "endt": 5063,
+            "length": "full",
+            "name": "ロックンロール",
+            "singType": "live",
+            "t": 4904,
+            "uuid": "54ed5767-c00e-488d-8d18-da183881ca0e",
+            "video": "rd0cv0P9MHc"
         },
         {
             "endt": 6223,
@@ -3479,6 +3533,24 @@
             "video": "Mve6gP5bGPQ"
         },
         {
+            "endt": 4102,
+            "length": "full",
+            "name": "マジックミラー",
+            "singType": "live",
+            "t": 3813,
+            "uuid": "dd43b597-f59d-493a-b5d8-6ec2732d3978",
+            "video": "rd0cv0P9MHc"
+        },
+        {
+            "endt": 5438,
+            "length": "full",
+            "name": "マジックミラー",
+            "singType": "live",
+            "t": 5152,
+            "uuid": "87d81192-33f8-4998-9ec9-b1663fb26575",
+            "video": "rd0cv0P9MHc"
+        },
+        {
             "name": "ミッドナイト清純異性交流",
             "t": 711,
             "uuid": "7cbab69d-4677-494d-87d8-6f9e697d7acf",
@@ -3777,6 +3849,15 @@
             "t": 2571,
             "uuid": "71f38293-dd64-470c-9228-e5009bd862c0",
             "video": "cNSV4Q_U5Ww"
+        },
+        {
+            "endt": 1908,
+            "length": "full",
+            "name": "僕らチェンジザワールド",
+            "singType": "live",
+            "t": 1707,
+            "uuid": "79932da5-7887-4dd0-9649-7b58265356d6",
+            "video": "rd0cv0P9MHc"
         },
         {
             "endt": 3377,
@@ -4343,6 +4424,17 @@
             "video": "G40t4f3Y0i4"
         }
     ],
+    "神聖かまってちゃん": [
+        {
+            "endt": 3027,
+            "length": "full",
+            "name": "ロックンロールは鳴り止まない",
+            "singType": "live",
+            "t": 2820,
+            "uuid": "c07e9080-018f-4a89-8ddc-246d8698b8e3",
+            "video": "rd0cv0P9MHc"
+        }
+    ],
     "童謡": [
         {
             "name": "メリーさんのひつじ",
@@ -4697,6 +4789,15 @@
             "t": 1798,
             "uuid": "92ed3e26-6d39-4dc1-b3ce-e538997b99d7",
             "video": "6IHtwQ3UGhg"
+        },
+        {
+            "endt": 2458,
+            "length": "full",
+            "name": "エンジェルベイビー",
+            "singType": "live",
+            "t": 2207,
+            "uuid": "06056398-5101-4532-bb6c-5a680d94d93c",
+            "video": "rd0cv0P9MHc"
         },
         {
             "endt": 2729,
