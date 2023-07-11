@@ -10,6 +10,17 @@
             "video": "1byyvPl_xuE"
         }
     ],
+    "ACIDMAN": [
+        {
+            "endt": 7110,
+            "length": "short",
+            "name": "赤橙",
+            "singType": "improvised",
+            "t": 7070,
+            "uuid": "90241711-61e4-44cd-baaa-63abca1b833c",
+            "video": "M3v8QX_ANSM"
+        }
+    ],
     "AKB48": [
         {
             "endt": 2305,
@@ -791,6 +802,15 @@
             "video": "hk0u2tzl4Y0"
         },
         {
+            "endt": 6702,
+            "length": "full",
+            "name": "若者たち",
+            "singType": "known",
+            "t": 6389,
+            "uuid": "69feae62-f603-45a9-ba99-2b5f8e506beb",
+            "video": "M3v8QX_ANSM"
+        },
+        {
             "endt": 2727,
             "length": "full",
             "name": "銀河鉄道の夜",
@@ -1388,6 +1408,17 @@
             "t": 820,
             "uuid": "bbae47c1-ce0b-4161-8367-6836e0a1e016",
             "video": "oC5eGoMc3zM"
+        }
+    ],
+    "Mi": [
+        {
+            "endt": 7524,
+            "length": "short",
+            "name": "未来の地図",
+            "singType": "improvised",
+            "t": 7484,
+            "uuid": "cd141def-6ea6-4164-8b2f-0e97a95d26d6",
+            "video": "M3v8QX_ANSM"
         }
     ],
     "Mihimaru GT": [
@@ -2218,6 +2249,15 @@
             "t": 2429,
             "uuid": "293c65f6-17a4-48cc-863f-435506710a6b",
             "video": "vYwjd_emuFY"
+        },
+        {
+            "endt": 1962,
+            "length": "full",
+            "name": "MONEY MONEY MONEY",
+            "singType": "known",
+            "t": 1858,
+            "uuid": "d8a2896e-669e-4c24-9747-70c4e041f46b",
+            "video": "M3v8QX_ANSM"
         },
         {
             "endt": 492,
@@ -3493,6 +3533,15 @@
             "video": "OLYODGZRRos"
         },
         {
+            "endt": 10019,
+            "length": "full",
+            "name": "チェリー",
+            "singType": "known",
+            "t": 9767,
+            "uuid": "dcddbcc0-981d-439f-8fe2-7fd38e72d75a",
+            "video": "M3v8QX_ANSM"
+        },
+        {
             "name": "ロビンソン",
             "t": 5938,
             "uuid": "933fd5d9-3c65-4d8f-8047-f7e796cb02fd",
@@ -3779,6 +3828,15 @@
     ],
     "マキシマムザホルモン": [
         {
+            "endt": 8558,
+            "length": "full",
+            "name": "チューチュー ラブリー ムニムニ ムラムラ プリンプリン ボロン ヌルル レロレロ",
+            "singType": "known",
+            "t": 8359,
+            "uuid": "059cf164-39fd-4c88-84ce-0ce3d7f3f506",
+            "video": "M3v8QX_ANSM"
+        },
+        {
             "endt": 6748,
             "length": "full",
             "name": "パトカー燃やす",
@@ -3801,6 +3859,15 @@
             "t": 7377,
             "uuid": "d3d8b09c-d65b-4c25-8be8-96f1396f5060",
             "video": "KLxjwPDxWVk"
+        },
+        {
+            "endt": 9074,
+            "length": "full",
+            "name": "恋のメガラバ",
+            "singType": "known",
+            "t": 8748,
+            "uuid": "c10cbf81-40d3-47b8-b68d-bbaf9736ddd3",
+            "video": "M3v8QX_ANSM"
         }
     ],
     "モーニング娘。": [
@@ -4344,6 +4411,15 @@
             "t": 2066,
             "uuid": "ef99077e-3913-4009-9218-d5fe6709b503",
             "video": "OLYODGZRRos"
+        },
+        {
+            "endt": 4969,
+            "length": "full",
+            "name": "ロマンスの神様",
+            "singType": "known",
+            "t": 4718,
+            "uuid": "ad691caf-9de1-4240-9127-614f62a7370a",
+            "video": "M3v8QX_ANSM"
         }
     ],
     "忌野清志郎": [
@@ -4393,6 +4469,15 @@
             "t": 1566,
             "uuid": "70944f4f-a4e1-4f75-91d9-915956844222",
             "video": "4kJShQ7xC7c"
+        },
+        {
+            "endt": 688,
+            "length": "full",
+            "name": "Cから始まるABC",
+            "singType": "known",
+            "t": 548,
+            "uuid": "c050521c-4fd8-4f6d-bf82-3434690f5dae",
+            "video": "M3v8QX_ANSM"
         },
         {
             "endt": 1343,
@@ -4541,6 +4626,15 @@
             "t": 687,
             "uuid": "34da3090-1b39-46d6-b602-523479422bb9",
             "video": "BzsK2ZuSKnA"
+        },
+        {
+            "endt": 4060,
+            "length": "full",
+            "name": "ごはんはおかず",
+            "singType": "known",
+            "t": 3874,
+            "uuid": "c3012ebf-1b84-4d4f-81b2-fcfcf6d1f9d0",
+            "video": "M3v8QX_ANSM"
         },
         {
             "name": "ぴゅあぴゅあはーと",
@@ -5041,6 +5135,15 @@
             "t": 4212,
             "uuid": "83604eae-dd51-4996-a035-ad2f05490a25",
             "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 9634,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 9464,
+            "uuid": "a339c4e6-2493-4082-9a0b-4e75a44d6106",
+            "video": "M3v8QX_ANSM"
         }
     ],
     "瑛人": [
@@ -5328,6 +5431,15 @@
             "video": "RY6-jVenUhg"
         },
         {
+            "endt": 5609,
+            "length": "full",
+            "name": "なにが悪い",
+            "singType": "known",
+            "t": 5391,
+            "uuid": "7fa5f1ab-e1b5-4e39-aea1-a5c2c5400f7c",
+            "video": "M3v8QX_ANSM"
+        },
+        {
             "endt": 6378,
             "length": "short",
             "name": "ギターと孤独と青い惑星",
@@ -5426,6 +5538,15 @@
             "t": 6461,
             "uuid": "af71464d-26f5-490a-80fd-3552fd1fca50",
             "video": "4kJShQ7xC7c"
+        },
+        {
+            "endt": 3469,
+            "length": "full",
+            "name": "春風",
+            "singType": "known",
+            "t": 3202,
+            "uuid": "0da9a1f2-2686-499f-b700-d19faff074fc",
+            "video": "M3v8QX_ANSM"
         }
     ],
     "赤い公園": [
@@ -5505,6 +5626,15 @@
             "video": "rd0cv0P9MHc"
         },
         {
+            "endt": 7874,
+            "length": "full",
+            "name": "エンジェルベイビー",
+            "singType": "known",
+            "t": 7634,
+            "uuid": "04fe8951-cff1-4cf5-a927-2ecd10e5a35e",
+            "video": "M3v8QX_ANSM"
+        },
+        {
             "endt": 2729,
             "length": "full",
             "name": "ナイトライダー",
@@ -5518,6 +5648,15 @@
             "t": 2058,
             "uuid": "83eb15d8-f624-458f-aaf6-e93c53c5be64",
             "video": "Mve6gP5bGPQ"
+        },
+        {
+            "endt": 2756,
+            "length": "full",
+            "name": "夢で逢えたら",
+            "singType": "improvised",
+            "t": 2431,
+            "uuid": "cb381d86-5448-4f2b-9403-9df2cf17675d",
+            "video": "M3v8QX_ANSM"
         },
         {
             "endt": 7531,
