@@ -85,8 +85,11 @@ def add_command(data: Dict[str, List[SongInfo]]) -> Dict[str, List[SongInfo]]:
     artists_completer = WordCompleter(artists)
     artist = prompt("artist> ", completer=artists_completer)
 
-    songs = get_all_songs(data)
-    songs_completer = WordCompleter(list(songs))
+    songs_completer = WordCompleter(
+            list(
+                map(
+                    lambda x: x.name,
+                    data.get(artist, []))))
     song = prompt("song> ", completer=songs_completer)
 
     videos = get_all_videos(data)
