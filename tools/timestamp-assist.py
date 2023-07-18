@@ -7,6 +7,9 @@ from prompt_toolkit.completion import WordCompleter, base
 import pyperclip
 
 TMP_FILE = "/tmp/timestamp.pkl"
+COMMAND_LIST = [
+    "ls", "add", "pop", "timestamp", "url", "base", "video", "write", "load"
+]
 
 def write_command(data: List[Any], video_id: str, base_time: datetime):
     with open(TMP_FILE, "wb") as f:
@@ -36,9 +39,7 @@ if __name__ == "__main__":
     video_id: Optional[str] = None
     base_time: Optional[datetime] = None
     data: List[Tuple[datetime, datetime, str]] = []
-    command_completer = WordCompleter([
-        "ls", "add", "pop", "timestamp", "url", "base", "video", "write", "load"
-        ])
+    command_completer = WordCompleter(COMMAND_LIST)
     while True:
         try:
             cmd = prompt("> ", completer=command_completer).split()
