@@ -2,7 +2,7 @@ import dataclasses
 from enum import Enum
 import json
 import uuid
-from typing import Any, Dict, List, Optional, Set
+from typing import Any, Dict, List, Optional, Set, Tuple
 from dataclasses import dataclass
 from prompt_toolkit import prompt
 from prompt_toolkit.completion import WordCompleter
@@ -47,7 +47,7 @@ def time_to_second(time_str: str) -> int:
     time_str: str
         [[[%H:]%M:]%S]
     """
-    time_parts = time_str.split(":")
+    time_parts = time_str.split(":") if len(time_str) > 0 else []
     hours = int(time_parts[-3]) if len(time_parts) == 3 else 0
     minutes = int(time_parts[-2]) if len(time_parts) >= 2 else 0
     seconds = int(time_parts[-1]) if len(time_parts) >= 1 else 0
@@ -80,7 +80,8 @@ def ls_song(data: Dict[str, List[SongInfo]]):
         for song in songs:
             print(song)
 
-def add_command(data: Dict[str, List[SongInfo]]) -> Dict[str, List[SongInfo]]:
+
+def input_song_info(data: Dict[str, List[SongInfo]]) -> Tuple[str, SongInfo]:
     artists = get_all_artists(data)
     artists_completer = WordCompleter(artists)
     artist = prompt("artist> ", completer=artists_completer)
@@ -119,8 +120,6 @@ def add_command(data: Dict[str, List[SongInfo]]) -> Dict[str, List[SongInfo]]:
     except EOFError:
         sing_type = None
 
-
-    data.setdefault(artist, [])
     song_info = SongInfo(
         uuid=str(uuid.uuid4()),
         name=song,
@@ -129,6 +128,12 @@ def add_command(data: Dict[str, List[SongInfo]]) -> Dict[str, List[SongInfo]]:
         endt=endt,
         length=length,
         singType=sing_type)
+    return artist, song_info
+
+def add_command(data: Dict[str, List[SongInfo]]) -> Dict[str, List[SongInfo]]:
+
+    artist, song_info = input_song_info(data)
+    data.setdefault(artist, [])
     data[artist].append(song_info)
     data[artist].sort(key=lambda x: x.name)
 
