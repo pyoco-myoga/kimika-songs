@@ -1,54 +1,96 @@
+import dataclasses
+from enum import Enum
 import json
 import uuid
-from typing import Any, Dict, List, Set
+from typing import Any, Dict, List, Optional, Set, Tuple
+from dataclasses import dataclass
 from prompt_toolkit import prompt
 from prompt_toolkit.completion import WordCompleter
+
+COMMAND_LIST = [
+    "ls",
+    "add",
+    "write",
+    "exit"
+]
+
+class LengthEnum(str, Enum):
+    full = "full"
+    short = "short"
+
+class SingTypeEnum(str, Enum):
+    live = "live"
+    known = "known"
+    improvised = "improvised"
+    shorts = "shorts"
+    movie = "movie"
+
+@dataclass
+class SongInfo:
+    uuid: str
+    name: str
+    video: str
+    t: int
+    endt: Optional[int] = None
+    length: Optional[LengthEnum] = None
+    singType: Optional[SingTypeEnum] = None
+
+class ExtendedJSONEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, SongInfo):
+            return dataclasses.asdict(obj)
+        return json.JSONEncoder.default(self, obj)
+
 
 def time_to_second(time_str: str) -> int:
     """
     time_str: str
         [[[%H:]%M:]%S]
     """
-    time_parts = time_str.split(":")
+    time_parts = time_str.split(":") if len(time_str) > 0 else []
     hours = int(time_parts[-3]) if len(time_parts) == 3 else 0
     minutes = int(time_parts[-2]) if len(time_parts) >= 2 else 0
     seconds = int(time_parts[-1]) if len(time_parts) >= 1 else 0
     total_seconds = (hours * 3600) + (minutes * 60) + seconds
     return total_seconds
 
-def get_all_artists(data: Dict[str, Any]) -> List[str]:
+def get_all_artists(data: Dict[str, List[SongInfo]]) -> List[str]:
     artists = list(data.keys())
     return artists
 
-def get_all_songs(data: Dict[str, Any]) -> Set[str]:
+def get_all_songs(data: Dict[str, List[SongInfo]]) -> Set[str]:
     songs = set()
     for artist in data.keys():
-        songs = songs.union(set(song["name"] for song in data[artist]))
+        songs = songs.union(set(song.name for song in data[artist]))
     return songs
 
-def get_all_videos(data: Dict[str, Any]) -> Set[str]:
+def get_all_videos(data: Dict[str, List[SongInfo]]) -> Set[str]:
     videos = set()
     for artist in data.keys():
-        videos = videos.union(set(song["video"] for song in data[artist]))
+        videos = videos.union(set(song.video for song in data[artist]))
     return videos
 
-def ls_artists(data: Dict[str, Any]):
+def ls_artists(data: Dict[str, List[SongInfo]]):
     for artist in data.keys():
         print(artist)
 
-def ls_song(data: Dict[str, Any]):
+def ls_song(data: Dict[str, List[SongInfo]]):
     for artist in data.keys():
-        songs = set(song["name"] for song in data[artist])
+        songs = set(song.name for song in data[artist])
         for song in songs:
             print(song)
 
-def add_command(data: Dict[str, Any]) -> Dict[str, Any]:
+
+def input_song_info(data: Dict[str, List[SongInfo]]) -> Tuple[str, SongInfo]:
     artists = get_all_artists(data)
     artists_completer = WordCompleter(artists)
     artist = prompt("artist> ", completer=artists_completer)
 
-    songs = get_all_songs(data)
-    songs_completer = WordCompleter(list(songs))
+    songs_completer = WordCompleter(
+            list(
+                map(
+                    lambda x: x.name,
+                    data.get(artist, []))))
     song = prompt("song> ", completer=songs_completer)
 
     videos = get_all_videos(data)
@@ -58,53 +100,73 @@ def add_command(data: Dict[str, Any]) -> Dict[str, Any]:
     t = time_to_second(prompt("t> "))
     endt = time_to_second(prompt("endt> "))
 
-    length_completer = WordCompleter(["full", "short"])
+    length_completer = WordCompleter([x.value for x in LengthEnum])
     try:
         length = prompt("length> ", completer=length_completer)
+        length = LengthEnum[length]
+    except KeyError:
+        print("Warning: KeyError")
+        length = None
     except EOFError:
         length = None
 
-    singtype_completer = WordCompleter(["live", "known", "improvised", "shorts", "movie"])
+    singtype_completer = WordCompleter([x.value for x in SingTypeEnum])
     try:
         sing_type = prompt("singType> ", completer=singtype_completer)
+        sing_type = SingTypeEnum[sing_type]
+    except KeyError:
+        print("Warning: KeyError")
+        sing_type = None
     except EOFError:
         sing_type = None
 
+    song_info = SongInfo(
+        uuid=str(uuid.uuid4()),
+        name=song,
+        video=video,
+        t=t,
+        endt=endt,
+        length=length,
+        singType=sing_type)
+    return artist, song_info
 
+def add_command(data: Dict[str, List[SongInfo]]) -> Dict[str, List[SongInfo]]:
+
+    artist, song_info = input_song_info(data)
     data.setdefault(artist, [])
-    song_info = {
-        "uuid": str(uuid.uuid4()),
-        "name": song,
-        "video": video,
-        "t": t,
-        "endt": endt,
-        **({"length": length} if length is not None else {}),
-        **({"singType": sing_type} if sing_type is not None else {})
-        }
     data[artist].append(song_info)
-    data[artist].sort(key=lambda x: x["name"])
+    data[artist].sort(key=lambda x: x.name)
 
-    json_str = json.dumps(song_info, ensure_ascii=False, sort_keys=True, indent=4)
+    json_str = json.dumps(
+        song_info,
+        ensure_ascii=False,
+        sort_keys=True,
+        indent=4,
+        cls=ExtendedJSONEncoder)
     print(f"{artist}: {json_str}")
     return data
 
-def write_command(data: Dict[str, Any]):
+def write_command(data: Dict[str, List[SongInfo]]):
     with open("./src/songs.json", "w", encoding="utf8") as f:
         f.write(
             json.dumps(
                 data,
                 ensure_ascii=False,
                 sort_keys=True,
-                indent=4))
+                indent=4,
+                cls=ExtendedJSONEncoder))
 
 
 if __name__ == "__main__":
     with open("./src/songs.json", encoding="utf8") as f:
-        data = json.load(f)
+        data = {
+            artist: [SongInfo(**song_info) for song_info in song_infos]
+            for artist, song_infos in json.load(f).items()}
 
     while True:
         try:
-            cmd = prompt("> ").split()
+            command_completer = WordCompleter(COMMAND_LIST)
+            cmd = prompt("> ", completer=command_completer).split()
         except EOFError:
             break
         if len(cmd) == 0:

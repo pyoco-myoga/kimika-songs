@@ -1,12 +1,20 @@
-from datetime import datetime
 import os
 import pickle
+import json
+from datetime import datetime
 from typing import Any, List, Optional, Tuple
+
 from prompt_toolkit import prompt
 from prompt_toolkit.completion import WordCompleter, base
 import pyperclip
 
+import update_json
+from update_json import SongInfo, ExtendedJSONEncoder
+
 TMP_FILE = "/tmp/timestamp.pkl"
+COMMAND_LIST = [
+    "ls", "add", "pop", "timestamp", "url", "base", "video", "write", "load"
+]
 
 def write_command(data: List[Any], video_id: str, base_time: datetime):
     with open(TMP_FILE, "wb") as f:
@@ -33,12 +41,15 @@ def datetime_to_time(t: datetime, base: datetime) -> str:
 
 
 if __name__ == "__main__":
+    with open("./src/songs.json", encoding="utf8") as f:
+        songs_data = {
+            artist: [SongInfo(**song_info) for song_info in song_infos]
+            for artist, song_infos in json.load(f).items()}
+
     video_id: Optional[str] = None
     base_time: Optional[datetime] = None
-    data: List[Tuple[datetime, datetime, str]] = []
-    command_completer = WordCompleter([
-        "ls", "add", "pop", "timestamp", "url", "base", "video", "write", "load"
-        ])
+    data: List[Tuple[datetime, datetime, str, SongInfo]] = []
+    command_completer = WordCompleter(COMMAND_LIST)
     while True:
         try:
             cmd = prompt("> ", completer=command_completer).split()
@@ -56,18 +67,18 @@ if __name__ == "__main__":
                 print("base_time is not set, please set")
                 continue
             timestamp_str = ""
-            for (t, endt, song_artist) in data:
+            for (t, endt, artist, song_info) in data:
                 timestamp_str += \
                         f"{datetime_to_time(t, base_time)} " \
                         f"{datetime_to_time(endt, base_time)} " \
-                        f"{song_artist}\n"
+                        f"{song_info.name} / {artist}\n"
             print(timestamp_str)
             pyperclip.copy(timestamp_str)
 
         elif cmd[0] == "add":
             dt = datetime.now()
-            song_artist = prompt("endt and (song, artist)>")
-            data.append((dt, datetime.now(), song_artist))
+            artist, song_info = update_json.input_song_info(songs_data)
+            data.append((dt, datetime.now(), artist, song_info))
 
         elif cmd[0] == "pop":
             print(data.pop())
@@ -77,8 +88,8 @@ if __name__ == "__main__":
                 print("base_time is not set, please set")
                 continue
             timestamp_str = ""
-            for (t, _endt, song_artist) in data:
-                timestamp_str += f"{datetime_to_time(t, base_time)} {song_artist}\n"
+            for (t, _endt, artist, song_info) in data:
+                timestamp_str += f"{datetime_to_time(t, base_time)} {song_info.name} / {artist}\n"
             print(timestamp_str)
             pyperclip.copy(timestamp_str)
 
@@ -89,9 +100,9 @@ if __name__ == "__main__":
             if video_id is None:
                 print("video_id is not set, please set")
                 continue
-            for (t, endt, song_artist) in data:
+            for (t, endt, artist, song_info) in data:
                 delta = t - base_time
-                print(song_artist)
+                print(artist, " / ", song_info.name)
                 print(f"t: {youtube_url(video_id, int(delta.total_seconds()))}")
                 delta = endt - base_time
                 print(f"t: {youtube_url(video_id, int(delta.total_seconds()))}")
@@ -123,6 +134,15 @@ if __name__ == "__main__":
             result = load_command()
             if result is not None:
                 data, video_id, base_time = result
+
+        elif cmd[0] == "json":
+            print(data)
+            pyperclip.copy(json.dumps(
+                data,
+                ensure_ascii=False,
+                sort_keys=True,
+                indent=4,
+                cls=ExtendedJSONEncoder))
 
         else:
             print(f"not supported command {cmd[0]}")
