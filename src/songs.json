@@ -258,6 +258,15 @@
             "t": 1126,
             "uuid": "d7f90597-8bbb-400c-ae62-5c99031f761a",
             "video": "vYwjd_emuFY"
+        },
+        {
+            "endt": 5006,
+            "length": "full",
+            "name": "赤いタンバリン",
+            "singType": "known",
+            "t": 4803,
+            "uuid": "8bc36e4c-0ea6-48d8-8f27-3c70613dcfa8",
+            "video": "8DsPvau5V8s"
         }
     ],
     "BLUE ENCOUNT": [
@@ -800,6 +809,15 @@
             "t": 829,
             "uuid": "fb73adb8-2ae6-4809-b3d4-f59bf5c3be8f",
             "video": "cNSV4Q_U5Ww"
+        },
+        {
+            "endt": 3446,
+            "length": "full",
+            "name": "C7",
+            "singType": "known",
+            "t": 3176,
+            "uuid": "be1cb75b-d747-44f5-ae4a-2aaa10c2f2c1",
+            "video": "8DsPvau5V8s"
         },
         {
             "endt": 2416,
@@ -2465,6 +2483,15 @@
             "video": "KvtEbK34tAo"
         },
         {
+            "endt": 2344,
+            "length": "full",
+            "name": "人にやさしく",
+            "singType": "known",
+            "t": 2157,
+            "uuid": "b6d7d7b6-8c55-4ca6-a08a-eaec323c6a2d",
+            "video": "8DsPvau5V8s"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "夢",
@@ -3309,6 +3336,15 @@
             "t": 2269,
             "uuid": "9b2190db-496d-41a4-83d2-65b61a54d62f",
             "video": "0YFfcZOATK4"
+        },
+        {
+            "endt": 4553,
+            "length": "full",
+            "name": "君はロックを聴かない",
+            "singType": "known",
+            "t": 4284,
+            "uuid": "2a3f155a-1097-416a-8f89-f9cf1cdc00a4",
+            "video": "8DsPvau5V8s"
         },
         {
             "endt": 4832,
@@ -4213,6 +4249,15 @@
             "video": "nsN-Us1vxmM"
         },
         {
+            "endt": 4007,
+            "length": "full",
+            "name": "線香花火",
+            "singType": "known",
+            "t": 3735,
+            "uuid": "b1ccf5ba-e132-497e-afac-80b0c1e7350a",
+            "video": "8DsPvau5V8s"
+        },
+        {
             "endt": null,
             "length": "full",
             "name": "雪どけ",
@@ -4421,6 +4466,15 @@
             "t": 4288,
             "uuid": "a94f6fb1-926e-4221-a748-a565dfc7dbe9",
             "video": "qCIfCOh1iBY"
+        },
+        {
+            "endt": 1779,
+            "length": "full",
+            "name": "TSUNAMI",
+            "singType": "known",
+            "t": 1505,
+            "uuid": "078a075f-c780-41ae-98ad-bc7b61db0778",
+            "video": "8DsPvau5V8s"
         }
     ],
     "サスケ": [
@@ -4877,6 +4931,15 @@
             "t": 4024,
             "uuid": "5abfb2ef-fd7d-4c92-bb15-60653e3602bb",
             "video": "KLxjwPDxWVk"
+        },
+        {
+            "endt": 766,
+            "length": "full",
+            "name": "若者のすべて",
+            "singType": "known",
+            "t": 470,
+            "uuid": "160ef806-c5fa-4803-9ee5-c5bd21ae5856",
+            "video": "8DsPvau5V8s"
         }
     ],
     "ポルノグラフィティ": [
@@ -5483,6 +5546,15 @@
             "video": "jQaB4I_mKY0"
         },
         {
+            "endt": 1300,
+            "length": "full",
+            "name": "新宿",
+            "singType": "known",
+            "t": 1136,
+            "uuid": "75b46b60-e721-4f98-a48d-35e2a6a9a2c5",
+            "video": "8DsPvau5V8s"
+        },
+        {
             "endt": 4125,
             "length": "full",
             "name": "絶対少女",
@@ -5595,6 +5667,15 @@
             "t": 2324,
             "uuid": "959297bd-f8f7-4f78-b22f-668f55ffa853",
             "video": "-OeM_LWr_2Q"
+        },
+        {
+            "endt": 5534,
+            "length": "full",
+            "name": "エクレア",
+            "singType": "known",
+            "t": 5253,
+            "uuid": "2152e474-273e-4413-ab0c-7fa42d5ba3fa",
+            "video": "8DsPvau5V8s"
         }
     ],
     "川島あい": [
@@ -7530,6 +7611,15 @@
             "t": 5363,
             "uuid": "2ea224d2-36d9-47d4-a645-6b6fad651508",
             "video": "wS1jFMR7WsQ"
+        },
+        {
+            "endt": 2873,
+            "length": "full",
+            "name": "漂流教室",
+            "singType": "known",
+            "t": 2562,
+            "uuid": "e0c9a0e2-9716-4f64-9441-0023d213184a",
+            "video": "8DsPvau5V8s"
         },
         {
             "endt": null,
