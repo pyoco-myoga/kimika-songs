@@ -939,6 +939,15 @@
             "video": "Iw8qPznFCV4"
         },
         {
+            "endt": 2735,
+            "length": "full",
+            "name": "童貞ソー・ヤング",
+            "singType": "known",
+            "t": 2424,
+            "uuid": "03e696fb-c388-465b-999c-f0c0f1937e89",
+            "video": "JU9xxyrYt6Y"
+        },
+        {
             "endt": 1427,
             "length": "full",
             "name": "若者たち",
@@ -973,6 +982,15 @@
             "t": 1664,
             "uuid": "0bdd7271-0dd3-4444-ba08-f4390e572230",
             "video": "9lUTK_KQj_8"
+        },
+        {
+            "endt": 8232,
+            "length": "full",
+            "name": "若者たち",
+            "singType": "known",
+            "t": 7888,
+            "uuid": "5ffb104a-b916-4370-bd61-a49188cf4dad",
+            "video": "JU9xxyrYt6Y"
         },
         {
             "endt": 2727,
@@ -1143,6 +1161,15 @@
             "t": 7191,
             "uuid": "001425de-c1c3-4229-8efe-95a234503057",
             "video": "vYwjd_emuFY"
+        },
+        {
+            "endt": 6664,
+            "length": "short",
+            "name": "STAY GOLD",
+            "singType": "improvised",
+            "t": 6459,
+            "uuid": "fe01c230-2493-4503-93b4-af1d69a30ad3",
+            "video": "JU9xxyrYt6Y"
         },
         {
             "endt": 8087,
@@ -1652,6 +1679,15 @@
             "video": "mPUzyxcD_BU"
         },
         {
+            "endt": 2158,
+            "length": "full",
+            "name": "Can't Take My Eyes Off Of You",
+            "singType": "known",
+            "t": 1983,
+            "uuid": "76c2578f-1f1d-4980-9167-75315f26bdb5",
+            "video": "JU9xxyrYt6Y"
+        },
+        {
             "endt": 6168,
             "length": "full",
             "name": "I Go Alone",
@@ -1740,6 +1776,15 @@
         }
     ],
     "MONGOL800": [
+        {
+            "endt": 3669,
+            "length": "full",
+            "name": "あなたに",
+            "singType": "known",
+            "t": 3475,
+            "uuid": "a0c64441-93d6-4938-9cf5-e04f69d07901",
+            "video": "JU9xxyrYt6Y"
+        },
         {
             "endt": null,
             "length": null,
@@ -1920,6 +1965,17 @@
             "t": 3551,
             "uuid": "8d678f97-c8c6-41b2-9612-85378f335935",
             "video": "46BxnYxsHoY"
+        }
+    ],
+    "Off Spring": [
+        {
+            "endt": 5381,
+            "length": "full",
+            "name": "All I WANT",
+            "singType": "improvised",
+            "t": 5264,
+            "uuid": "d0f9f5b7-e4ac-4f82-893a-e1e75811acf4",
+            "video": "JU9xxyrYt6Y"
         }
     ],
     "Official髭男dism": [
@@ -2398,6 +2454,28 @@
             "video": "hf4Zd-7AIxI"
         }
     ],
+    "Sex Pistols": [
+        {
+            "endt": 5008,
+            "length": "full",
+            "name": "Anarchy In The UK",
+            "singType": "improvised",
+            "t": 4846,
+            "uuid": "d0fe33c5-9379-405f-b7f8-76b0b0035e95",
+            "video": "JU9xxyrYt6Y"
+        }
+    ],
+    "SpecialThanks": [
+        {
+            "endt": 3139,
+            "length": "full",
+            "name": "Mr.DONUT",
+            "singType": "known",
+            "t": 2966,
+            "uuid": "e66acac9-a745-48b9-806c-11956d1118a7",
+            "video": "JU9xxyrYt6Y"
+        }
+    ],
     "THE BACK HORN": [
         {
             "endt": 3871,
@@ -2483,6 +2561,15 @@
             "video": "qCIfCOh1iBY"
         },
         {
+            "endt": 1569,
+            "length": "full",
+            "name": "TRAIN-TRAIN",
+            "singType": "known",
+            "t": 1348,
+            "uuid": "da2e8793-04ba-442f-a553-682419200c41",
+            "video": "o44gUuKYb2k"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "キスしてほしい",
@@ -2553,6 +2640,15 @@
             "t": 2577,
             "uuid": "2bf1b072-8ed6-49c8-ab72-cb9c221bfe6b",
             "video": "KvtEbK34tAo"
+        },
+        {
+            "endt": 1766,
+            "length": "full",
+            "name": "リンダリンダ",
+            "singType": "known",
+            "t": 1578,
+            "uuid": "92e66092-71e6-4e85-a735-b5a77bd9ea34",
+            "video": "JU9xxyrYt6Y"
         },
         {
             "endt": null,
@@ -2757,6 +2853,15 @@
             "t": 1774,
             "uuid": "19845938-1c06-46fa-b789-cc118e82073f",
             "video": "Iw8qPznFCV4"
+        },
+        {
+            "endt": 2515,
+            "length": "full",
+            "name": "七夕",
+            "singType": "known",
+            "t": 2339,
+            "uuid": "1eebcc04-6923-4bea-a0e7-d03e4cd89391",
+            "video": "o44gUuKYb2k"
         }
     ],
     "THE YELLOW MONKEY": [
@@ -2842,6 +2947,17 @@
             "t": 3091,
             "uuid": "6f522263-1c40-4c3d-a50d-62c883b89f14",
             "video": "5NJW_6ylZaE"
+        }
+    ],
+    "TOMOVSKY": [
+        {
+            "endt": 630,
+            "length": "full",
+            "name": "我に返るスキマを埋めろ",
+            "singType": "known",
+            "t": 373,
+            "uuid": "6146a3a3-0487-41e9-93ca-4ce5638eec71",
+            "video": "o44gUuKYb2k"
         }
     ],
     "Whiteberry": [
@@ -3005,6 +3121,24 @@
             "t": 5669,
             "uuid": "107ac8e0-e52c-4ea9-b79b-0f64f99a7721",
             "video": "vGbxms7kIOE"
+        },
+        {
+            "endt": 2181,
+            "length": "full",
+            "name": "花火",
+            "singType": "live",
+            "t": 1904,
+            "uuid": "0f44c4bb-f6e3-429f-8379-a202a20ee04a",
+            "video": "zb0DC8mdn-U"
+        },
+        {
+            "endt": 4318,
+            "length": "full",
+            "name": "花火",
+            "singType": "live",
+            "t": 4044,
+            "uuid": "5cce4be2-c7cb-4cc5-a1de-c610667299f9",
+            "video": "zb0DC8mdn-U"
         }
     ],
     "andymori": [
@@ -3282,6 +3416,15 @@
     ],
     "↑THE HIGH-LOWS↓": [
         {
+            "endt": 7607,
+            "length": "full",
+            "name": "アメリカ魂",
+            "singType": "known",
+            "t": 7364,
+            "uuid": "e5c35f85-3f67-4d54-9d62-e66617200f63",
+            "video": "JU9xxyrYt6Y"
+        },
+        {
             "endt": 884,
             "length": "full",
             "name": "不死身のエレキマン",
@@ -3307,6 +3450,15 @@
             "t": 3102,
             "uuid": "ba82e9d8-9911-4b9f-ba6f-73274777ed76",
             "video": "9lUTK_KQj_8"
+        },
+        {
+            "endt": 7200,
+            "length": "full",
+            "name": "即死",
+            "singType": "known",
+            "t": 7054,
+            "uuid": "62c919b0-e990-4f3a-ad3a-c9fddc45d09f",
+            "video": "JU9xxyrYt6Y"
         },
         {
             "endt": 3941,
@@ -3843,6 +3995,15 @@
             "t": 5436,
             "uuid": "e8da50d0-5d74-4b83-bf99-e01b0cfbec9f",
             "video": "-OeM_LWr_2Q"
+        },
+        {
+            "endt": 3179,
+            "length": "full",
+            "name": "モッシュレース",
+            "singType": "known",
+            "t": 2972,
+            "uuid": "3e3b82ed-1467-49b6-98e4-7131a0ba189e",
+            "video": "o44gUuKYb2k"
         }
     ],
     "すとぷり": [
@@ -4294,6 +4455,15 @@
             "video": "CfhKFBDp9OU"
         },
         {
+            "endt": 4556,
+            "length": "full",
+            "name": "国道二号線",
+            "singType": "known",
+            "t": 4339,
+            "uuid": "927c53af-362c-4272-b614-8733701779b9",
+            "video": "JU9xxyrYt6Y"
+        },
+        {
             "endt": 7243,
             "length": "full",
             "name": "忘れられない日々",
@@ -4456,6 +4626,15 @@
             "video": "8DsPvau5V8s"
         },
         {
+            "endt": 3467,
+            "length": "full",
+            "name": "線香花火",
+            "singType": "live",
+            "t": 3159,
+            "uuid": "6726f167-2605-4b74-91dc-bac56bece0ca",
+            "video": "zb0DC8mdn-U"
+        },
+        {
             "endt": null,
             "length": "full",
             "name": "雪どけ",
@@ -4602,6 +4781,15 @@
             "t": 4824,
             "uuid": "350f01a2-e559-42f8-940e-bd2c68da7a41",
             "video": "KvtEbK34tAo"
+        },
+        {
+            "endt": 4056,
+            "length": "full",
+            "name": "タリホー",
+            "singType": "known",
+            "t": 3902,
+            "uuid": "5943098b-0c8b-4c50-a92f-50d18114c348",
+            "video": "JU9xxyrYt6Y"
         },
         {
             "endt": null,
@@ -5194,6 +5382,15 @@
             "t": 470,
             "uuid": "160ef806-c5fa-4803-9ee5-c5bd21ae5856",
             "video": "8DsPvau5V8s"
+        },
+        {
+            "endt": 1529,
+            "length": "full",
+            "name": "若者のすべて",
+            "singType": "live",
+            "t": 1198,
+            "uuid": "8a683011-7313-4d18-8fab-0ca80feef7dc",
+            "video": "zb0DC8mdn-U"
         }
     ],
     "ポルノグラフィティ": [
@@ -5528,6 +5725,17 @@
             "t": 5441,
             "uuid": "fad14d9e-d0c4-4aa4-a4e4-7bb560fc45e0",
             "video": "TwhEO1OmEEg"
+        }
+    ],
+    "南一誠": [
+        {
+            "endt": 2811,
+            "length": "full",
+            "name": "それゆけカープ",
+            "singType": "known",
+            "t": 2646,
+            "uuid": "b1d7e3a6-08ce-4819-bd7f-bb9a85e03af3",
+            "video": "o44gUuKYb2k"
         }
     ],
     "古賀真佐代&東映児童合唱団": [
@@ -6089,6 +6297,15 @@
             "t": 809,
             "uuid": "0b56f6f6-e699-415d-9c55-0f5acd9b009c",
             "video": "mPUzyxcD_BU"
+        },
+        {
+            "endt": 1049,
+            "length": "full",
+            "name": "MajiでKoiする5秒前",
+            "singType": "known",
+            "t": 832,
+            "uuid": "396b27fa-f252-4d4e-b6e3-2bbef4f1641a",
+            "video": "o44gUuKYb2k"
         }
     ],
     "広瀬香美": [
@@ -6367,6 +6584,15 @@
             "video": "rd0cv0P9MHc"
         },
         {
+            "endt": 1180,
+            "length": "full",
+            "name": "僕らパンクロックで生きていくんだ",
+            "singType": "live",
+            "t": 979,
+            "uuid": "5b8451e6-a709-446b-a554-cf4e505f86a9",
+            "video": "JU9xxyrYt6Y"
+        },
+        {
             "endt": 3377,
             "length": "full",
             "name": "北極星",
@@ -6410,6 +6636,15 @@
             "t": 7300,
             "uuid": "2fa43e7d-4019-4339-91fc-f0bc27a5853e",
             "video": "TwhEO1OmEEg"
+        },
+        {
+            "endt": 2847,
+            "length": "full",
+            "name": "花火",
+            "singType": "live",
+            "t": 2594,
+            "uuid": "84c00e03-2d34-4ee8-ba14-6116ae3325f1",
+            "video": "zb0DC8mdn-U"
         }
     ],
     "放課後ティータイム": [
@@ -7264,6 +7499,15 @@
             "t": 8331,
             "uuid": "ecb6f25a-004c-4786-a950-abe22aa8d629",
             "video": "TwhEO1OmEEg"
+        },
+        {
+            "endt": 3750,
+            "length": "full",
+            "name": "Rain",
+            "singType": "known",
+            "t": 3481,
+            "uuid": "cf155f33-3b4c-4c00-beb7-46d4d1b676a5",
+            "video": "o44gUuKYb2k"
         }
     ],
     "童謡": [
@@ -7797,6 +8041,15 @@
             "video": "GSK6rLb-ibk"
         },
         {
+            "endt": 2058,
+            "length": "full",
+            "name": "なんとなく僕たちは大人になるんだ",
+            "singType": "known",
+            "t": 1774,
+            "uuid": "84d82d9c-4c6b-4cf0-b722-a2d1f80d4d05",
+            "video": "o44gUuKYb2k"
+        },
+        {
             "endt": 2043,
             "length": "full",
             "name": "もしも君が泣くならば",
@@ -7849,6 +8102,15 @@
             "t": 2058,
             "uuid": "83eb15d8-f624-458f-aaf6-e93c53c5be64",
             "video": "Mve6gP5bGPQ"
+        },
+        {
+            "endt": 6186,
+            "length": "full",
+            "name": "人間",
+            "singType": "known",
+            "t": 5622,
+            "uuid": "e3a053e5-dedf-4296-8e70-88ed0f4fd88a",
+            "video": "JU9xxyrYt6Y"
         },
         {
             "endt": 2756,
