@@ -4,8 +4,7 @@ import json
 from enum import Enum
 import dataclasses
 from dataclasses import dataclass
-from os.path import supports_unicode_filenames
-from typing import Any, Optional, Self
+from typing import Optional
 import uuid
 from prompt_toolkit import prompt
 from prompt_toolkit.completion import WordCompleter
@@ -99,12 +98,12 @@ class SongInfo:
         default: Optional[str] = None,
     ) -> str:
         songs_completer = WordCompleter(
-            list(
+            list(set(
                 map(
                     lambda x: x.name,
                     data.get(artist, []) if artist is not None else [],
                 )
-            )
+            ))
         )
         song = prompt("song> ", completer=songs_completer, default=default or "")
         return song
@@ -115,12 +114,12 @@ class SongInfo:
         default: Optional[str] = None,
     ) -> str:
         videos_completer = WordCompleter(
-            list(
+            list(set(
                 map(
                     lambda song: song.video,
                     itertools.chain.from_iterable(data.values()),
                 )
-            )
+            ))
         )
         video = prompt("video> ", completer=videos_completer, default=default or "")
         return video
@@ -416,7 +415,11 @@ class LiveCommand:
         while True:
             try:
                 command_completer = WordCompleter(list(LiveCommand.COMMAND_LIST.keys()))
-                cmd, *cmd_args = prompt(">> ", completer=command_completer).split()
+                match prompt(">> ", completer=command_completer).split():
+                    case cmd, *cmd_args:
+                        pass
+                    case _:
+                        continue
             except EOFError:
                 if input("exit? y/n>") == "y":
                     break
@@ -449,9 +452,14 @@ if __name__ == "__main__":
     while True:
         try:
             command_completer = WordCompleter(list(Commands.COMMAND_LIST.keys()))
-            cmd, *cmd_args = prompt("> ", completer=command_completer).split()
+            match prompt("> ", completer=command_completer).split():
+                case cmd, *cmd_args:
+                    pass
+                case _:
+                    continue
         except EOFError:
             if input("exit? y/n>") == "y":
+                Commands.write()
                 break
             else:
                 continue
@@ -464,6 +472,7 @@ if __name__ == "__main__":
             case "merge":
                 if (song_list := LiveCommand.export_song_list()) is not None:
                     Commands.merge(song_list)
+                    Commands.write()
             case "exit":
                 break
             case "live":
