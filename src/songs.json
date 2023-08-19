@@ -1062,6 +1062,15 @@
             "video": "tQ2CZRKUFJE"
         },
         {
+            "endt": 2965,
+            "length": "full",
+            "name": "チョコレィト",
+            "singType": "known",
+            "t": 2774,
+            "uuid": "4f1e6064-7b23-477b-86e1-338029d1fefb",
+            "video": "EodQS2CnhM4"
+        },
+        {
             "endt": 3493,
             "length": "full",
             "name": "ユアンと踊れ",
@@ -2976,6 +2985,15 @@
             "t": 373,
             "uuid": "6146a3a3-0487-41e9-93ca-4ce5638eec71",
             "video": "o44gUuKYb2k"
+        },
+        {
+            "endt": 1085,
+            "length": "full",
+            "name": "我に返るスキマを埋めろ",
+            "singType": "known",
+            "t": 829,
+            "uuid": "b5e55e20-9dac-44a8-9430-0051f89b6e91",
+            "video": "EodQS2CnhM4"
         }
     ],
     "Whiteberry": [
@@ -3457,6 +3475,15 @@
             "t": 10406,
             "uuid": "c88e14fe-0e9e-451c-aabf-6085e7fd1453",
             "video": "ArOdT1uSdCA"
+        },
+        {
+            "endt": 6079,
+            "length": "full",
+            "name": "君のせい",
+            "singType": "known",
+            "t": 5813,
+            "uuid": "e6032665-09e8-4ee7-ab78-17f3fef80593",
+            "video": "EodQS2CnhM4"
         }
     ],
     "↑THE HIGH-LOWS↓": [
@@ -3749,6 +3776,15 @@
             "t": 4284,
             "uuid": "2a3f155a-1097-416a-8f89-f9cf1cdc00a4",
             "video": "8DsPvau5V8s"
+        },
+        {
+            "endt": 5608,
+            "length": "full",
+            "name": "君はロックを聴かない",
+            "singType": "known",
+            "t": 5358,
+            "uuid": "efbdcca9-a998-42ce-b05c-1fbf7a231bc5",
+            "video": "EodQS2CnhM4"
         },
         {
             "endt": 4832,
@@ -4518,6 +4554,15 @@
             "video": "CfhKFBDp9OU"
         },
         {
+            "endt": 7465,
+            "length": "full",
+            "name": "卒業",
+            "singType": null,
+            "t": 7183,
+            "uuid": "bca35f48-51a8-44ed-8da2-0d9df390ff7f",
+            "video": "EodQS2CnhM4"
+        },
+        {
             "endt": 1759,
             "length": "full",
             "name": "告白",
@@ -4835,13 +4880,13 @@
     ],
     "クリープハイプ": [
         {
-            "endt": 9070,
-            "length": "short",
+            "endt": 1493,
+            "length": "full",
             "name": "かえるの唄",
             "singType": "known",
-            "t": 9035,
-            "uuid": "e1454b0a-3039-46cf-98ee-750d39ba6933",
-            "video": "vYwjd_emuFY"
+            "t": 1352,
+            "uuid": "1b6c49ed-cd01-4e25-bc76-6c5ecfa9731b",
+            "video": "EodQS2CnhM4"
         },
         {
             "endt": null,
@@ -4878,6 +4923,15 @@
             "t": 9532,
             "uuid": "09ae408f-39fd-4fb6-99e3-ec3e5a2df4c3",
             "video": "E6Guj98A2a0"
+        },
+        {
+            "endt": 1750,
+            "length": "full",
+            "name": "火まつり",
+            "singType": "known",
+            "t": 1622,
+            "uuid": "29fbce8c-91c6-4502-8833-f6295b848948",
+            "video": "EodQS2CnhM4"
         }
     ],
     "クロマニヨンズ": [
@@ -5170,6 +5224,15 @@
             "video": "vGbxms7kIOE"
         },
         {
+            "endt": 596,
+            "length": "full",
+            "name": "愛のしるし",
+            "singType": "known",
+            "t": 449,
+            "uuid": "43315d89-e473-4600-bb94-9886e51bee68",
+            "video": "EodQS2CnhM4"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "空も飛べるはず",
@@ -5206,6 +5269,15 @@
             "t": 1096,
             "uuid": "8bbc766b-4aaf-4083-a4a4-8eea4c1dbc44",
             "video": "BZylTh8n9Uw"
+        },
+        {
+            "endt": 6737,
+            "length": "full",
+            "name": "Sunny Day Sunday",
+            "singType": "known",
+            "t": 6576,
+            "uuid": "49581a76-f146-4c3b-acdd-d21a674e4cae",
+            "video": "EodQS2CnhM4"
         }
     ],
     "チェリッシュ": [
@@ -5535,6 +5607,17 @@
             "t": 4859,
             "uuid": "d5c07b90-8e41-409e-afd7-10a36cc8070d",
             "video": "FINKwpp4QI0"
+        }
+    ],
+    "フーバーウーバー": [
+        {
+            "endt": 3735,
+            "length": "full",
+            "name": "フェンダー",
+            "singType": "known",
+            "t": 3536,
+            "uuid": "6b5d0f76-296a-4943-8eb1-11b4e2b7f8d9",
+            "video": "EodQS2CnhM4"
         }
     ],
     "ポルノグラフィティ": [
@@ -5878,6 +5961,15 @@
             "t": 5441,
             "uuid": "fad14d9e-d0c4-4aa4-a4e4-7bb560fc45e0",
             "video": "TwhEO1OmEEg"
+        },
+        {
+            "endt": 5024,
+            "length": "full",
+            "name": "恋愛サーキュレーション",
+            "singType": "known",
+            "t": 4773,
+            "uuid": "d8e3d5ab-3a91-4a38-84d1-62d9c99ab459",
+            "video": "EodQS2CnhM4"
         }
     ],
     "南一誠": [
@@ -6816,6 +6908,15 @@
             "t": 2594,
             "uuid": "84c00e03-2d34-4ee8-ba14-6116ae3325f1",
             "video": "zb0DC8mdn-U"
+        },
+        {
+            "endt": 4172,
+            "length": "full",
+            "name": "花火",
+            "singType": "known",
+            "t": 3934,
+            "uuid": "caa2f3ea-f8cb-4f28-b728-a5efaba6a5de",
+            "video": "EodQS2CnhM4"
         }
     ],
     "放課後ティータイム": [
@@ -7619,6 +7720,15 @@
             "video": "mPUzyxcD_BU"
         },
         {
+            "endt": 4640,
+            "length": "full",
+            "name": "天城越え",
+            "singType": "known",
+            "t": 4386,
+            "uuid": "8c84c17e-8f33-411d-9853-9e86404bf1c8",
+            "video": "EodQS2CnhM4"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "津軽海峡・冬景色",
@@ -8022,6 +8132,26 @@
             "t": 2308,
             "uuid": "5d14efaf-3dd5-4046-b876-ec31452c66b7",
             "video": "Iw8qPznFCV4"
+        }
+    ],
+    "羽村きみか": [
+        {
+            "endt": 2408,
+            "length": "full",
+            "name": "きみのうた~銀杏BOYZを聴きながら~",
+            "singType": "live",
+            "t": 2168,
+            "uuid": "7f287b8c-9278-4907-b1f0-5f6a45f3f679",
+            "video": "EodQS2CnhM4"
+        },
+        {
+            "endt": 8017,
+            "length": "full",
+            "name": "きみのうた~銀杏BOYZを聴きながら~",
+            "singType": "known",
+            "t": 7761,
+            "uuid": "0c8ce445-c765-4725-bf87-cec524fe9edc",
+            "video": "EodQS2CnhM4"
         }
     ],
     "茂森あゆみ&速水けんたろう": [
@@ -8599,6 +8729,15 @@
             "t": 7664,
             "uuid": "eee51d80-6807-4e75-bae1-c1984e080bc1",
             "video": "-OeM_LWr_2Q"
+        },
+        {
+            "endt": 3384,
+            "length": "full",
+            "name": "ダーリンダーリン",
+            "singType": "known",
+            "t": 3123,
+            "uuid": "cd04802a-d374-45a8-941a-d450d42facdb",
+            "video": "EodQS2CnhM4"
         }
     ],
     "黒うさP": [
