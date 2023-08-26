@@ -6694,6 +6694,33 @@
             "video": "M3v8QX_ANSM"
         },
         {
+            "endt": 562,
+            "length": "full",
+            "name": "Cから始まるABC",
+            "singType": "live",
+            "t": 418,
+            "uuid": "a3001054-104c-4220-a04b-843d99c291b2",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 3391,
+            "length": "full",
+            "name": "この街には君がいない",
+            "singType": "live",
+            "t": 3312,
+            "uuid": "7dfb72dd-d19b-44a2-84b0-24b7d8b105f8",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 6606,
+            "length": "full",
+            "name": "この街には君がいない",
+            "singType": "live",
+            "t": 6524,
+            "uuid": "03011b0f-0c13-4fdf-8489-8bf7918117ac",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
             "endt": 1343,
             "length": "full",
             "name": "この高鳴りをなんと呼ぶ",
@@ -6719,6 +6746,51 @@
             "t": 2849,
             "uuid": "f197a380-3b04-46b0-95dc-e544cdfd9333",
             "video": "-OeM_LWr_2Q"
+        },
+        {
+            "endt": 5330,
+            "length": "full",
+            "name": "この高鳴りをなんと呼ぶ",
+            "singType": "live",
+            "t": 5089,
+            "uuid": "9b6907e6-eb9c-423b-9e0e-9bc610626a3f",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 6961,
+            "length": "full",
+            "name": "この高鳴りをなんと呼ぶ",
+            "singType": "live",
+            "t": 6714,
+            "uuid": "dd0fb1b9-bdd0-4a2d-b9dc-8490b71fc294",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 2922,
+            "length": "full",
+            "name": "ばかもののすべて",
+            "singType": "live",
+            "t": 2761,
+            "uuid": "e1535103-5e40-4557-a19b-d5c31cd5493f",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 6421,
+            "length": "full",
+            "name": "ばかもののすべて",
+            "singType": "live",
+            "t": 6262,
+            "uuid": "a190a32d-ab62-4567-badf-4c1bbf3c86c9",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 4806,
+            "length": "full",
+            "name": "アイラブ言う",
+            "singType": "live",
+            "t": 4594,
+            "uuid": "474a66b6-5699-475b-a075-4a12ddc7190c",
+            "video": "1Zeq5yzKt7A"
         },
         {
             "endt": null,
@@ -6793,6 +6865,15 @@
             "video": "vGbxms7kIOE"
         },
         {
+            "endt": 3799,
+            "length": "full",
+            "name": "バンドやろうぜ",
+            "singType": "live",
+            "t": 3628,
+            "uuid": "4aa236ef-d11b-4303-b0d8-5e71d0fe733b",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "バンドワゴン",
@@ -6829,6 +6910,15 @@
             "video": "-OeM_LWr_2Q"
         },
         {
+            "endt": 1108,
+            "length": "full",
+            "name": "バンドワゴン",
+            "singType": "live",
+            "t": 860,
+            "uuid": "913f1767-90aa-4b99-9b80-e3677c74f1fa",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "僕らチェンジザワールド",
@@ -6845,6 +6935,15 @@
             "t": 1707,
             "uuid": "79932da5-7887-4dd0-9649-7b58265356d6",
             "video": "rd0cv0P9MHc"
+        },
+        {
+            "endt": 2537,
+            "length": "full",
+            "name": "僕らチェンジザワールド",
+            "singType": "live",
+            "t": 2323,
+            "uuid": "be3f2a18-dc86-435a-a719-b416495a6823",
+            "video": "1Zeq5yzKt7A"
         },
         {
             "endt": 1180,
@@ -6874,6 +6973,33 @@
             "video": "Iw8qPznFCV4"
         },
         {
+            "endt": 1543,
+            "length": "full",
+            "name": "北極星",
+            "singType": "live",
+            "t": 1372,
+            "uuid": "c0237688-d513-4616-9219-ba128d5a5a03",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 215,
+            "length": "short",
+            "name": "忘れらんねえよ",
+            "singType": "live",
+            "t": 163,
+            "uuid": "79825ddb-8cbd-4e42-9259-62dffbe961c1",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 5800,
+            "length": "full",
+            "name": "忘れらんねえよ",
+            "singType": "live",
+            "t": 5625,
+            "uuid": "b7db140b-90ee-41b1-8af8-147a27960e4f",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "犬にしてくれ",
@@ -6901,6 +7027,15 @@
             "video": "TwhEO1OmEEg"
         },
         {
+            "endt": 4392,
+            "length": "full",
+            "name": "犬にしてくれ",
+            "singType": "live",
+            "t": 4202,
+            "uuid": "77ba7689-6aed-4ced-9b32-29565fbf67e4",
+            "video": "1Zeq5yzKt7A"
+        },
+        {
             "endt": 2847,
             "length": "full",
             "name": "花火",
@@ -6917,6 +7052,15 @@
             "t": 3934,
             "uuid": "caa2f3ea-f8cb-4f28-b728-a5efaba6a5de",
             "video": "EodQS2CnhM4"
+        },
+        {
+            "endt": 2028,
+            "length": "full",
+            "name": "花火",
+            "singType": "live",
+            "t": 1779,
+            "uuid": "8de5de0e-c9a1-4329-8fef-cadf4c8030ff",
+            "video": "1Zeq5yzKt7A"
         }
     ],
     "放課後ティータイム": [
