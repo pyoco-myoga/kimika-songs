@@ -3274,6 +3274,15 @@
             "t": 3131,
             "uuid": "aa54ec17-9e30-455a-bf42-cb7b8141bf22",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 676,
+            "length": "full",
+            "name": "secret base ~君がくれたもの~",
+            "singType": "live",
+            "t": 400,
+            "uuid": "c087f803-2076-47ee-8a51-563d4303bf05",
+            "video": "BODI63bQn_g"
         }
     ],
     "aiko": [
@@ -3603,6 +3612,33 @@
     ],
     "teto": [
         {
+            "endt": 1284,
+            "length": "full",
+            "name": "9月になること",
+            "singType": "live",
+            "t": 1053,
+            "uuid": "b96f560f-896d-46fe-83da-a75689a13c83",
+            "video": "BODI63bQn_g"
+        },
+        {
+            "endt": 3877,
+            "length": "full",
+            "name": "蜩",
+            "singType": "live",
+            "t": 3639,
+            "uuid": "35d959d7-e333-4e6d-b8a7-8bd700982632",
+            "video": "BODI63bQn_g"
+        },
+        {
+            "endt": 6089,
+            "length": "full",
+            "name": "蜩",
+            "singType": "live",
+            "t": 5860,
+            "uuid": "f18bdf1d-9ed2-408c-a460-c5c03659424d",
+            "video": "BODI63bQn_g"
+        },
+        {
             "endt": 7341,
             "length": "full",
             "name": "高層ビルと人工衛星",
@@ -3686,6 +3722,15 @@
             "t": 7364,
             "uuid": "e5c35f85-3f67-4d54-9d62-e66617200f63",
             "video": "JU9xxyrYt6Y"
+        },
+        {
+            "endt": 5500,
+            "length": "full",
+            "name": "ボート",
+            "singType": "live",
+            "t": 5241,
+            "uuid": "9f1fad3f-283a-4ae2-986a-b44506eefcd6",
+            "video": "BODI63bQn_g"
         },
         {
             "endt": 884,
@@ -5042,6 +5087,24 @@
             "video": "ITin9vCGYA0"
         },
         {
+            "endt": 1879,
+            "length": "full",
+            "name": "線香花火",
+            "singType": "live",
+            "t": 1548,
+            "uuid": "0a5a4e69-badc-4cc6-b07f-e6e2b117e50c",
+            "video": "BODI63bQn_g"
+        },
+        {
+            "endt": 6470,
+            "length": "full",
+            "name": "線香花火",
+            "singType": "live",
+            "t": 6180,
+            "uuid": "b24e4868-296d-49f4-9f3d-a39a9bafe93b",
+            "video": "BODI63bQn_g"
+        },
+        {
             "endt": null,
             "length": "full",
             "name": "雪どけ",
@@ -5890,6 +5953,15 @@
             "t": 4859,
             "uuid": "d5c07b90-8e41-409e-afd7-10a36cc8070d",
             "video": "FINKwpp4QI0"
+        },
+        {
+            "endt": 4681,
+            "length": "full",
+            "name": "若者のすべて",
+            "singType": "live",
+            "t": 4364,
+            "uuid": "644a4894-007f-4a0c-b535-bc1b15b550fa",
+            "video": "BODI63bQn_g"
         }
     ],
     "フーバーウーバー": [
@@ -6187,6 +6259,15 @@
         }
     ],
     "乙女新党": [
+        {
+            "endt": 3111,
+            "length": "full",
+            "name": "2学期デビュー大作戦!!",
+            "singType": "live",
+            "t": 2848,
+            "uuid": "355b0e8c-0240-4ef2-8746-ad3b314e0606",
+            "video": "BODI63bQn_g"
+        },
         {
             "endt": null,
             "length": "short",
@@ -9075,6 +9156,15 @@
             "t": 9949,
             "uuid": "f29a24ae-fff2-4e50-bd6c-4f167b3c9eaf",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 2555,
+            "length": "full",
+            "name": "夢で逢えたら",
+            "singType": "live",
+            "t": 2267,
+            "uuid": "60735bcd-ad67-4789-8c86-b53c7c642e90",
+            "video": "BODI63bQn_g"
         },
         {
             "endt": 7531,
