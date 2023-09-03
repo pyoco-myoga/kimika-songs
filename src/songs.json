@@ -1655,6 +1655,15 @@
             "video": "0YFfcZOATK4"
         },
         {
+            "endt": 5679,
+            "length": "full",
+            "name": "そばかす",
+            "singType": "known",
+            "t": 5446,
+            "uuid": "dd46b4a1-d425-4289-832d-0dc6317d665e",
+            "video": "_VhgWzAPVkQ"
+        },
+        {
             "endt": 3748,
             "length": "full",
             "name": "クラシック",
@@ -1689,6 +1698,15 @@
             "t": 5216,
             "uuid": "61f22415-b37c-4642-957e-3b0c5afe1b00",
             "video": "vYwjd_emuFY"
+        },
+        {
+            "endt": 2689,
+            "length": "full",
+            "name": "ラッキープール",
+            "singType": "known",
+            "t": 2421,
+            "uuid": "5b46a301-72f9-4cf1-9cf3-2ae297ae5d79",
+            "video": "_VhgWzAPVkQ"
         }
     ],
     "KANA-BOON": [
@@ -2158,6 +2176,15 @@
             "t": 8885,
             "uuid": "4016cd2f-9b93-4dd0-8973-054751b7c6bd",
             "video": "TwhEO1OmEEg"
+        },
+        {
+            "endt": 3761,
+            "length": "full",
+            "name": "pretender",
+            "singType": "known",
+            "t": 3455,
+            "uuid": "44301e95-f90c-4c5d-b77f-4e022165db49",
+            "video": "_VhgWzAPVkQ"
         }
     ],
     "Perfume": [
@@ -3131,6 +3158,15 @@
             "video": "NnOmGi9yLM4"
         },
         {
+            "endt": 5240,
+            "length": "full",
+            "name": "我に返るスキマを埋めろ",
+            "singType": "known",
+            "t": 4983,
+            "uuid": "1ebf97e8-8866-44bc-bbc1-b8ef3330cd81",
+            "video": "_VhgWzAPVkQ"
+        },
+        {
             "endt": 4897,
             "length": "full",
             "name": "脳",
@@ -3149,6 +3185,15 @@
             "t": 2092,
             "uuid": "b1d16755-88ce-4229-b8ec-c38e02752e51",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 4721,
+            "length": "full",
+            "name": "怪獣の花唄",
+            "singType": "known",
+            "t": 4490,
+            "uuid": "61e25d1e-abeb-40fc-a303-6ee0adfc85a0",
+            "video": "_VhgWzAPVkQ"
         }
     ],
     "Whiteberry": [
@@ -7213,6 +7258,15 @@
             "video": "1Zeq5yzKt7A"
         },
         {
+            "endt": 4220,
+            "length": "full",
+            "name": "ばかもののすべて",
+            "singType": "known",
+            "t": 4060,
+            "uuid": "cd35fe2f-7407-4344-9a4c-6579ab1e1226",
+            "video": "_VhgWzAPVkQ"
+        },
+        {
             "endt": 4806,
             "length": "full",
             "name": "アイラブ言う",
@@ -7301,6 +7355,15 @@
             "t": 3628,
             "uuid": "4aa236ef-d11b-4303-b0d8-5e71d0fe733b",
             "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 6373,
+            "length": "full",
+            "name": "バンドやろうぜ",
+            "singType": "known",
+            "t": 6182,
+            "uuid": "edd694b4-949e-4278-ad95-41bcc8285e15",
+            "video": "_VhgWzAPVkQ"
         },
         {
             "endt": null,
