@@ -624,6 +624,15 @@
             "video": "4kJShQ7xC7c"
         },
         {
+            "endt": 4199,
+            "length": "full",
+            "name": "花の名",
+            "singType": "known",
+            "t": 3915,
+            "uuid": "c84ce08b-73db-48a3-8e06-9ee01dd9c490",
+            "video": "DaV6YRDGbMs"
+        },
+        {
             "endt": 4096,
             "length": "full",
             "name": "車輪の唄",
@@ -937,6 +946,15 @@
             "t": 6717,
             "uuid": "cbe794f8-5221-4d3f-b1e7-d2452f8e8785",
             "video": "3Vx8BIGWUUc"
+        },
+        {
+            "endt": 3111,
+            "length": "full",
+            "name": "もしも君が泣くならば",
+            "singType": "known",
+            "t": 2894,
+            "uuid": "19e3c5f5-0f4c-420a-8cbc-f73c1014c477",
+            "video": "DaV6YRDGbMs"
         },
         {
             "endt": 9007,
@@ -1590,6 +1608,15 @@
             "t": 3342,
             "uuid": "7c2f98d6-6ca4-41d1-a631-a78fc14825df",
             "video": "ITin9vCGYA0"
+        },
+        {
+            "endt": 5218,
+            "length": "full",
+            "name": "Over Drive",
+            "singType": "known",
+            "t": 5000,
+            "uuid": "c29428d7-1819-46cd-91c6-c7bcb8fb6422",
+            "video": "DaV6YRDGbMs"
         },
         {
             "endt": 8374,
@@ -2583,6 +2610,26 @@
             "t": 2808,
             "uuid": "79075fee-f1e9-404c-a5d3-bc58a0f877a4",
             "video": "FINKwpp4QI0"
+        },
+        {
+            "endt": 1516,
+            "length": "full",
+            "name": "君と夏フェス",
+            "singType": "known",
+            "t": 1287,
+            "uuid": "9dcd3fe0-e28d-450f-8b5a-6e536b32979f",
+            "video": "DaV6YRDGbMs"
+        }
+    ],
+    "SIAM SHADE": [
+        {
+            "endt": 2130,
+            "length": "short",
+            "name": "1/3の純情な感情",
+            "singType": "improvised",
+            "t": 2046,
+            "uuid": "96706586-32e8-4217-91d5-535f6e3ed8ae",
+            "video": "DaV6YRDGbMs"
         }
     ],
     "SMAP": [
@@ -4014,6 +4061,15 @@
             "video": "BZylTh8n9Uw"
         },
         {
+            "endt": 3692,
+            "length": "full",
+            "name": "マリーゴールド",
+            "singType": "known",
+            "t": 3388,
+            "uuid": "bf528d4c-04f3-4696-9d8b-ad2d7e38d2ec",
+            "video": "DaV6YRDGbMs"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "君はロックを聴かない",
@@ -4135,6 +4191,15 @@
             "t": 5709,
             "uuid": "e9802021-616f-4b22-beba-38d4ebae7858",
             "video": "O8gruBs9aWc"
+        },
+        {
+            "endt": 720,
+            "length": "full",
+            "name": "セーラー服を脱がさないで",
+            "singType": "known",
+            "t": 533,
+            "uuid": "c7e2dc3b-290d-4eca-baab-2b43e6d4268f",
+            "video": "DaV6YRDGbMs"
         }
     ],
     "きのこ帝国": [
@@ -6826,6 +6891,17 @@
             "video": "mPUzyxcD_BU"
         }
     ],
+    "大江千里": [
+        {
+            "endt": 1729,
+            "length": "short",
+            "name": "夏の決心",
+            "singType": "improvised",
+            "t": 1724,
+            "uuid": "fa6439ee-e672-493a-acd0-9992ae316345",
+            "video": "DaV6YRDGbMs"
+        }
+    ],
     "宇野ゆう子": [
         {
             "endt": null,
@@ -8488,6 +8564,15 @@
             "t": 4361,
             "uuid": "0f7f1186-63b2-44a5-9214-e1dc2580de35",
             "video": "FINKwpp4QI0"
+        },
+        {
+            "endt": 4777,
+            "length": "full",
+            "name": "Rain",
+            "singType": "known",
+            "t": 4478,
+            "uuid": "8a2f40af-97db-4224-ad76-f58f37f48cea",
+            "video": "DaV6YRDGbMs"
         }
     ],
     "童謡": [
@@ -8701,6 +8786,15 @@
             "t": 606,
             "uuid": "a62e845b-6e8b-44b8-a5ad-416269608ceb",
             "video": "5NJW_6ylZaE"
+        },
+        {
+            "endt": 1127,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 895,
+            "uuid": "54edc7cf-e8f7-4cc2-a4cc-1e28c441c093",
+            "video": "DaV6YRDGbMs"
         }
     ],
     "細川たかし": [
@@ -9228,6 +9322,15 @@
             "t": 2267,
             "uuid": "60735bcd-ad67-4789-8c86-b53c7c642e90",
             "video": "BODI63bQn_g"
+        },
+        {
+            "endt": 2559,
+            "length": "full",
+            "name": "夢で逢えたら",
+            "singType": "known",
+            "t": 2264,
+            "uuid": "8af0dfa9-49ba-437b-b9e1-eabeba176d14",
+            "video": "DaV6YRDGbMs"
         },
         {
             "endt": 7531,
