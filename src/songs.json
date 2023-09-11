@@ -975,6 +975,24 @@
             "video": "Iw8qPznFCV4"
         },
         {
+            "endt": 899,
+            "length": "full",
+            "name": "夜王子と月の姫",
+            "singType": "known",
+            "t": 484,
+            "uuid": "8d2dda6d-3eec-41ca-98eb-6cd235e8c107",
+            "video": "69c5KC_kBVU"
+        },
+        {
+            "endt": 5129,
+            "length": "full",
+            "name": "夜王子と月の姫",
+            "singType": "known",
+            "t": 4684,
+            "uuid": "1d1ee3f3-8095-490c-a159-0660b9b7c7d2",
+            "video": "69c5KC_kBVU"
+        },
+        {
             "endt": 905,
             "length": "full",
             "name": "星に願いを",
@@ -5725,6 +5743,17 @@
             "t": 6576,
             "uuid": "49581a76-f146-4c3b-acdd-d21a674e4cae",
             "video": "EodQS2CnhM4"
+        }
+    ],
+    "セントチヒロ・チッチ": [
+        {
+            "endt": 3179,
+            "length": "full",
+            "name": "夜王子と月の姫",
+            "singType": "known",
+            "t": 2750,
+            "uuid": "f0927b0d-dc43-496a-8344-1a3b4c91e81e",
+            "video": "69c5KC_kBVU"
         }
     ],
     "チェリッシュ": [
