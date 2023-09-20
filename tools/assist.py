@@ -351,10 +351,10 @@ class LiveCommand:
             print("video_id is not set, please set")
             return []
         urls = []
-        for artist, song_info in cls._song_list:
+        for index, (artist, song_info) in enumerate(cls._song_list):
             delta = datetime.fromtimestamp(song_info.t) - cls.base
             url = (
-                f"{artist} / {song_info.name}\n"
+                f"{index}: {song_info.name} / {artist}\n"
                 f"t: {youtube_url(cls.video, int(delta.total_seconds()))}\n"
             )
             delta = datetime.fromtimestamp(song_info.endt or 0) - cls.base
