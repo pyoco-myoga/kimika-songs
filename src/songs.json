@@ -120,6 +120,15 @@
             "t": 3973,
             "uuid": "96ba98ac-13f0-4d02-9e0a-89491fa80d2d",
             "video": "wS1jFMR7WsQ"
+        },
+        {
+            "endt": 4687,
+            "length": "full",
+            "name": "恋するフォーチュンクッキー",
+            "singType": "known",
+            "t": 4431,
+            "uuid": "1fec2e72-41e4-461d-9357-f33eb2689092",
+            "video": "jPfP9qRd9DM"
         }
     ],
     "ASIAN KUNG-FU GENERATION": [
@@ -489,6 +498,15 @@
             "video": "Iw8qPznFCV4"
         },
         {
+            "endt": 6677,
+            "length": "full",
+            "name": "プラネタリウム",
+            "singType": "known",
+            "t": 6416,
+            "uuid": "f2ae2952-487b-4a0e-aa58-8a333547d585",
+            "video": "jPfP9qRd9DM"
+        },
+        {
             "endt": 6403,
             "length": "short",
             "name": "メロディーフラッグ",
@@ -799,6 +817,15 @@
             "t": 2400,
             "uuid": "e65005f0-5ae4-4bd7-acc0-fe5c61e99cc0",
             "video": "ArOdT1uSdCA"
+        },
+        {
+            "endt": 3353,
+            "length": "full",
+            "name": "コネクト",
+            "singType": "improvised",
+            "t": 3088,
+            "uuid": "b1343523-7ed6-4a98-9804-b6cd825801a3",
+            "video": "jPfP9qRd9DM"
         }
     ],
     "Cygames": [
@@ -1262,9 +1289,18 @@
             "video": "ITin9vCGYA0"
         },
         {
+            "endt": 4180,
+            "length": "full",
+            "name": "MY FIRST KISS",
+            "singType": "known",
+            "t": 3981,
+            "uuid": "5af459f4-f1fd-48c9-9231-ee0f503e3963",
+            "video": "jPfP9qRd9DM"
+        },
+        {
             "endt": 7390,
             "length": "full",
-            "name": "My First Kiss",
+            "name": "MY FIRST KISS",
             "singType": "known",
             "t": 7191,
             "uuid": "001425de-c1c3-4229-8efe-95a234503057",
@@ -1799,6 +1835,15 @@
             "t": 1175,
             "uuid": "52c03c72-9000-47e2-b50f-13681998b1de",
             "video": "vGbxms7kIOE"
+        },
+        {
+            "endt": 5116,
+            "length": "full",
+            "name": "ないものねだり",
+            "singType": "known",
+            "t": 4868,
+            "uuid": "7b3ce5b8-0547-4c47-bdc8-111b3580506c",
+            "video": "jPfP9qRd9DM"
         },
         {
             "endt": null,
@@ -2554,7 +2599,7 @@
             "video": "5NJW_6ylZaE"
         }
     ],
-    "SHAKARABBITS": [
+    "SHAKALABBITS": [
         {
             "endt": null,
             "length": null,
@@ -2572,6 +2617,15 @@
             "t": 5816,
             "uuid": "0574ff83-805b-4cea-9600-b1c45e7407c1",
             "video": "vYwjd_emuFY"
+        },
+        {
+            "endt": 6024,
+            "length": "full",
+            "name": "MONSTER TREE",
+            "singType": "known",
+            "t": 5791,
+            "uuid": "8f7a2189-8511-4aa2-83df-1f6b41782aca",
+            "video": "jPfP9qRd9DM"
         },
         {
             "endt": 6860,
@@ -3911,6 +3965,15 @@
             "video": "BODI63bQn_g"
         },
         {
+            "endt": 890,
+            "length": "full",
+            "name": "蜩",
+            "singType": "known",
+            "t": 671,
+            "uuid": "3ab595b1-0afa-4bc6-a70a-54067238cdd8",
+            "video": "jPfP9qRd9DM"
+        },
+        {
             "endt": 7341,
             "length": "full",
             "name": "高層ビルと人工衛星",
@@ -4320,6 +4383,15 @@
             "t": 5358,
             "uuid": "efbdcca9-a998-42ce-b05c-1fbf7a231bc5",
             "video": "EodQS2CnhM4"
+        },
+        {
+            "endt": 3737,
+            "length": "full",
+            "name": "君はロックを聴かない",
+            "singType": "known",
+            "t": 3474,
+            "uuid": "d3e07fcf-e55d-41c7-a738-30a825f20a4e",
+            "video": "jPfP9qRd9DM"
         },
         {
             "endt": 4832,
@@ -7010,6 +7082,15 @@
             "video": "F7brX4O5bRM"
         },
         {
+            "endt": 1798,
+            "length": "full",
+            "name": "VOID",
+            "singType": "improvised",
+            "t": 1634,
+            "uuid": "4da2a62d-3fff-4d7f-b8d0-c8948009a912",
+            "video": "jPfP9qRd9DM"
+        },
+        {
             "endt": 5035,
             "length": "short",
             "name": "あれそれ",
@@ -7470,6 +7551,15 @@
             "t": 2435,
             "uuid": "feb1a461-523b-465b-a57a-2425669f5f32",
             "video": "gRhsjqjZQOg"
+        },
+        {
+            "endt": 5596,
+            "length": "full",
+            "name": "エクレア",
+            "singType": "known",
+            "t": 5315,
+            "uuid": "a55a5abb-ecb6-4dee-9af0-c5b816befe81",
+            "video": "jPfP9qRd9DM"
         }
     ],
     "川島あい": [
@@ -7797,6 +7887,15 @@
             "t": 6714,
             "uuid": "dd0fb1b9-bdd0-4a2d-b9dc-8490b71fc294",
             "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 1482,
+            "length": "full",
+            "name": "この高鳴りをなんと呼ぶ",
+            "singType": "known",
+            "t": 1235,
+            "uuid": "15052e7a-a4bc-46c0-87c2-b3ed7c185551",
+            "video": "jPfP9qRd9DM"
         },
         {
             "endt": 2922,
@@ -8168,6 +8267,15 @@
             "t": 3874,
             "uuid": "c3012ebf-1b84-4d4f-81b2-fcfcf6d1f9d0",
             "video": "M3v8QX_ANSM"
+        },
+        {
+            "endt": 2914,
+            "length": "full",
+            "name": "ごはんはおかず",
+            "singType": "known",
+            "t": 2733,
+            "uuid": "87469091-d282-4962-a048-334ab8962b7b",
+            "video": "jPfP9qRd9DM"
         },
         {
             "endt": null,
@@ -8819,6 +8927,15 @@
     ],
     "犬山イヌコ": [
         {
+            "endt": 2510,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 2333,
+            "uuid": "28a6552a-2ba4-4cbf-b923-c58fbc3d53eb",
+            "video": "jPfP9qRd9DM"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "ニャースのうた",
@@ -8884,7 +9001,7 @@
         {
             "endt": 9030,
             "length": "full",
-            "name": "ニャースの歌",
+            "name": "ニャースのうた",
             "singType": "known",
             "t": 8789,
             "uuid": "3ad47de5-d95d-4568-af28-fcece50b8e07",
