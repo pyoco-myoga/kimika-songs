@@ -1754,6 +1754,15 @@
             "video": "_VhgWzAPVkQ"
         },
         {
+            "endt": 4900,
+            "length": "full",
+            "name": "そばかす",
+            "singType": "known",
+            "t": 4666,
+            "uuid": "dbf4682a-4612-4160-96a9-abf5d85fe2fc",
+            "video": "1FUpWcb6FVU"
+        },
+        {
             "endt": 3748,
             "length": "full",
             "name": "クラシック",
@@ -1797,6 +1806,15 @@
             "t": 2421,
             "uuid": "5b46a301-72f9-4cf1-9cf3-2ae297ae5d79",
             "video": "_VhgWzAPVkQ"
+        },
+        {
+            "endt": 5309,
+            "length": "full",
+            "name": "ラッキープール",
+            "singType": null,
+            "t": 5038,
+            "uuid": "c252283f-30c4-435b-9551-4ca1ad5eb115",
+            "video": "1FUpWcb6FVU"
         }
     ],
     "KANA-BOON": [
@@ -3833,6 +3851,15 @@
             "t": 1548,
             "uuid": "f0b256b3-ee65-49ac-bcfb-8824cf40dd07",
             "video": "fHQ5MV-mLKw"
+        },
+        {
+            "endt": 6111,
+            "length": "short",
+            "name": "桜ノ雨",
+            "singType": null,
+            "t": 5785,
+            "uuid": "24b81b71-bf67-436d-a51c-618c7f18897b",
+            "video": "1FUpWcb6FVU"
         }
     ],
     "supercell": [
@@ -4068,6 +4095,24 @@
             "video": "BODI63bQn_g"
         },
         {
+            "endt": 935,
+            "length": "full",
+            "name": "ボート",
+            "singType": "known",
+            "t": 671,
+            "uuid": "e102f1e5-92de-4846-a24d-5443ee6471fc",
+            "video": "1FUpWcb6FVU"
+        },
+        {
+            "endt": 3923,
+            "length": "full",
+            "name": "一人で大人 一人で子供",
+            "singType": "known",
+            "t": 3676,
+            "uuid": "2ce2c39b-7b32-45f3-9551-71d812ba85f9",
+            "video": "1FUpWcb6FVU"
+        },
+        {
             "endt": 884,
             "length": "full",
             "name": "不死身のエレキマン",
@@ -4212,6 +4257,15 @@
             "video": "5NJW_6ylZaE"
         },
         {
+            "endt": 2886,
+            "length": "full",
+            "name": "映画",
+            "singType": "known",
+            "t": 2661,
+            "uuid": "8e416720-b43f-4caf-abd6-e342f19e5d31",
+            "video": "1FUpWcb6FVU"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "青春",
@@ -4320,6 +4374,15 @@
             "t": 3388,
             "uuid": "bf528d4c-04f3-4696-9d8b-ad2d7e38d2ec",
             "video": "DaV6YRDGbMs"
+        },
+        {
+            "endt": 4429,
+            "length": "full",
+            "name": "マリーゴールド",
+            "singType": "known",
+            "t": 4120,
+            "uuid": "b6111b94-d79b-4e94-85e7-5b6ef17a143e",
+            "video": "1FUpWcb6FVU"
         },
         {
             "endt": null,
@@ -6467,6 +6530,15 @@
             "video": "E6Guj98A2a0"
         },
         {
+            "endt": 3522,
+            "length": "full",
+            "name": "サウダージ",
+            "singType": "improvised",
+            "t": 3302,
+            "uuid": "8504dd1f-8dab-4821-b3b3-e48fd50ec0c1",
+            "video": "1FUpWcb6FVU"
+        },
+        {
             "endt": 4349,
             "length": "full",
             "name": "サボテン",
@@ -7006,6 +7078,15 @@
             "t": 6155,
             "uuid": "61b92b1b-73c3-4b5c-8433-afd4fc76b17e",
             "video": "Iw8qPznFCV4"
+        },
+        {
+            "endt": 3078,
+            "length": "short",
+            "name": "プラネタリウム",
+            "singType": "improvised",
+            "t": 3041,
+            "uuid": "89e00ab7-9cd9-45dd-8e35-5e14a4abe90d",
+            "video": "1FUpWcb6FVU"
         }
     ],
     "大森靖子": [
@@ -7089,6 +7170,15 @@
             "t": 1634,
             "uuid": "4da2a62d-3fff-4d7f-b8d0-c8948009a912",
             "video": "jPfP9qRd9DM"
+        },
+        {
+            "endt": 1463,
+            "length": "full",
+            "name": "VOID",
+            "singType": "known",
+            "t": 1273,
+            "uuid": "a832a919-b1b1-4eb5-bf6c-14c19228503c",
+            "video": "1FUpWcb6FVU"
         },
         {
             "endt": 5035,
@@ -7692,6 +7782,15 @@
             "t": 832,
             "uuid": "396b27fa-f252-4d4e-b6e3-2bbef4f1641a",
             "video": "o44gUuKYb2k"
+        },
+        {
+            "endt": 2246,
+            "length": "full",
+            "name": "MajiでKoiする5秒前",
+            "singType": "known",
+            "t": 2003,
+            "uuid": "92b48e36-6918-4810-a401-d7ad12ad01de",
+            "video": "1FUpWcb6FVU"
         }
     ],
     "広瀬香美": [
@@ -9222,6 +9321,17 @@
             "video": "1byyvPl_xuE"
         }
     ],
+    "米米CLUB": [
+        {
+            "endt": 1121,
+            "length": "short",
+            "name": "浪漫飛行",
+            "singType": "improvised",
+            "t": 1084,
+            "uuid": "187d998f-01bd-429a-ad98-1b144686018e",
+            "video": "1FUpWcb6FVU"
+        }
+    ],
     "米良美一": [
         {
             "endt": null,
@@ -9590,6 +9700,15 @@
             "t": 5815,
             "uuid": "bd5471c0-79a8-41c7-b699-0a578c274ab0",
             "video": "FqzOM9eWRFw"
+        },
+        {
+            "endt": 6544,
+            "length": "full",
+            "name": "きみのうた~銀杏BOYZを聴きながら~",
+            "singType": "known",
+            "t": 6325,
+            "uuid": "2c4bae55-879b-492d-b1a4-aadc312b3825",
+            "video": "1FUpWcb6FVU"
         }
     ],
     "茂森あゆみ&速水けんたろう": [
@@ -9877,6 +9996,15 @@
             "t": 5425,
             "uuid": "47b35a18-905d-4dff-bfed-5aa1e793bd00",
             "video": "mPUzyxcD_BU"
+        },
+        {
+            "endt": 1884,
+            "length": "full",
+            "name": "エンジェルベイビー",
+            "singType": "known",
+            "t": 1659,
+            "uuid": "7ff4735c-03c3-4e45-b894-55c4966334b4",
+            "video": "1FUpWcb6FVU"
         },
         {
             "endt": 2729,
