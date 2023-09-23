@@ -1763,6 +1763,15 @@
             "video": "1FUpWcb6FVU"
         },
         {
+            "endt": 6029,
+            "length": "full",
+            "name": "そばかす",
+            "singType": "known",
+            "t": 5795,
+            "uuid": "8df29a50-bb6a-4dba-af3d-84bfab1b1218",
+            "video": "5Yd4fk4qF5g"
+        },
+        {
             "endt": 3748,
             "length": "full",
             "name": "クラシック",
@@ -2454,6 +2463,15 @@
             "t": 684,
             "uuid": "d83a5430-863f-40ad-8a1a-82e096d73333",
             "video": "NnOmGi9yLM4"
+        },
+        {
+            "endt": 5260,
+            "length": "full",
+            "name": "ふたりごと",
+            "singType": "known",
+            "t": 5008,
+            "uuid": "0e985db3-f38a-46ec-9b8b-c648a29f60d1",
+            "video": "5Yd4fk4qF5g"
         },
         {
             "endt": null,
@@ -4863,6 +4881,15 @@
             "t": 8505,
             "uuid": "7dd4b830-48c4-42f6-af85-e6aa865311bb",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 6748,
+            "length": "full",
+            "name": "モッシュレース",
+            "singType": "known",
+            "t": 6541,
+            "uuid": "2d0b6512-27d1-48b0-92fe-61e3e63d1189",
+            "video": "5Yd4fk4qF5g"
         }
     ],
     "すとぷり": [
