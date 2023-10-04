@@ -1453,6 +1453,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 5472,
+            "length": "full",
+            "name": "ファンサ",
+            "singType": "known",
+            "t": 5197,
+            "uuid": "35b5b282-ac9f-4b50-9531-626bd087be5b",
+            "video": "wQaaITAy2aM"
+        },
+        {
             "endt": 1447,
             "length": "full",
             "name": "可愛くてごめん",
@@ -1633,6 +1642,15 @@
             "video": "Bqk1okPs1w8"
         },
         {
+            "endt": 10809,
+            "length": "full",
+            "name": "私、アイドル宣言",
+            "singType": "known",
+            "t": 10525,
+            "uuid": "f3daa4df-c148-444a-a6b0-e5ad36997021",
+            "video": "wQaaITAy2aM"
+        },
+        {
             "endt": 1919,
             "length": "short",
             "name": "野太くてごめん",
@@ -1743,6 +1761,15 @@
             "t": 4218,
             "uuid": "449f46d4-ed77-4791-97f3-254f7679b77e",
             "video": "gt1qIwfJ2JI"
+        },
+        {
+            "endt": 6768,
+            "length": "full",
+            "name": "LOVER SOUL",
+            "singType": "improvised",
+            "t": 6492,
+            "uuid": "f17fa566-54ae-4dfe-adc7-4bcd8ec88b24",
+            "video": "wQaaITAy2aM"
         },
         {
             "endt": 5061,
@@ -3935,6 +3962,15 @@
             "t": 8809,
             "uuid": "f87bf879-320b-4464-bb4d-292893d38bdf",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 1779,
+            "length": "full",
+            "name": "花火",
+            "singType": "known",
+            "t": 1521,
+            "uuid": "43407516-98ec-4961-b593-12406871047f",
+            "video": "wQaaITAy2aM"
         }
     ],
     "andymori": [
@@ -4356,6 +4392,15 @@
             "video": "FINKwpp4QI0"
         },
         {
+            "endt": 7354,
+            "length": "full",
+            "name": "Too Late To Die",
+            "singType": "known",
+            "t": 7192,
+            "uuid": "5d1d631a-7ed0-48f5-8cdf-5c5442d492c5",
+            "video": "wQaaITAy2aM"
+        },
+        {
             "endt": 7607,
             "length": "full",
             "name": "アメリカ魂",
@@ -4399,6 +4444,15 @@
             "t": 717,
             "uuid": "9e7e5cce-7684-4977-94f6-19df065a05dc",
             "video": "rd0cv0P9MHc"
+        },
+        {
+            "endt": 7653,
+            "length": "full",
+            "name": "俺たちに明日はない",
+            "singType": "known",
+            "t": 7517,
+            "uuid": "39c85873-a2a7-4f7b-89a6-7707bdbfb05f",
+            "video": "wQaaITAy2aM"
         },
         {
             "endt": 7418,
@@ -6463,6 +6517,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 8520,
+            "length": "full",
+            "name": "チェリー",
+            "singType": "known",
+            "t": 8266,
+            "uuid": "704fa5ef-e3d8-4864-b52b-ff675592a8a6",
+            "video": "wQaaITAy2aM"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "ロビンソン",
@@ -6542,6 +6605,15 @@
             "t": 1691,
             "uuid": "d01a50e6-b832-4ef8-8c48-1a0d93cbb218",
             "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 8137,
+            "length": "full",
+            "name": "空も飛べるはず",
+            "singType": "known",
+            "t": 7889,
+            "uuid": "7ac7adc4-947c-43a7-8b5a-3555ff134bbe",
+            "video": "wQaaITAy2aM"
         }
     ],
     "センチメンタル・バス": [
@@ -7874,6 +7946,15 @@
             "video": "F7brX4O5bRM"
         },
         {
+            "endt": 5916,
+            "length": "full",
+            "name": "君と映画",
+            "singType": "known",
+            "t": 5723,
+            "uuid": "a5c2a029-a3a2-4ad5-a9c5-0913c11049b2",
+            "video": "wQaaITAy2aM"
+        },
+        {
             "endt": 1393,
             "length": "full",
             "name": "呪いは水色",
@@ -8056,6 +8137,15 @@
             "t": 7095,
             "uuid": "1604e13c-5813-4f90-be4b-402837098aa3",
             "video": "gt1qIwfJ2JI"
+        },
+        {
+            "endt": 4874,
+            "length": "full",
+            "name": "月曜日の憂鬱",
+            "singType": "known",
+            "t": 4556,
+            "uuid": "64319992-17d6-46ba-85ee-a2b76fea1c1b",
+            "video": "wQaaITAy2aM"
         }
     ],
     "宇野ゆう子": [
@@ -8349,6 +8439,15 @@
             "t": 2003,
             "uuid": "92b48e36-6918-4810-a401-d7ad12ad01de",
             "video": "1FUpWcb6FVU"
+        },
+        {
+            "endt": 6273,
+            "length": "full",
+            "name": "MajiでKoiする5秒前",
+            "singType": "known",
+            "t": 6015,
+            "uuid": "b922ea29-cccb-49bd-aeb0-c02f2857fc7e",
+            "video": "wQaaITAy2aM"
         }
     ],
     "広瀬香美": [
@@ -9050,6 +9149,15 @@
             "t": 4852,
             "uuid": "a7b54ad4-5b90-4535-8c0f-3a4139e5d6ca",
             "video": "oC5eGoMc3zM"
+        },
+        {
+            "endt": 3890,
+            "length": "full",
+            "name": "天使にふれたよ",
+            "singType": "known",
+            "t": 3601,
+            "uuid": "fc955581-30fc-4b50-ad46-7a748daa5cad",
+            "video": "wQaaITAy2aM"
         }
     ],
     "斉藤和義": [
@@ -9454,6 +9562,15 @@
             "t": 5455,
             "uuid": "a3021a24-51cd-4a96-8e43-7a410bac3146",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 3363,
+            "length": "full",
+            "name": "白い恋人達",
+            "singType": "known",
+            "t": 3108,
+            "uuid": "27bb2176-3c3f-4a00-af09-5b2345a67a9a",
+            "video": "wQaaITAy2aM"
         }
     ],
     "植村花菜": [
@@ -9617,6 +9734,15 @@
             "t": 10353,
             "uuid": "6fc69631-e8c9-4b9a-87ea-4e5a613ee94b",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 8946,
+            "length": "full",
+            "name": "限界突破×サバイバー",
+            "singType": "known",
+            "t": 8711,
+            "uuid": "38a4d9e9-b175-4fc9-8108-e77d4959970a",
+            "video": "wQaaITAy2aM"
         }
     ],
     "浜田雅功&槇原敬之": [
@@ -10254,6 +10380,15 @@
             "t": 3221,
             "uuid": "7e0a765b-94d3-4f40-8651-f1d75b12f974",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 10151,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 9921,
+            "uuid": "304d737c-5cf4-473f-98fc-e7a799da79e7",
+            "video": "wQaaITAy2aM"
         }
     ],
     "細川たかし": [
@@ -10458,6 +10593,15 @@
             "t": 7464,
             "uuid": "b60fba78-7f18-465f-a0a2-b5c56a1c0c3e",
             "video": "eUQvpt8tpIY"
+        },
+        {
+            "endt": 9748,
+            "length": "full",
+            "name": "きみのうた~銀杏BOYZを聴きながら~",
+            "singType": "known",
+            "t": 9492,
+            "uuid": "103aff1e-fe2e-4fbc-a578-fb2a56a0726a",
+            "video": "wQaaITAy2aM"
         }
     ],
     "茂森あゆみ&速水けんたろう": [
@@ -10684,6 +10828,15 @@
             "video": "gt1qIwfJ2JI"
         },
         {
+            "endt": 1292,
+            "length": "full",
+            "name": "BABY BABY",
+            "singType": "known",
+            "t": 1046,
+            "uuid": "2e8430d6-580c-49bc-b0c2-29b74b2ac660",
+            "video": "wQaaITAy2aM"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "SKOOL KILL",
@@ -10700,6 +10853,15 @@
             "t": 3644,
             "uuid": "239ae116-5269-46e5-a3e3-b8ac84166d8f",
             "video": "GSK6rLb-ibk"
+        },
+        {
+            "endt": 2811,
+            "length": "full",
+            "name": "あの娘に1ミリでもちょっかいかけたら殺す",
+            "singType": "known",
+            "t": 2578,
+            "uuid": "ef476397-264b-46d7-987c-769e623af96f",
+            "video": "wQaaITAy2aM"
         },
         {
             "endt": 2058,
@@ -10727,6 +10889,15 @@
             "t": 6113,
             "uuid": "2949590c-8263-4a9b-bd6b-417b3d1c9214",
             "video": "NnOmGi9yLM4"
+        },
+        {
+            "endt": 4340,
+            "length": "full",
+            "name": "なんとなく僕たちは大人になるんだ",
+            "singType": "known",
+            "t": 4070,
+            "uuid": "4bb1c76a-ab65-4995-a172-9bff1ee12689",
+            "video": "wQaaITAy2aM"
         },
         {
             "endt": 2043,
@@ -10772,6 +10943,15 @@
             "t": 1659,
             "uuid": "7ff4735c-03c3-4e45-b894-55c4966334b4",
             "video": "1FUpWcb6FVU"
+        },
+        {
+            "endt": 2349,
+            "length": "full",
+            "name": "エンジェルベイビー",
+            "singType": "known",
+            "t": 2083,
+            "uuid": "177682ca-31dc-4b12-a284-858ee9b63f49",
+            "video": "wQaaITAy2aM"
         },
         {
             "endt": 2729,
