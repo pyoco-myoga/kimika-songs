@@ -1038,6 +1038,15 @@
             "video": "DaV6YRDGbMs"
         },
         {
+            "endt": 2674,
+            "length": "full",
+            "name": "もしも君が泣くならば",
+            "singType": "known",
+            "t": 2441,
+            "uuid": "69dbd979-bba9-4dcc-89c3-48cb4affe368",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 664,
             "length": "full",
             "name": "アホンダラ行進曲",
@@ -1361,6 +1370,15 @@
             "video": "vYwjd_emuFY"
         },
         {
+            "endt": 8959,
+            "length": "full",
+            "name": "MY FIRST KISS",
+            "singType": "known",
+            "t": 8759,
+            "uuid": "1ab33365-854c-4090-a542-e9f9ab988bec",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 6664,
             "length": "short",
             "name": "STAY GOLD",
@@ -1368,6 +1386,15 @@
             "t": 6459,
             "uuid": "fe01c230-2493-4503-93b4-af1d69a30ad3",
             "video": "JU9xxyrYt6Y"
+        },
+        {
+            "endt": 9210,
+            "length": "short",
+            "name": "STAY GOLD",
+            "singType": "known",
+            "t": 9081,
+            "uuid": "32cac7c7-3a99-4325-9e6c-c4e5dc6c93bd",
+            "video": "dpWnpmfchA4"
         },
         {
             "endt": 8087,
@@ -1615,6 +1642,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 10591,
+            "length": "full",
+            "name": "男の子の目的は何?",
+            "singType": "known",
+            "t": 10417,
+            "uuid": "fe3ff574-76cb-43de-ba17-6f1e85d7f79c",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 4062,
             "length": "full",
             "name": "私、アイドル宣言",
@@ -1705,6 +1741,15 @@
             "t": 11829,
             "uuid": "7b25299c-8d82-4835-92f0-cd84a2a3455c",
             "video": "TwhEO1OmEEg"
+        },
+        {
+            "endt": 10179,
+            "length": "full",
+            "name": "春 ~spring~",
+            "singType": "known",
+            "t": 9947,
+            "uuid": "82bed453-8310-46ea-8318-19dd5ae7ed29",
+            "video": "dpWnpmfchA4"
         }
     ],
     "JUDY AND MARY": [
@@ -2853,6 +2898,15 @@
             "video": "jPfP9qRd9DM"
         },
         {
+            "endt": 8434,
+            "length": "full",
+            "name": "MONSTER TREE",
+            "singType": "known",
+            "t": 8186,
+            "uuid": "3fa0877a-3083-4d49-9ab2-cb2a1f81cc95",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 6860,
             "length": "full",
             "name": "Pivot",
@@ -3328,6 +3382,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 1833,
+            "length": "full",
+            "name": "人にやさしく",
+            "singType": "known",
+            "t": 1688,
+            "uuid": "5632d9d7-31b6-4041-b87b-aa5af33c3638",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 2972,
             "length": "full",
             "name": "休日",
@@ -3689,6 +3752,15 @@
             "t": 4983,
             "uuid": "1ebf97e8-8866-44bc-bbc1-b8ef3330cd81",
             "video": "_VhgWzAPVkQ"
+        },
+        {
+            "endt": 6081,
+            "length": "full",
+            "name": "我に返るスキマを埋めろ",
+            "singType": "known",
+            "t": 5812,
+            "uuid": "a311a7df-49bf-4359-85a3-bf57dfb82f99",
+            "video": "dpWnpmfchA4"
         },
         {
             "endt": 4897,
@@ -4126,6 +4198,15 @@
             "t": 2975,
             "uuid": "ec81f020-5e58-4861-bdab-1c2c54820ad7",
             "video": "gRhsjqjZQOg"
+        },
+        {
+            "endt": 2134,
+            "length": "full",
+            "name": "革命",
+            "singType": "known",
+            "t": 2025,
+            "uuid": "a129b440-7e7f-4d9c-9562-a65ec885a8a6",
+            "video": "dpWnpmfchA4"
         }
     ],
     "back number": [
@@ -4307,6 +4388,15 @@
             "video": "jPfP9qRd9DM"
         },
         {
+            "endt": 6713,
+            "length": "full",
+            "name": "蜩",
+            "singType": "known",
+            "t": 6473,
+            "uuid": "3418fdd2-94df-47d9-bda3-2003d893da61",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 7341,
             "length": "full",
             "name": "高層ビルと人工衛星",
@@ -4426,6 +4516,15 @@
             "t": 671,
             "uuid": "e102f1e5-92de-4846-a24d-5443ee6471fc",
             "video": "1FUpWcb6FVU"
+        },
+        {
+            "endt": 7219,
+            "length": "full",
+            "name": "ボート",
+            "singType": "known",
+            "t": 6954,
+            "uuid": "c30629a2-b232-4727-b635-4ed3352869c0",
+            "video": "dpWnpmfchA4"
         },
         {
             "endt": 3923,
@@ -4743,6 +4842,15 @@
             "t": 4120,
             "uuid": "b6111b94-d79b-4e94-85e7-5b6ef17a143e",
             "video": "1FUpWcb6FVU"
+        },
+        {
+            "endt": 11166,
+            "length": "full",
+            "name": "マリーゴールド",
+            "singType": "known",
+            "t": 10855,
+            "uuid": "feb14e1f-6795-424e-9e92-35a5f17334d3",
+            "video": "dpWnpmfchA4"
         },
         {
             "endt": null,
@@ -5529,6 +5637,15 @@
             "t": 4061,
             "uuid": "c2cc53a0-a1eb-488e-a66d-4f7e1eb4297d",
             "video": "NnOmGi9yLM4"
+        },
+        {
+            "endt": 5547,
+            "length": "full",
+            "name": "なごり雪",
+            "singType": "known",
+            "t": 5373,
+            "uuid": "07809a9a-d9dc-47ef-9c8f-6c9e5001eb1d",
+            "video": "dpWnpmfchA4"
         }
     ],
     "ウルフルズ": [
@@ -5540,6 +5657,15 @@
             "t": 2957,
             "uuid": "a320699c-038e-4a7c-9812-0d279d67faf9",
             "video": "hk0u2tzl4Y0"
+        },
+        {
+            "endt": 7888,
+            "length": "full",
+            "name": "バンザイ~好きでよかった~",
+            "singType": "known",
+            "t": 7624,
+            "uuid": "53c2aff1-6c3b-4ea5-bd11-597dfb53430b",
+            "video": "dpWnpmfchA4"
         }
     ],
     "エレファントカシマシ": [
@@ -5872,6 +5998,15 @@
             "video": "CfhKFBDp9OU"
         },
         {
+            "endt": 920,
+            "length": "full",
+            "name": "晩秋",
+            "singType": "known",
+            "t": 746,
+            "uuid": "96402b77-5677-4f1c-8e02-8b769bfe2dd5",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 5120,
             "length": "full",
             "name": "東京",
@@ -6142,6 +6277,15 @@
             "t": 5192,
             "uuid": "0e3e66e3-6321-4fa8-87d1-2053be49329f",
             "video": "FqzOM9eWRFw"
+        },
+        {
+            "endt": 1475,
+            "length": "full",
+            "name": "さっきはごめんね、ありがとう",
+            "singType": "known",
+            "t": 1253,
+            "uuid": "64ebce96-3053-4f96-8d59-908e2ae4208f",
+            "video": "dpWnpmfchA4"
         },
         {
             "endt": 1928,
@@ -7276,6 +7420,15 @@
             "t": 2262,
             "uuid": "e559a2ca-2818-4b82-8279-6ea2e81c01f7",
             "video": "NnOmGi9yLM4"
+        },
+        {
+            "endt": 4543,
+            "length": "full",
+            "name": "ハッピーウェディング前ソング",
+            "singType": "known",
+            "t": 4284,
+            "uuid": "5a73ae16-26ae-4748-98aa-e90cb5933e43",
+            "video": "dpWnpmfchA4"
         }
     ],
     "レミオロメン": [
@@ -8009,6 +8162,15 @@
             "video": "F7brX4O5bRM"
         },
         {
+            "endt": 3812,
+            "length": "full",
+            "name": "新宿",
+            "singType": "known",
+            "t": 3652,
+            "uuid": "2b08431a-d648-4578-89af-27d9f9dcf2c2",
+            "video": "dpWnpmfchA4"
+        },
+        {
             "endt": 5111,
             "length": "full",
             "name": "焼肉デート",
@@ -8504,6 +8666,15 @@
             "t": 4718,
             "uuid": "ad691caf-9de1-4240-9127-614f62a7370a",
             "video": "M3v8QX_ANSM"
+        },
+        {
+            "endt": 9767,
+            "length": "full",
+            "name": "ロマンスの神様",
+            "singType": "known",
+            "t": 9527,
+            "uuid": "32570943-4e8b-4871-9a57-d8aae689810b",
+            "video": "dpWnpmfchA4"
         }
     ],
     "忌野清志郎": [
@@ -8697,6 +8868,15 @@
             "t": 708,
             "uuid": "20796250-3df1-4d0a-adb4-c1b383503e59",
             "video": "FqzOM9eWRFw"
+        },
+        {
+            "endt": 3352,
+            "length": "full",
+            "name": "アイラブ言う",
+            "singType": "known",
+            "t": 3124,
+            "uuid": "1624b5ee-7826-43a4-8701-15115c42993f",
+            "video": "dpWnpmfchA4"
         },
         {
             "endt": null,
@@ -10389,6 +10569,15 @@
             "t": 9921,
             "uuid": "304d737c-5cf4-473f-98fc-e7a799da79e7",
             "video": "wQaaITAy2aM"
+        },
+        {
+            "endt": 5099,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 4870,
+            "uuid": "1b804cb4-52be-4ceb-8737-f22fe685e83b",
+            "video": "dpWnpmfchA4"
         }
     ],
     "細川たかし": [
