@@ -844,6 +844,15 @@
             "t": 3088,
             "uuid": "b1343523-7ed6-4a98-9804-b6cd825801a3",
             "video": "jPfP9qRd9DM"
+        },
+        {
+            "endt": 1724,
+            "length": "full",
+            "name": "コネクト",
+            "singType": "known",
+            "t": 1455,
+            "uuid": "ad677040-19e9-484a-90a7-5afc5ce5d8b6",
+            "video": "PZxQFnLKNQM"
         }
     ],
     "Cygames": [
@@ -7533,6 +7542,15 @@
             "video": "BODI63bQn_g"
         },
         {
+            "endt": 4594,
+            "length": "full",
+            "name": "2学期デビュー大作戦!!",
+            "singType": "known",
+            "t": 4314,
+            "uuid": "cd36aecb-e3c8-4f21-885f-9ebf0fbe4de9",
+            "video": "PZxQFnLKNQM"
+        },
+        {
             "endt": null,
             "length": "short",
             "name": "サクラカウントダウン",
@@ -7627,6 +7645,15 @@
             "t": 4773,
             "uuid": "d8e3d5ab-3a91-4a38-84d1-62d9c99ab459",
             "video": "EodQS2CnhM4"
+        },
+        {
+            "endt": 2630,
+            "length": "full",
+            "name": "恋愛サーキュレーション",
+            "singType": "known",
+            "t": 2377,
+            "uuid": "2e61a9c4-343a-4988-b441-ca66bbfcd1fa",
+            "video": "PZxQFnLKNQM"
         }
     ],
     "南一誠": [
@@ -7738,6 +7765,15 @@
             "t": 9269,
             "uuid": "bd2c12f6-ad9d-4cdd-a4b0-293149af5c50",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 2094,
+            "length": "full",
+            "name": "葛飾ラプソディー",
+            "singType": "known",
+            "t": 1934,
+            "uuid": "2d2cb9d4-7841-43d9-897e-f85b01e3abb7",
+            "video": "PZxQFnLKNQM"
         }
     ],
     "塩見大治郎": [
@@ -8753,6 +8789,15 @@
             "video": "1Zeq5yzKt7A"
         },
         {
+            "endt": 4945,
+            "length": "full",
+            "name": "Cから始まるABC",
+            "singType": "improvised",
+            "t": 4789,
+            "uuid": "0355da4c-69aa-462e-b8c9-2a7ba206516f",
+            "video": "PZxQFnLKNQM"
+        },
+        {
             "endt": 3391,
             "length": "full",
             "name": "この街には君がいない",
@@ -9205,6 +9250,15 @@
             "video": "1byyvPl_xuE"
         },
         {
+            "endt": 1205,
+            "length": "full",
+            "name": "U&I",
+            "singType": "known",
+            "t": 930,
+            "uuid": "9476eb05-2382-42cd-8a46-840b1a985a50",
+            "video": "PZxQFnLKNQM"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "ごはんはおかず",
@@ -9295,6 +9349,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 5619,
+            "length": "full",
+            "name": "ふわふわ時間",
+            "singType": "improvised",
+            "t": 5368,
+            "uuid": "de2cc91e-9372-4f82-8bbe-4da2e38862fd",
+            "video": "PZxQFnLKNQM"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "天使にふれたよ",
@@ -9349,6 +9412,17 @@
             "t": 1298,
             "uuid": "3bdb068c-66a6-44d7-879e-cf92eb57ab08",
             "video": "mPUzyxcD_BU"
+        }
+    ],
+    "新谷良子": [
+        {
+            "endt": 3047,
+            "length": "full",
+            "name": "ハリケーンミキサー",
+            "singType": "improvised",
+            "t": 2818,
+            "uuid": "c31c1fc2-3f42-446d-9c7f-7f70e576ab46",
+            "video": "PZxQFnLKNQM"
         }
     ],
     "星街すいせい": [
@@ -9581,6 +9655,15 @@
             "t": 2292,
             "uuid": "e1607a9d-b93a-4971-9399-108841a69b20",
             "video": "wS1jFMR7WsQ"
+        },
+        {
+            "endt": 744,
+            "length": "full",
+            "name": "めざせポケモンマスター",
+            "singType": "known",
+            "t": 506,
+            "uuid": "a8a371a9-41ad-46fa-9f4b-8d4aabe89ce4",
+            "video": "PZxQFnLKNQM"
         },
         {
             "endt": null,
@@ -9974,6 +10057,15 @@
             "t": 11333,
             "uuid": "04f890d2-fa8c-4317-980b-e8a59dd42f1c",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 4089,
+            "length": "full",
+            "name": "God knows…",
+            "singType": "known",
+            "t": 3795,
+            "uuid": "88452449-ba76-428b-b0de-8eccbdc52b28",
+            "video": "PZxQFnLKNQM"
         }
     ],
     "滝廉太郎": [
@@ -10708,6 +10800,15 @@
             "t": 4331,
             "uuid": "c1f92095-c6d8-4b84-9a08-50ba806f7048",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 3616,
+            "length": "full",
+            "name": "星座になれたら",
+            "singType": "known",
+            "t": 3353,
+            "uuid": "4a4cbcbc-8d8d-44b7-ac36-00355cdc07de",
+            "video": "PZxQFnLKNQM"
         }
     ],
     "羽村きみか": [
