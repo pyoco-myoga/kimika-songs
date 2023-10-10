@@ -525,6 +525,15 @@
             "video": "jPfP9qRd9DM"
         },
         {
+            "endt": 6653,
+            "length": "full",
+            "name": "プラネタリウム",
+            "singType": "known",
+            "t": 6367,
+            "uuid": "40182df6-17b2-4feb-82bc-b1b935b6d194",
+            "video": "udQVw5tA6WM"
+        },
+        {
             "endt": 6403,
             "length": "short",
             "name": "メロディーフラッグ",
@@ -815,6 +824,42 @@
             "t": 450,
             "uuid": "8134335b-9669-4bda-9a95-e86e71153adb",
             "video": "E6Guj98A2a0"
+        },
+        {
+            "endt": 4062,
+            "length": "full",
+            "name": "私、アイドル宣言",
+            "singType": "known",
+            "t": 3757,
+            "uuid": "e2136aa8-fe28-4f24-ad79-b8eda2717fc9",
+            "video": "oC5eGoMc3zM"
+        },
+        {
+            "endt": 6988,
+            "length": "full",
+            "name": "私、アイドル宣言",
+            "singType": "known",
+            "t": 6725,
+            "uuid": "515d5d07-244b-4122-8e9a-4832cb25390e",
+            "video": "ITin9vCGYA0"
+        },
+        {
+            "endt": 1043,
+            "length": "full",
+            "name": "私、アイドル宣言",
+            "singType": "known",
+            "t": 767,
+            "uuid": "1c3a3e3e-0130-4125-b2ae-20a53d0182dc",
+            "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 10809,
+            "length": "full",
+            "name": "私、アイドル宣言",
+            "singType": "known",
+            "t": 10525,
+            "uuid": "f3daa4df-c148-444a-a6b0-e5ad36997021",
+            "video": "wQaaITAy2aM"
         }
     ],
     "ClariS": [
@@ -1660,42 +1705,6 @@
             "video": "dpWnpmfchA4"
         },
         {
-            "endt": 4062,
-            "length": "full",
-            "name": "私、アイドル宣言",
-            "singType": "known",
-            "t": 3757,
-            "uuid": "e2136aa8-fe28-4f24-ad79-b8eda2717fc9",
-            "video": "oC5eGoMc3zM"
-        },
-        {
-            "endt": 6988,
-            "length": "full",
-            "name": "私、アイドル宣言",
-            "singType": "known",
-            "t": 6725,
-            "uuid": "515d5d07-244b-4122-8e9a-4832cb25390e",
-            "video": "ITin9vCGYA0"
-        },
-        {
-            "endt": 1043,
-            "length": "full",
-            "name": "私、アイドル宣言",
-            "singType": "known",
-            "t": 767,
-            "uuid": "1c3a3e3e-0130-4125-b2ae-20a53d0182dc",
-            "video": "Bqk1okPs1w8"
-        },
-        {
-            "endt": 10809,
-            "length": "full",
-            "name": "私、アイドル宣言",
-            "singType": "known",
-            "t": 10525,
-            "uuid": "f3daa4df-c148-444a-a6b0-e5ad36997021",
-            "video": "wQaaITAy2aM"
-        },
-        {
             "endt": 1919,
             "length": "short",
             "name": "野太くてごめん",
@@ -1824,6 +1833,15 @@
             "t": 6492,
             "uuid": "f17fa566-54ae-4dfe-adc7-4bcd8ec88b24",
             "video": "wQaaITAy2aM"
+        },
+        {
+            "endt": 2001,
+            "length": "full",
+            "name": "LOVER SOUL",
+            "singType": "known",
+            "t": 1711,
+            "uuid": "d3a291c2-edf6-463a-adec-5d477d416b70",
+            "video": "udQVw5tA6WM"
         },
         {
             "endt": 5061,
@@ -2554,6 +2572,15 @@
             "t": 3455,
             "uuid": "44301e95-f90c-4c5d-b77f-4e022165db49",
             "video": "_VhgWzAPVkQ"
+        },
+        {
+            "endt": 2658,
+            "length": "full",
+            "name": "pretender",
+            "singType": "known",
+            "t": 2338,
+            "uuid": "0b2cc494-3466-45cc-85ac-d6bc95ac29ef",
+            "video": "udQVw5tA6WM"
         }
     ],
     "Perfume": [
@@ -2751,6 +2778,15 @@
             "t": 7158,
             "uuid": "92ffae1d-fa56-4117-9cf9-562b90c2f81c",
             "video": "DU1iG9SjihQ"
+        },
+        {
+            "endt": 4995,
+            "length": "full",
+            "name": "トレモロ",
+            "singType": "known",
+            "t": 4778,
+            "uuid": "5e84f2b2-0b06-456c-9e4d-b11f237d578e",
+            "video": "udQVw5tA6WM"
         },
         {
             "endt": null,
@@ -3942,6 +3978,15 @@
             "t": 400,
             "uuid": "c087f803-2076-47ee-8a51-563d4303bf05",
             "video": "BODI63bQn_g"
+        },
+        {
+            "endt": 4242,
+            "length": "full",
+            "name": "secret base ~君がくれたもの~",
+            "singType": "known",
+            "t": 3970,
+            "uuid": "79be4509-98c6-4f85-8c87-0a20cf296ed8",
+            "video": "udQVw5tA6WM"
         }
     ],
     "aiko": [
@@ -4725,6 +4770,15 @@
             "video": "1FUpWcb6FVU"
         },
         {
+            "endt": 3056,
+            "length": "full",
+            "name": "映画",
+            "singType": "known",
+            "t": 2833,
+            "uuid": "0105c370-a46d-46b5-b8d0-650f57598f3a",
+            "video": "udQVw5tA6WM"
+        },
+        {
             "endt": 8083,
             "length": "full",
             "name": "月光陽光",
@@ -5176,6 +5230,15 @@
             "t": 2750,
             "uuid": "9d33e170-7347-4ed5-82a5-c67694ac992c",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 4609,
+            "length": "full",
+            "name": "カレーの歌",
+            "singType": "known",
+            "t": 4404,
+            "uuid": "1ff8a8cf-e225-4dc5-863d-6fd3fbcb4e53",
+            "video": "udQVw5tA6WM"
         },
         {
             "endt": 3056,
@@ -8009,6 +8072,15 @@
             "video": "NnOmGi9yLM4"
         },
         {
+            "endt": 6173,
+            "length": "full",
+            "name": "ノスタルジックJ-pop",
+            "singType": "known",
+            "t": 5939,
+            "uuid": "6b9fe524-d551-4f12-a026-e9da7921199b",
+            "video": "udQVw5tA6WM"
+        },
+        {
             "endt": 1625,
             "length": "full",
             "name": "ハンドメイドホーム",
@@ -8142,6 +8214,15 @@
             "t": 5723,
             "uuid": "a5c2a029-a3a2-4ad5-a9c5-0913c11049b2",
             "video": "wQaaITAy2aM"
+        },
+        {
+            "endt": 910,
+            "length": "full",
+            "name": "君と映画",
+            "singType": "known",
+            "t": 711,
+            "uuid": "bf51f63a-7c17-4bf9-99ce-f83ae4933f32",
+            "video": "udQVw5tA6WM"
         },
         {
             "endt": 1393,
@@ -9783,6 +9864,15 @@
             "t": 4901,
             "uuid": "d65bc38d-33ce-4bef-a3d0-b2ef12d95c5a",
             "video": "eUQvpt8tpIY"
+        },
+        {
+            "endt": 6967,
+            "length": "full",
+            "name": "赤いスイートピー",
+            "singType": "known",
+            "t": 6740,
+            "uuid": "390ccd85-3528-470c-a7f6-f668f9e69f1c",
+            "video": "udQVw5tA6WM"
         }
     ],
     "林原めぐみ": [
@@ -10180,6 +10270,15 @@
             "t": 820,
             "uuid": "69229f76-d4c2-4c1b-969f-6fa59ff56a57",
             "video": "gt1qIwfJ2JI"
+        },
+        {
+            "endt": 5815,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 5636,
+            "uuid": "5695257c-fec4-4edb-a0f0-32e5666b1458",
+            "video": "udQVw5tA6WM"
         }
     ],
     "瑛人": [
@@ -10247,6 +10346,15 @@
             "t": 1401,
             "uuid": "f6d3ef6c-439e-45df-a3e7-2ad88deb6b4b",
             "video": "gRhsjqjZQOg"
+        },
+        {
+            "endt": 7360,
+            "length": "full",
+            "name": "地獄先生",
+            "singType": "known",
+            "t": 7160,
+            "uuid": "da77f60c-31d1-4ece-a719-b2f9ccac2f13",
+            "video": "udQVw5tA6WM"
         },
         {
             "endt": 5444,
@@ -10401,6 +10509,15 @@
             "t": 6604,
             "uuid": "78d43e4e-bfe4-477b-9b48-dd3c77d3fd61",
             "video": "DU1iG9SjihQ"
+        },
+        {
+            "endt": 3781,
+            "length": "full",
+            "name": "Rain",
+            "singType": "known",
+            "t": 3484,
+            "uuid": "8d15b652-428a-4d6c-ac3f-2564bf42f6e3",
+            "video": "udQVw5tA6WM"
         }
     ],
     "童謡": [
@@ -11190,6 +11307,15 @@
             "video": "wQaaITAy2aM"
         },
         {
+            "endt": 5493,
+            "length": "full",
+            "name": "なんとなく僕たちは大人になるんだ",
+            "singType": "known",
+            "t": 5183,
+            "uuid": "e293df0e-88d5-46ca-9e39-ad3dcfed6b5e",
+            "video": "udQVw5tA6WM"
+        },
+        {
             "endt": 2043,
             "length": "full",
             "name": "もしも君が泣くならば",
@@ -11377,6 +11503,15 @@
             "t": 4851,
             "uuid": "a5dff435-ab30-4dbb-8d57-a41d52aade3f",
             "video": "VIoKcOURwyM"
+        },
+        {
+            "endt": 1411,
+            "length": "full",
+            "name": "惑星基地ベオウルフ",
+            "singType": "improvised",
+            "t": 1098,
+            "uuid": "a0c1f006-a6e6-42a4-b5f3-88f8ee956368",
+            "video": "udQVw5tA6WM"
         },
         {
             "endt": null,
