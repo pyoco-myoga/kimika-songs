@@ -2,7 +2,7 @@
     "name": "kimika-songs",
     "version": "0.0.1",
     "devDependencies": {
-        "@parcel/transformer-vue": "2.8.3",
+        "@parcel/transformer-vue": "2.9.3",
         "parcel": "^2.8.3",
         "parcel-reporter-static-files-copy": "^1.5.0",
         "typescript": "^4.9.5"
@@ -14,6 +14,7 @@
     },
     "dependencies": {
         "@kyvg/vue3-notification": "^2.9.0",
+        "@parcel/package-manager": "^2.9.3",
         "fuse.js": "^6.6.2",
         "typescript-cookie": "^1.0.4",
         "vue": "^3.2.47"
