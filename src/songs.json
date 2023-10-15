@@ -1660,6 +1660,15 @@
             "video": "76XmiF-6evQ"
         },
         {
+            "endt": 10136,
+            "length": "full",
+            "name": "可愛くてごめん",
+            "singType": "known",
+            "t": 9883,
+            "uuid": "3a6c259a-2d02-4a2b-b5c9-f2936114bbff",
+            "video": "UNkILr8yJuc"
+        },
+        {
             "endt": 3054,
             "length": "full",
             "name": "男の子の目的は何?",
@@ -3454,6 +3463,15 @@
             "video": "gRhsjqjZQOg"
         },
         {
+            "endt": 1326,
+            "length": "short",
+            "name": "夜の盗賊団",
+            "singType": "improvised",
+            "t": 1285,
+            "uuid": "70f304e8-d540-4b0e-9c07-8124dffecc74",
+            "video": "UNkILr8yJuc"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "夢",
@@ -4225,6 +4243,15 @@
             "t": 3216,
             "uuid": "9be9feea-c199-4f28-bc7a-b323924a723a",
             "video": "gRhsjqjZQOg"
+        },
+        {
+            "endt": 6845,
+            "length": "full",
+            "name": "ベンガルトラとウィスキー",
+            "singType": "known",
+            "t": 6092,
+            "uuid": "0330e5ab-40ca-47a7-844a-c7028f78ae43",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": 618,
@@ -5086,6 +5113,15 @@
             "video": "FMSEOT-MsQU"
         },
         {
+            "endt": 5192,
+            "length": "full",
+            "name": "クロノスタシス",
+            "singType": "known",
+            "t": 4995,
+            "uuid": "258ca9d3-99cb-4709-b3c1-684d402893a6",
+            "video": "UNkILr8yJuc"
+        },
+        {
             "endt": 2841,
             "length": "full",
             "name": "春と修羅",
@@ -5176,6 +5212,15 @@
             "t": 449,
             "uuid": "cf581919-3f5a-4bed-8627-c2cf846841ff",
             "video": "gRhsjqjZQOg"
+        },
+        {
+            "endt": 4802,
+            "length": "full",
+            "name": "ばらの花",
+            "singType": "known",
+            "t": 4555,
+            "uuid": "e82495c5-831e-4ce7-aa4c-269067277b19",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": null,
@@ -5457,6 +5502,17 @@
             "t": 2190,
             "uuid": "5c4e7451-d90e-4f4b-8f3a-86ff1f6404d7",
             "video": "DU1iG9SjihQ"
+        }
+    ],
+    "しぐれうい": [
+        {
+            "endt": 10253,
+            "length": "short",
+            "name": "ロリ神レクイエム",
+            "singType": "improvised",
+            "t": 10213,
+            "uuid": "3913ebf8-8259-49cc-aa7b-7cf231aa8c5f",
+            "video": "UNkILr8yJuc"
         }
     ],
     "すとぷり": [
@@ -6059,6 +6115,15 @@
             "t": 1976,
             "uuid": "6ffc58a1-92af-4d79-a9cf-4195afc607db",
             "video": "mPUzyxcD_BU"
+        },
+        {
+            "endt": 2312,
+            "length": "full",
+            "name": "日暮し",
+            "singType": "improvised",
+            "t": 2006,
+            "uuid": "74842321-d0ba-40b8-8135-48ff1386ea8c",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": 5537,
@@ -7474,6 +7539,26 @@
             "video": "NjbveAjFVao"
         }
     ],
+    "モーモールルギャバン": [
+        {
+            "endt": 7790,
+            "length": "short",
+            "name": "POP!烏龍ハイ",
+            "singType": "improvised",
+            "t": 7705,
+            "uuid": "2382b769-947b-4f75-a49a-821b4c64e665",
+            "video": "UNkILr8yJuc"
+        },
+        {
+            "endt": 8302,
+            "length": "full",
+            "name": "サイケな恋人",
+            "singType": "known",
+            "t": 7944,
+            "uuid": "443d546e-33ce-4350-8b14-e31386ef4d91",
+            "video": "UNkILr8yJuc"
+        }
+    ],
     "ヤバいTシャツ屋さん": [
         {
             "endt": 2339,
@@ -8009,6 +8094,15 @@
             "video": "76XmiF-6evQ"
         },
         {
+            "endt": 9185,
+            "length": "full",
+            "name": "VOID",
+            "singType": "known",
+            "t": 9020,
+            "uuid": "da6358db-658b-435d-9930-d560454a62da",
+            "video": "UNkILr8yJuc"
+        },
+        {
             "endt": 5035,
             "length": "short",
             "name": "あれそれ",
@@ -8142,6 +8236,15 @@
             "t": 5968,
             "uuid": "8460bc2b-2460-4066-90de-acb87c39e43f",
             "video": "eUQvpt8tpIY"
+        },
+        {
+            "endt": 9720,
+            "length": "full",
+            "name": "マジックミラー",
+            "singType": "known",
+            "t": 9442,
+            "uuid": "3f6e4e3c-58c9-44a3-a008-125de1487a86",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": null,
@@ -8286,6 +8389,15 @@
             "t": 3652,
             "uuid": "2b08431a-d648-4578-89af-27d9f9dcf2c2",
             "video": "dpWnpmfchA4"
+        },
+        {
+            "endt": 8758,
+            "length": "full",
+            "name": "新宿",
+            "singType": "known",
+            "t": 8600,
+            "uuid": "255b4c4e-0826-4a92-8287-27080a85275e",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": 5111,
@@ -8559,6 +8671,15 @@
             "t": 3169,
             "uuid": "9ebd98cf-d7a9-4b47-94ff-d4b19bc494a1",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 1717,
+            "length": "full",
+            "name": "エクレア",
+            "singType": "known",
+            "t": 1431,
+            "uuid": "5ffa9b1b-9383-4b3b-beba-8b7a624061ad",
+            "video": "UNkILr8yJuc"
         }
     ],
     "川島あい": [
@@ -9228,6 +9349,15 @@
             "t": 1372,
             "uuid": "c0237688-d513-4616-9219-ba128d5a5a03",
             "video": "1Zeq5yzKt7A"
+        },
+        {
+            "endt": 3776,
+            "length": "full",
+            "name": "北極星",
+            "singType": "known",
+            "t": 3575,
+            "uuid": "7ab06de1-b15c-41fa-ab25-5c8d046effde",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": 215,
@@ -10279,6 +10409,15 @@
             "t": 5636,
             "uuid": "5695257c-fec4-4edb-a0f0-32e5666b1458",
             "video": "udQVw5tA6WM"
+        },
+        {
+            "endt": 10894,
+            "length": "full",
+            "name": "ニャースのうた",
+            "singType": "known",
+            "t": 10720,
+            "uuid": "e0a4768a-630a-44ac-a0e5-605e443c6b9e",
+            "video": "UNkILr8yJuc"
         }
     ],
     "瑛人": [
@@ -10367,6 +10506,15 @@
         }
     ],
     "石川さゆり": [
+        {
+            "endt": 3996,
+            "length": "short",
+            "name": "ウイスキーが、お好きでしょ",
+            "singType": "improvised",
+            "t": 3939,
+            "uuid": "0a7eb063-d080-41e7-8566-81ef013f2422",
+            "video": "UNkILr8yJuc"
+        },
         {
             "endt": null,
             "length": null,
@@ -10518,6 +10666,15 @@
             "t": 3484,
             "uuid": "8d15b652-428a-4d6c-ac3f-2564bf42f6e3",
             "video": "udQVw5tA6WM"
+        },
+        {
+            "endt": 10615,
+            "length": "full",
+            "name": "Rain",
+            "singType": "known",
+            "t": 10330,
+            "uuid": "e5427822-d1a1-4c91-b5d2-64f87535e409",
+            "video": "UNkILr8yJuc"
         }
     ],
     "童謡": [
@@ -11377,6 +11534,15 @@
             "t": 2420,
             "uuid": "c0bf5119-d9b9-4cf6-97c4-e1760d65901e",
             "video": "FMSEOT-MsQU"
+        },
+        {
+            "endt": 3066,
+            "length": "full",
+            "name": "メス豚",
+            "singType": "known",
+            "t": 2925,
+            "uuid": "344bb74a-a462-44d8-9c34-0a39e2b59fe4",
+            "video": "UNkILr8yJuc"
         },
         {
             "endt": null,
