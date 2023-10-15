@@ -1101,6 +1101,15 @@
             "video": "dpWnpmfchA4"
         },
         {
+            "endt": 762,
+            "length": "full",
+            "name": "もしも君が泣くならば",
+            "singType": "known",
+            "t": 520,
+            "uuid": "048d150f-8c30-4170-a6db-c450451043a1",
+            "video": "gPKlnz_SVh4"
+        },
+        {
             "endt": 664,
             "length": "full",
             "name": "アホンダラ行進曲",
@@ -4788,6 +4797,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 2607,
+            "length": "full",
+            "name": "日曜日よりの使者",
+            "singType": "known",
+            "t": 2329,
+            "uuid": "60cf8e8a-cdb8-45cc-a834-5c47ba0c61e5",
+            "video": "gPKlnz_SVh4"
+        },
+        {
             "endt": 2886,
             "length": "full",
             "name": "映画",
@@ -5502,6 +5520,15 @@
             "t": 2190,
             "uuid": "5c4e7451-d90e-4f4b-8f3a-86ff1f6404d7",
             "video": "DU1iG9SjihQ"
+        },
+        {
+            "endt": 2181,
+            "length": "full",
+            "name": "モッシュレース",
+            "singType": "known",
+            "t": 1969,
+            "uuid": "b1fea00d-7a8c-4643-815a-363de3a80ec2",
+            "video": "gPKlnz_SVh4"
         }
     ],
     "しぐれうい": [
@@ -6142,6 +6169,15 @@
             "t": 746,
             "uuid": "96402b77-5677-4f1c-8e02-8b769bfe2dd5",
             "video": "dpWnpmfchA4"
+        },
+        {
+            "endt": 1768,
+            "length": "full",
+            "name": "晩秋",
+            "singType": "known",
+            "t": 1573,
+            "uuid": "e60c698c-ca9e-4d27-9d9e-6458cb52eeaf",
+            "video": "gPKlnz_SVh4"
         },
         {
             "endt": 5120,
@@ -10944,6 +10980,15 @@
             "t": 4870,
             "uuid": "1b804cb4-52be-4ceb-8737-f22fe685e83b",
             "video": "dpWnpmfchA4"
+        },
+        {
+            "endt": 1345,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 1118,
+            "uuid": "ee2f1db5-d7fb-4aa8-920e-1af9c44df571",
+            "video": "gPKlnz_SVh4"
         }
     ],
     "細川たかし": [
