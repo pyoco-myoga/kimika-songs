@@ -2776,6 +2776,15 @@
             "t": 5454,
             "uuid": "3bffb389-de1f-4664-a936-8ed5c65b07c7",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 2355,
+            "length": "full",
+            "name": "キズナミュージック",
+            "singType": "known",
+            "t": 2049,
+            "uuid": "0b8d7a24-626a-473b-b6e7-219e902368e4",
+            "video": "tGojUirBGR4"
         }
     ],
     "RADWIMPS": [
@@ -9780,6 +9789,15 @@
             "video": "PZxQFnLKNQM"
         },
         {
+            "endt": 5539,
+            "length": "full",
+            "name": "U&I",
+            "singType": "known",
+            "t": 5244,
+            "uuid": "42acb3e7-4bd8-4d7d-882a-ab5ac610f82a",
+            "video": "tGojUirBGR4"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "ごはんはおかず",
@@ -9823,6 +9841,15 @@
             "t": 6943,
             "uuid": "7f36c5df-afbe-49f8-b874-ddb5ef222cfb",
             "video": "hf4Zd-7AIxI"
+        },
+        {
+            "endt": 955,
+            "length": "full",
+            "name": "ふでペン~ボールペン~",
+            "singType": "known",
+            "t": 690,
+            "uuid": "3151967c-5f1e-48cd-bc99-09325e5ca196",
+            "video": "tGojUirBGR4"
         },
         {
             "endt": 2959,
@@ -9877,6 +9904,15 @@
             "t": 5368,
             "uuid": "de2cc91e-9372-4f82-8bbe-4da2e38862fd",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 4494,
+            "length": "full",
+            "name": "ふわふわ時間",
+            "singType": "known",
+            "t": 4264,
+            "uuid": "cf9b3a84-5c01-4673-a914-30852285b9b3",
+            "video": "tGojUirBGR4"
         },
         {
             "endt": null,
@@ -11406,6 +11442,15 @@
             "video": "riC8ecj0bp0"
         },
         {
+            "endt": 1652,
+            "length": "full",
+            "name": "なにが悪い",
+            "singType": "known",
+            "t": 1428,
+            "uuid": "fdc1720b-de5d-4db2-992f-5529f8f34443",
+            "video": "tGojUirBGR4"
+        },
+        {
             "endt": 6378,
             "length": "short",
             "name": "ギターと孤独と青い惑星",
@@ -11440,6 +11485,15 @@
             "t": 3353,
             "uuid": "4a4cbcbc-8d8d-44b7-ac36-00355cdc07de",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 5021,
+            "length": "full",
+            "name": "星座になれたら",
+            "singType": "known",
+            "t": 4757,
+            "uuid": "3b8b2abd-6b43-47a5-a115-567c34974652",
+            "video": "tGojUirBGR4"
         }
     ],
     "羽村きみか": [
