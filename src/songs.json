@@ -741,6 +741,15 @@
             "video": "riC8ecj0bp0"
         },
         {
+            "endt": 1891,
+            "length": "full",
+            "name": "車輪の唄",
+            "singType": "known",
+            "t": 1641,
+            "uuid": "9c60eb7b-e58d-43bd-9cc6-35cd797a6d7f",
+            "video": "xiNlG-f_9Mo"
+        },
+        {
             "endt": 2353,
             "length": "short",
             "name": "魔法の料理 ~君から君へ~",
@@ -1061,6 +1070,15 @@
             "t": 10606,
             "uuid": "cdb12e56-f22e-4e66-8dd8-258cbfddd32d",
             "video": "DU1iG9SjihQ"
+        },
+        {
+            "endt": 10072,
+            "length": "full",
+            "name": "こいのうた",
+            "singType": "known",
+            "t": 9734,
+            "uuid": "abf9b177-8859-4e32-a9bc-98ea576e59f4",
+            "video": "xiNlG-f_9Mo"
         }
     ],
     "GOING STEADY": [
@@ -2852,6 +2870,15 @@
             "video": "5Yd4fk4qF5g"
         },
         {
+            "endt": 4636,
+            "length": "full",
+            "name": "ふたりごと",
+            "singType": "known",
+            "t": 4399,
+            "uuid": "ddf4db3e-611f-4d51-bfd5-3de513b9167c",
+            "video": "xiNlG-f_9Mo"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "もしも",
@@ -3784,6 +3811,15 @@
             "video": "vGbxms7kIOE"
         },
         {
+            "endt": 928,
+            "length": "full",
+            "name": "ハローグッバイサンキュー",
+            "singType": "improvised",
+            "t": 628,
+            "uuid": "e18b569b-5158-40f3-ac25-108e3f72de6b",
+            "video": "xiNlG-f_9Mo"
+        },
+        {
             "endt": null,
             "length": "full",
             "name": "パレードは続く",
@@ -3903,6 +3939,15 @@
             "t": 4078,
             "uuid": "2ecd806d-b876-40af-9ab0-b62ab6147447",
             "video": "-OeM_LWr_2Q"
+        },
+        {
+            "endt": 3144,
+            "length": "full",
+            "name": "プライマル。",
+            "singType": "known",
+            "t": 2918,
+            "uuid": "e15ccc76-d908-45cd-aca7-4a6d7a87fb16",
+            "video": "xiNlG-f_9Mo"
         },
         {
             "endt": 10609,
@@ -4234,6 +4279,15 @@
             "t": 5468,
             "uuid": "78dcb97d-a19c-4305-b34f-d750ac810ab1",
             "video": "SfiI7mHE_48"
+        },
+        {
+            "endt": 8734,
+            "length": "full",
+            "name": "カブトムシ",
+            "singType": "known",
+            "t": 8432,
+            "uuid": "0f59d2cc-9994-4bf2-81db-068fb98d04c1",
+            "video": "xiNlG-f_9Mo"
         },
         {
             "endt": 5958,
@@ -4685,6 +4739,15 @@
             "t": 3014,
             "uuid": "983232ee-359f-4d30-adb1-ae93d4d1cf54",
             "video": "q4BVGiAEBYk"
+        },
+        {
+            "endt": 6590,
+            "length": "full",
+            "name": "高層ビルと人工衛星",
+            "singType": "known",
+            "t": 6346,
+            "uuid": "20f5e6d0-f76d-42db-928b-5e81b9fe557d",
+            "video": "xiNlG-f_9Mo"
         }
     ],
     "the peggies": [
@@ -4741,6 +4804,15 @@
             "t": 13146,
             "uuid": "225ea6a6-4938-49f6-8e4b-dc90ae2eddda",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 8210,
+            "length": "full",
+            "name": "君のせい",
+            "singType": "known",
+            "t": 7938,
+            "uuid": "b7f29dc9-e143-4d87-b279-254bb59b5f88",
+            "video": "xiNlG-f_9Mo"
         }
     ],
     "↑THE HIGH-LOWS↓": [
@@ -5576,6 +5648,15 @@
             "t": 720,
             "uuid": "591fe308-36fa-497e-95a2-5f11eb06a20c",
             "video": "q4BVGiAEBYk"
+        },
+        {
+            "endt": 5150,
+            "length": "full",
+            "name": "ワンダーフォーゲル",
+            "singType": "improvised",
+            "t": 4915,
+            "uuid": "0ccf765a-eb6a-4263-be58-e432daf5f608",
+            "video": "xiNlG-f_9Mo"
         },
         {
             "endt": 4861,
@@ -6418,6 +6499,15 @@
             "video": "gPKlnz_SVh4"
         },
         {
+            "endt": 1405,
+            "length": "full",
+            "name": "晩秋",
+            "singType": "known",
+            "t": 1245,
+            "uuid": "693f9262-a3ee-4927-a314-bd04fd898222",
+            "video": "xiNlG-f_9Mo"
+        },
+        {
             "endt": 5120,
             "length": "full",
             "name": "東京",
@@ -6706,6 +6796,15 @@
             "t": 1253,
             "uuid": "64ebce96-3053-4f96-8d59-908e2ae4208f",
             "video": "dpWnpmfchA4"
+        },
+        {
+            "endt": 7571,
+            "length": "full",
+            "name": "さっきはごめんね、ありがとう",
+            "singType": "known",
+            "t": 7359,
+            "uuid": "f52e062e-d25b-4146-be71-b123e9fe4216",
+            "video": "xiNlG-f_9Mo"
         },
         {
             "endt": 1928,
@@ -7619,6 +7718,15 @@
             "t": 3852,
             "uuid": "402ef6b8-a9fb-413d-9087-d3099052505d",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 5864,
+            "length": "full",
+            "name": "若者のすべて",
+            "singType": "known",
+            "t": 5550,
+            "uuid": "949bb0b7-57f8-4e2b-a7be-d97829877699",
+            "video": "xiNlG-f_9Mo"
         }
     ],
     "フーバーウーバー": [
@@ -8557,6 +8665,15 @@
             "video": "UNkILr8yJuc"
         },
         {
+            "endt": 2411,
+            "length": "full",
+            "name": "マジックミラー",
+            "singType": "known",
+            "t": 2138,
+            "uuid": "bac4ce4b-396c-4791-b1f7-9a82f94913da",
+            "video": "xiNlG-f_9Mo"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "ミッドナイト清純異性交流",
@@ -9434,6 +9551,15 @@
             "t": 3124,
             "uuid": "1624b5ee-7826-43a4-8701-15115c42993f",
             "video": "dpWnpmfchA4"
+        },
+        {
+            "endt": 4138,
+            "length": "full",
+            "name": "アイラブ言う",
+            "singType": "known",
+            "t": 3923,
+            "uuid": "30813ac7-d815-4c8a-aef7-976d8f007a11",
+            "video": "xiNlG-f_9Mo"
         },
         {
             "endt": null,
@@ -10516,6 +10642,15 @@
             "t": 3300,
             "uuid": "403532f3-7d8e-4634-87f5-88b34777f6f1",
             "video": "tQ2CZRKUFJE"
+        },
+        {
+            "endt": 10072,
+            "length": "full",
+            "name": "農業、校長、そして手品",
+            "singType": "known",
+            "t": 8873,
+            "uuid": "82d295c0-4b4b-4f5f-8ff4-79564ffcc8bd",
+            "video": "xiNlG-f_9Mo"
         }
     ],
     "氷川きよし": [
@@ -11967,6 +12102,15 @@
             "video": "UNkILr8yJuc"
         },
         {
+            "endt": 10598,
+            "length": "full",
+            "name": "メス豚",
+            "singType": "known",
+            "t": 10504,
+            "uuid": "7146f1a7-15c4-4fec-80fe-c83e85dad716",
+            "video": "xiNlG-f_9Mo"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "人間",
@@ -12154,6 +12298,15 @@
             "t": 4390,
             "uuid": "55e4dd13-b9d6-47b3-9c91-e36075d9f40b",
             "video": "ITin9vCGYA0"
+        },
+        {
+            "endt": 10953,
+            "length": "short",
+            "name": "援助交際",
+            "singType": "known",
+            "t": 10878,
+            "uuid": "9e70f16b-4ff2-401b-b814-419012273234",
+            "video": "xiNlG-f_9Mo"
         },
         {
             "endt": 3442,
