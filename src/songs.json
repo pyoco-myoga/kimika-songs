@@ -10,6 +10,17 @@
             "video": "1byyvPl_xuE"
         }
     ],
+    "9mm Parabellum Bullet": [
+        {
+            "endt": 1539,
+            "length": "full",
+            "name": "Vampiregirl",
+            "singType": "live",
+            "t": 1344,
+            "uuid": "1ce80ac8-3d00-4f1c-9118-4d75b0583368",
+            "video": "wXpHspDrWdI"
+        }
+    ],
     "ACIDMAN": [
         {
             "endt": 7110,
@@ -1323,6 +1334,15 @@
     ],
     "Helsinki Lambda Club": [
         {
+            "endt": 2148,
+            "length": "full",
+            "name": "しゃれこうべ しゃれこうべ",
+            "singType": "live",
+            "t": 1924,
+            "uuid": "4a968107-35bf-48ef-9109-f11c37188d72",
+            "video": "wXpHspDrWdI"
+        },
+        {
             "endt": 2400,
             "length": "full",
             "name": "ぢきぢき",
@@ -2345,6 +2365,15 @@
             "video": "xBwOc_0dnSQ"
         },
         {
+            "endt": 4157,
+            "length": "full",
+            "name": "Popcorn Love",
+            "singType": "live",
+            "t": 4040,
+            "uuid": "e1fdf5ff-2867-4294-85c1-2a30a7fc5cba",
+            "video": "wXpHspDrWdI"
+        },
+        {
             "endt": 2546,
             "length": "full",
             "name": "Running On The Winding Road",
@@ -3103,6 +3132,15 @@
             "t": 8186,
             "uuid": "3fa0877a-3083-4d49-9ab2-cb2a1f81cc95",
             "video": "dpWnpmfchA4"
+        },
+        {
+            "endt": 952,
+            "length": "full",
+            "name": "MONSTER TREE",
+            "singType": "known",
+            "t": 684,
+            "uuid": "29763dbe-ff46-42b0-9de2-2cfc8ed836bb",
+            "video": "wXpHspDrWdI"
         },
         {
             "endt": 6860,
@@ -6065,6 +6103,15 @@
         }
     ],
     "ゆらゆら帝国": [
+        {
+            "endt": 2748,
+            "length": "full",
+            "name": "夜行性の生き物3匹",
+            "singType": "live",
+            "t": 2562,
+            "uuid": "c03f93f8-4949-4edf-9539-6c07b28db4c9",
+            "video": "wXpHspDrWdI"
+        },
         {
             "endt": 8951,
             "length": "short",
@@ -9107,6 +9154,15 @@
             "t": 1431,
             "uuid": "5ffa9b1b-9383-4b3b-beba-8b7a624061ad",
             "video": "UNkILr8yJuc"
+        },
+        {
+            "endt": 3518,
+            "length": "full",
+            "name": "エクレア",
+            "singType": "live",
+            "t": 3236,
+            "uuid": "6b839c27-4825-4c85-a227-57a195d2bc5a",
+            "video": "wXpHspDrWdI"
         }
     ],
     "川島あい": [
