@@ -1644,6 +1644,15 @@
             "video": "wQaaITAy2aM"
         },
         {
+            "endt": 5070,
+            "length": "full",
+            "name": "ファンサ",
+            "singType": "known",
+            "t": 4805,
+            "uuid": "fa18acc2-af5b-4ca7-827b-ef7e562394fe",
+            "video": "Okx8b9Can28"
+        },
+        {
             "endt": 1447,
             "length": "full",
             "name": "可愛くてごめん",
@@ -9555,6 +9564,15 @@
             "video": "jPfP9qRd9DM"
         },
         {
+            "endt": 4387,
+            "length": "full",
+            "name": "この高鳴りをなんと呼ぶ",
+            "singType": "known",
+            "t": 4120,
+            "uuid": "37a3444a-2cf0-4322-b075-ea398d1f5d78",
+            "video": "Okx8b9Can28"
+        },
+        {
             "endt": 2922,
             "length": "full",
             "name": "ばかもののすべて",
@@ -12012,6 +12030,15 @@
             "t": 1046,
             "uuid": "2e8430d6-580c-49bc-b0c2-29b74b2ac660",
             "video": "wQaaITAy2aM"
+        },
+        {
+            "endt": 3521,
+            "length": "full",
+            "name": "BABY BABY",
+            "singType": "known",
+            "t": 3267,
+            "uuid": "d8996634-14a0-4bf6-a78c-9762c2d9d60e",
+            "video": "Okx8b9Can28"
         },
         {
             "endt": null,
