@@ -482,6 +482,15 @@
             "video": "q4BVGiAEBYk"
         },
         {
+            "endt": 2209,
+            "length": "full",
+            "name": "ガラスのブルース",
+            "singType": "known",
+            "t": 1830,
+            "uuid": "968b0a6c-58f2-4bc7-b13f-c80b0e4112ab",
+            "video": "8-Axz3BGJ0w"
+        },
+        {
             "endt": 6273,
             "length": "short",
             "name": "スノースマイル",
@@ -1090,6 +1099,15 @@
             "t": 9734,
             "uuid": "abf9b177-8859-4e32-a9bc-98ea576e59f4",
             "video": "xiNlG-f_9Mo"
+        },
+        {
+            "endt": 3519,
+            "length": "full",
+            "name": "こいのうた",
+            "singType": "known",
+            "t": 3164,
+            "uuid": "276036da-cb1a-48a2-835c-b885b010ee37",
+            "video": "8-Axz3BGJ0w"
         }
     ],
     "GOING STEADY": [
@@ -1532,6 +1550,15 @@
             "t": 1940,
             "uuid": "cb593c24-d0b9-435b-ba7e-013d2e6124dd",
             "video": "q4BVGiAEBYk"
+        },
+        {
+            "endt": 4744,
+            "length": "full",
+            "name": "MY FIRST KISS",
+            "singType": "known",
+            "t": 4534,
+            "uuid": "ccdd5993-b1f9-4695-97ee-b4c03a7a841b",
+            "video": "8-Axz3BGJ0w"
         },
         {
             "endt": 6664,
@@ -2125,6 +2152,15 @@
             "video": "SfiI7mHE_48"
         },
         {
+            "endt": 4781,
+            "length": "full",
+            "name": "そばかす",
+            "singType": "known",
+            "t": 4555,
+            "uuid": "6365166d-8936-4edf-8dee-9dc57c63acde",
+            "video": "dw5zaOM5IkI"
+        },
+        {
             "endt": 3748,
             "length": "full",
             "name": "クラシック",
@@ -2251,6 +2287,15 @@
             "t": 686,
             "uuid": "3caad3b9-0d45-4a4a-b673-95e0b72db5d7",
             "video": "P_51rg5kLLU"
+        },
+        {
+            "endt": 1471,
+            "length": "full",
+            "name": "シルエット",
+            "singType": "known",
+            "t": 1209,
+            "uuid": "21d240f6-35d3-4792-936e-93f8409253ca",
+            "video": "8-Axz3BGJ0w"
         }
     ],
     "Kanaria": [
@@ -2374,6 +2419,15 @@
             "video": "xBwOc_0dnSQ"
         },
         {
+            "endt": 4295,
+            "length": "full",
+            "name": "I Go Alone",
+            "singType": "known",
+            "t": 4170,
+            "uuid": "a5cd3edf-7f85-4204-b55a-59bf98d7cfc7",
+            "video": "dw5zaOM5IkI"
+        },
+        {
             "endt": 4157,
             "length": "full",
             "name": "Popcorn Love",
@@ -2381,6 +2435,15 @@
             "t": 4040,
             "uuid": "e1fdf5ff-2867-4294-85c1-2a30a7fc5cba",
             "video": "wXpHspDrWdI"
+        },
+        {
+            "endt": 2388,
+            "length": "full",
+            "name": "Popcorn Love",
+            "singType": "known",
+            "t": 2269,
+            "uuid": "4320bab9-87aa-41d3-a9ac-ffeae4ed57ea",
+            "video": "dw5zaOM5IkI"
         },
         {
             "endt": 2546,
@@ -3910,6 +3973,15 @@
             "t": 4854,
             "uuid": "769da7db-8ad9-4bc2-a215-a5d8d44f9e35",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 3350,
+            "length": "full",
+            "name": "パレードは続く",
+            "singType": "known",
+            "t": 3049,
+            "uuid": "37b17dc2-9cd5-43fe-8be5-a23174f55940",
+            "video": "dw5zaOM5IkI"
         }
     ],
     "THE CRANE FLY": [
@@ -5350,6 +5422,15 @@
             "t": 7371,
             "uuid": "a4d67348-9c66-4a92-b2e9-99ded7de4330",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 2814,
+            "length": "full",
+            "name": "君はロックを聴かない",
+            "singType": "known",
+            "t": 2550,
+            "uuid": "816c3638-3920-4ba7-9e31-50bf447ad9ae",
+            "video": "8-Axz3BGJ0w"
         },
         {
             "endt": 4832,
@@ -6962,6 +7043,15 @@
             "t": 5080,
             "uuid": "f5c6b588-79f7-400e-852b-b16a6c6bd145",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 3947,
+            "length": "full",
+            "name": "タリホー",
+            "singType": "known",
+            "t": 3795,
+            "uuid": "cab440d6-a683-4dd1-9c26-63bd87585b18",
+            "video": "dw5zaOM5IkI"
         },
         {
             "endt": null,
@@ -11546,6 +11636,15 @@
             "t": 1118,
             "uuid": "ee2f1db5-d7fb-4aa8-920e-1af9c44df571",
             "video": "gPKlnz_SVh4"
+        },
+        {
+            "endt": 916,
+            "length": "full",
+            "name": "お願いマッスル",
+            "singType": "known",
+            "t": 682,
+            "uuid": "884702d3-61bd-4590-af51-c4ede5ac47d2",
+            "video": "dw5zaOM5IkI"
         }
     ],
     "細川たかし": [
@@ -12039,6 +12138,15 @@
             "t": 3267,
             "uuid": "d8996634-14a0-4bf6-a78c-9762c2d9d60e",
             "video": "Okx8b9Can28"
+        },
+        {
+            "endt": 4156,
+            "length": "full",
+            "name": "BABY BABY",
+            "singType": "known",
+            "t": 3915,
+            "uuid": "04d88df3-6e1f-45f9-9cf1-33186187e51d",
+            "video": "8-Axz3BGJ0w"
         },
         {
             "endt": null,
@@ -12597,6 +12705,15 @@
             "t": 4878,
             "uuid": "f379d610-88f4-41bf-97d6-9131b0f01fee",
             "video": "gt1qIwfJ2JI"
+        },
+        {
+            "endt": 1875,
+            "length": "full",
+            "name": "駆け抜けて性春",
+            "singType": "known",
+            "t": 1599,
+            "uuid": "7a040ab2-48aa-4a4b-af16-99790bd3224b",
+            "video": "dw5zaOM5IkI"
         }
     ],
     "高野辰之・岡野貞一": [
