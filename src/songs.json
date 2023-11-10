@@ -1007,6 +1007,17 @@
             "video": "ArOdT1uSdCA"
         }
     ],
+    "DOES": [
+        {
+            "endt": 3584,
+            "length": "short",
+            "name": "曇天",
+            "singType": "improvised",
+            "t": 3430,
+            "uuid": "8b468611-52ae-48c7-8aa9-9af3bf89680d",
+            "video": "24BVa45R9dE"
+        }
+    ],
     "Dream5": [
         {
             "endt": 6071,
@@ -2587,6 +2598,15 @@
             "t": 2083,
             "uuid": "c1f22e6d-cfd5-44d0-b687-021fe9be1f2b",
             "video": "xBwOc_0dnSQ"
+        },
+        {
+            "endt": 2703,
+            "length": "full",
+            "name": "小さな恋のうた",
+            "singType": "known",
+            "t": 2456,
+            "uuid": "2540c47e-6eb3-4996-b627-ae5300172f8f",
+            "video": "24BVa45R9dE"
         }
     ],
     "Mi": [
@@ -3481,6 +3501,15 @@
             "t": 9151,
             "uuid": "593e94d1-167b-49e5-94c5-a77231334f58",
             "video": "76XmiF-6evQ"
+        },
+        {
+            "endt": 5765,
+            "length": "full",
+            "name": "コバルトブルー",
+            "singType": "known",
+            "t": 5511,
+            "uuid": "a0182848-39f0-4426-8806-c48735d64ebc",
+            "video": "24BVa45R9dE"
         },
         {
             "endt": null,
@@ -5449,6 +5478,15 @@
             "t": 3861,
             "uuid": "cd59873f-4808-4aa6-81f7-80731b407642",
             "video": "xBwOc_0dnSQ"
+        },
+        {
+            "endt": 3086,
+            "length": "short",
+            "name": "貴方解剖純愛歌",
+            "singType": "improvised",
+            "t": 3004,
+            "uuid": "c60118af-4c36-4001-a857-a5ef7b5c8881",
+            "video": "24BVa45R9dE"
         }
     ],
     "あんしんパパ": [
@@ -5650,6 +5688,15 @@
             "t": 4555,
             "uuid": "e82495c5-831e-4ce7-aa4c-269067277b19",
             "video": "UNkILr8yJuc"
+        },
+        {
+            "endt": 4132,
+            "length": "full",
+            "name": "ばらの花",
+            "singType": "known",
+            "t": 3888,
+            "uuid": "3d56d0c4-b162-4f47-b824-d27ab92bdb22",
+            "video": "24BVa45R9dE"
         },
         {
             "endt": null,
@@ -6944,6 +6991,15 @@
             "video": "xiNlG-f_9Mo"
         },
         {
+            "endt": 1803,
+            "length": "full",
+            "name": "イノチミジカシコイセヨオトメ",
+            "singType": "known",
+            "t": 1612,
+            "uuid": "3dfca9b3-08c1-45f3-b6af-15e279cc2f82",
+            "video": "24BVa45R9dE"
+        },
+        {
             "endt": 1928,
             "length": "short",
             "name": "オレンジ",
@@ -7982,6 +8038,15 @@
             "video": "xBwOc_0dnSQ"
         },
         {
+            "endt": 1216,
+            "length": "full",
+            "name": "falling jimmy",
+            "singType": "known",
+            "t": 1053,
+            "uuid": "3aef6b30-ee49-413d-a18e-1bb3185e5d26",
+            "video": "24BVa45R9dE"
+        },
+        {
             "endt": 5503,
             "length": "full",
             "name": "ぶっ生き返す",
@@ -8739,6 +8804,15 @@
             "video": "udQVw5tA6WM"
         },
         {
+            "endt": 7089,
+            "length": "full",
+            "name": "ノスタルジックJ-pop",
+            "singType": "known",
+            "t": 6849,
+            "uuid": "af548f78-3ab5-4cfa-aef9-4bd56c667309",
+            "video": "24BVa45R9dE"
+        },
+        {
             "endt": 1625,
             "length": "full",
             "name": "ハンドメイドホーム",
@@ -9262,6 +9336,15 @@
             "t": 3236,
             "uuid": "6b839c27-4825-4c85-a227-57a195d2bc5a",
             "video": "wXpHspDrWdI"
+        },
+        {
+            "endt": 4835,
+            "length": "full",
+            "name": "エクレア",
+            "singType": "known",
+            "t": 4552,
+            "uuid": "07b24c2e-cb11-4626-a601-8c16726bb23b",
+            "video": "24BVa45R9dE"
         }
     ],
     "川島あい": [
@@ -9383,6 +9466,15 @@
             "t": 1349,
             "uuid": "b698891f-c112-4833-ae9e-4fb03899842e",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 6457,
+            "length": "full",
+            "name": "1/2",
+            "singType": "known",
+            "t": 6172,
+            "uuid": "52a4be2e-3744-4d5b-8245-6ac9522f546d",
+            "video": "24BVa45R9dE"
         }
     ],
     "広末涼子": [
