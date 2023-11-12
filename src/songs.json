@@ -8422,6 +8422,15 @@
             "t": 2377,
             "uuid": "2e61a9c4-343a-4988-b441-ca66bbfcd1fa",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 1145,
+            "length": "full",
+            "name": "恋愛サーキュレーション",
+            "singType": "known",
+            "t": 885,
+            "uuid": "8cf9064c-d717-4594-8ace-a0e0a992ec65",
+            "video": "8yyn15JqsVc"
         }
     ],
     "南一誠": [
@@ -8542,6 +8551,15 @@
             "t": 1934,
             "uuid": "2d2cb9d4-7841-43d9-897e-f85b01e3abb7",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 1776,
+            "length": "full",
+            "name": "葛飾ラプソディー",
+            "singType": "known",
+            "t": 1595,
+            "uuid": "38cc555e-f705-40ee-adde-ce8ad2fa22aa",
+            "video": "8yyn15JqsVc"
         }
     ],
     "塩見大治郎": [
@@ -9672,6 +9690,15 @@
             "t": 4789,
             "uuid": "0355da4c-69aa-462e-b8c9-2a7ba206516f",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 1423,
+            "length": "full",
+            "name": "Cから始まるABC",
+            "singType": "known",
+            "t": 1282,
+            "uuid": "03e5c98e-5279-46c4-a765-ee15a0853a8c",
+            "video": "8yyn15JqsVc"
         },
         {
             "endt": 3391,
