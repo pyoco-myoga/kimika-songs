@@ -171,6 +171,15 @@
             "video": "P_51rg5kLLU"
         },
         {
+            "endt": 5476,
+            "length": "full",
+            "name": "リライト",
+            "singType": "known",
+            "t": 5281,
+            "uuid": "509ecc2d-822b-4720-a73f-b5c9b3ab9bbc",
+            "video": "j4pDjL1N_gU"
+        },
+        {
             "endt": 4721,
             "length": "short",
             "name": "遥か彼方",
@@ -954,6 +963,15 @@
             "t": 1455,
             "uuid": "ad677040-19e9-484a-90a7-5afc5ce5d8b6",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 4742,
+            "length": "full",
+            "name": "コネクト",
+            "singType": "known",
+            "t": 4463,
+            "uuid": "e5596494-189a-4616-82b6-e1e097864e39",
+            "video": "j4pDjL1N_gU"
         }
     ],
     "Cygames": [
@@ -2170,6 +2188,15 @@
             "t": 4555,
             "uuid": "6365166d-8936-4edf-8dee-9dc57c63acde",
             "video": "dw5zaOM5IkI"
+        },
+        {
+            "endt": 2502,
+            "length": "full",
+            "name": "そばかす",
+            "singType": "known",
+            "t": 2252,
+            "uuid": "1b12599a-9bb9-4b69-85b4-3f8b65f55e5a",
+            "video": "j4pDjL1N_gU"
         },
         {
             "endt": 3748,
@@ -4804,6 +4831,15 @@
             "t": 1121,
             "uuid": "63f53b90-1874-46e3-b5de-4b5e3d27e8ba",
             "video": "riC8ecj0bp0"
+        },
+        {
+            "endt": 4124,
+            "length": "full",
+            "name": "君の知らない物語",
+            "singType": "known",
+            "t": 3783,
+            "uuid": "42bd913f-efc6-4ca7-b355-8fa9b44b73af",
+            "video": "j4pDjL1N_gU"
         }
     ],
     "teto": [
@@ -7815,6 +7851,15 @@
             "t": 1902,
             "uuid": "e7b126fe-5413-4380-8632-edfd2ab87bfe",
             "video": "Bqk1okPs1w8"
+        },
+        {
+            "endt": 6908,
+            "length": "full",
+            "name": "ハム太郎とっとこうた",
+            "singType": "known",
+            "t": 6831,
+            "uuid": "6212491d-67d2-44c8-bb23-81bc47110364",
+            "video": "j4pDjL1N_gU"
         }
     ],
     "ピンク・レディー": [
@@ -10324,6 +10369,15 @@
             "video": "tGojUirBGR4"
         },
         {
+            "endt": 3425,
+            "length": "full",
+            "name": "ふわふわ時間",
+            "singType": "known",
+            "t": 3182,
+            "uuid": "df34a78e-24e2-4a0c-9439-92be5e46599c",
+            "video": "j4pDjL1N_gU"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "天使にふれたよ",
@@ -10999,6 +11053,15 @@
             "t": 8711,
             "uuid": "38a4d9e9-b175-4fc9-8108-e77d4959970a",
             "video": "wQaaITAy2aM"
+        },
+        {
+            "endt": 5949,
+            "length": "full",
+            "name": "限界突破×サバイバー",
+            "singType": "known",
+            "t": 5722,
+            "uuid": "95b1409c-9187-4159-b0de-71f020bcf805",
+            "video": "j4pDjL1N_gU"
         }
     ],
     "浜田雅功&槇原敬之": [
@@ -11068,6 +11131,15 @@
             "t": 3795,
             "uuid": "88452449-ba76-428b-b0de-8eccbdc52b28",
             "video": "PZxQFnLKNQM"
+        },
+        {
+            "endt": 8018,
+            "length": "full",
+            "name": "God knows…",
+            "singType": "known",
+            "t": 7714,
+            "uuid": "1426493d-d87a-4068-a3ef-58011e4af83d",
+            "video": "j4pDjL1N_gU"
         }
     ],
     "滝廉太郎": [
