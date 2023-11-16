@@ -19,6 +19,15 @@
             "t": 1344,
             "uuid": "1ce80ac8-3d00-4f1c-9118-4d75b0583368",
             "video": "wXpHspDrWdI"
+        },
+        {
+            "endt": 5477,
+            "length": "full",
+            "name": "Vampiregirl",
+            "singType": "known",
+            "t": 5289,
+            "uuid": "ade55cde-d19f-493e-903b-53a305674fb9",
+            "video": "L3Ne20uW3T8"
         }
     ],
     "ACIDMAN": [
@@ -689,6 +698,15 @@
             "video": "ArOdT1uSdCA"
         },
         {
+            "endt": 8051,
+            "length": "full",
+            "name": "新世界",
+            "singType": "known",
+            "t": 7811,
+            "uuid": "fde87c0d-8980-414a-9c69-13ef85b29f41",
+            "video": "L3Ne20uW3T8"
+        },
+        {
             "endt": 942,
             "length": "full",
             "name": "東京賛歌",
@@ -1043,6 +1061,15 @@
             "t": 3430,
             "uuid": "8b468611-52ae-48c7-8aa9-9af3bf89680d",
             "video": "24BVa45R9dE"
+        },
+        {
+            "endt": 6165,
+            "length": "full",
+            "name": "曇天",
+            "singType": "improvised",
+            "t": 6002,
+            "uuid": "3c54c92f-1b4b-40f2-8001-30fe091513ec",
+            "video": "L3Ne20uW3T8"
         }
     ],
     "Dream5": [
@@ -2017,6 +2044,15 @@
             "t": 576,
             "uuid": "0460667e-c8c1-4bb5-b13a-4ca9cfeb8e23",
             "video": "SfiI7mHE_48"
+        },
+        {
+            "endt": 1685,
+            "length": "full",
+            "name": "BLUE TEARS",
+            "singType": "known",
+            "t": 1484,
+            "uuid": "cad016cf-cbc0-47ec-ba29-fc113caf9764",
+            "video": "L3Ne20uW3T8"
         },
         {
             "endt": 6768,
@@ -3309,6 +3345,15 @@
     ],
     "SHISHAMO": [
         {
+            "endt": 2540,
+            "length": "short",
+            "name": "僕に彼女ができたんだ",
+            "singType": "improvised",
+            "t": 2371,
+            "uuid": "4764804c-fe05-457e-a6ab-484d4c69f015",
+            "video": "L3Ne20uW3T8"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "君と夏フェス",
@@ -4564,6 +4609,15 @@
             "t": 6491,
             "uuid": "6db038ab-37ce-4858-9a06-11d160ae6394",
             "video": "eUQvpt8tpIY"
+        },
+        {
+            "endt": 1214,
+            "length": "full",
+            "name": "16",
+            "singType": "known",
+            "t": 1025,
+            "uuid": "bb686b55-9049-461c-b33b-a0e7e6423b0f",
+            "video": "L3Ne20uW3T8"
         },
         {
             "endt": 1851,
@@ -7126,6 +7180,15 @@
             "video": "vYwjd_emuFY"
         },
         {
+            "endt": 6657,
+            "length": "full",
+            "name": "愛の標識",
+            "singType": "known",
+            "t": 6499,
+            "uuid": "0f920a37-29b5-4f95-80b1-073ecb7e91f7",
+            "video": "L3Ne20uW3T8"
+        },
+        {
             "endt": 6083,
             "length": "full",
             "name": "憂、燦々",
@@ -7535,6 +7598,15 @@
             "video": "9lUTK_KQj_8"
         },
         {
+            "endt": 4941,
+            "length": "full",
+            "name": "ロビンソン",
+            "singType": "known",
+            "t": 4707,
+            "uuid": "d6beaa6a-d40b-427c-be65-3aa00233f9e4",
+            "video": "L3Ne20uW3T8"
+        },
+        {
             "endt": 9248,
             "length": "full",
             "name": "愛のしるし",
@@ -7676,6 +7748,15 @@
             "t": 3739,
             "uuid": "970307fe-8f32-43c5-8a8e-6f180da874de",
             "video": "2CCEVK-iTBc"
+        },
+        {
+            "endt": 3525,
+            "length": "full",
+            "name": "ハナノユメ",
+            "singType": "known",
+            "t": 3303,
+            "uuid": "6afb4121-1785-48e8-8f3f-d797aadf7a45",
+            "video": "L3Ne20uW3T8"
         },
         {
             "endt": null,
@@ -9119,6 +9200,15 @@
             "video": "udQVw5tA6WM"
         },
         {
+            "endt": 7335,
+            "length": "full",
+            "name": "君と映画",
+            "singType": "known",
+            "t": 7148,
+            "uuid": "84c85703-8de2-420b-a182-3c9f24378584",
+            "video": "L3Ne20uW3T8"
+        },
+        {
             "endt": 1393,
             "length": "full",
             "name": "呪いは水色",
@@ -10396,6 +10486,15 @@
             "video": "tGojUirBGR4"
         },
         {
+            "endt": 4246,
+            "length": "full",
+            "name": "ふでペン~ボールペン~",
+            "singType": "known",
+            "t": 3992,
+            "uuid": "fdb590c7-0f56-4942-8723-ae47964ea300",
+            "video": "L3Ne20uW3T8"
+        },
+        {
             "endt": 2959,
             "length": "full",
             "name": "ふわふわ時間",
@@ -11639,6 +11738,15 @@
             "t": 10330,
             "uuid": "e5427822-d1a1-4c91-b5d2-64f87535e409",
             "video": "UNkILr8yJuc"
+        },
+        {
+            "endt": 3061,
+            "length": "full",
+            "name": "Rain",
+            "singType": "known",
+            "t": 2767,
+            "uuid": "e3e0f7a7-987f-41a8-a018-f07fe405f268",
+            "video": "L3Ne20uW3T8"
         }
     ],
     "童謡": [
