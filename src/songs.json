@@ -115,6 +115,15 @@
             "video": "DU1iG9SjihQ"
         },
         {
+            "endt": 4992,
+            "length": "full",
+            "name": "ヘビーローテーション",
+            "singType": "known",
+            "t": 4704,
+            "uuid": "523c025a-0e66-478c-948c-7b57db40a7a9",
+            "video": "lYZbkKlvDeI"
+        },
+        {
             "endt": 5122,
             "length": "full",
             "name": "恋するフォーチュンクッキー",
@@ -2307,6 +2316,17 @@
             "video": "1FUpWcb6FVU"
         }
     ],
+    "KAN": [
+        {
+            "endt": 2606,
+            "length": "full",
+            "name": "愛は勝つ",
+            "singType": "improvised",
+            "t": 2383,
+            "uuid": "0438b53f-f518-458f-9f39-e30158d76ff2",
+            "video": "lYZbkKlvDeI"
+        }
+    ],
     "KANA-BOON": [
         {
             "endt": 4576,
@@ -3649,6 +3669,15 @@
             "video": "gRhsjqjZQOg"
         },
         {
+            "endt": 7582,
+            "length": "full",
+            "name": "TOO MUCH PAIN",
+            "singType": "known",
+            "t": 7252,
+            "uuid": "af520b63-c5ee-429e-8d43-9d632d2a4bad",
+            "video": "lYZbkKlvDeI"
+        },
+        {
             "endt": null,
             "length": null,
             "name": "TRAIN-TRAIN",
@@ -3737,6 +3766,15 @@
             "t": 3863,
             "uuid": "5d3fa545-8b4a-4d69-8c27-afde2b934101",
             "video": "gRhsjqjZQOg"
+        },
+        {
+            "endt": 6952,
+            "length": "full",
+            "name": "キスしてほしい",
+            "singType": "known",
+            "t": 6758,
+            "uuid": "74a7125e-76bf-45bc-a9ad-75a7a7043b0c",
+            "video": "lYZbkKlvDeI"
         },
         {
             "endt": null,
@@ -4150,6 +4188,15 @@
             "t": 7582,
             "uuid": "8eaf01b0-0c0d-4174-a605-b374c86b7efb",
             "video": "5NJW_6ylZaE"
+        },
+        {
+            "endt": 5702,
+            "length": "full",
+            "name": "バラ色の日々",
+            "singType": "known",
+            "t": 5434,
+            "uuid": "e2b8085d-f328-4fe6-9176-ed12c09acdc4",
+            "video": "lYZbkKlvDeI"
         },
         {
             "endt": null,
@@ -6719,6 +6766,15 @@
             "video": "TwhEO1OmEEg"
         },
         {
+            "endt": 1256,
+            "length": "full",
+            "name": "告白",
+            "singType": "known",
+            "t": 1022,
+            "uuid": "52b8bc8b-6eed-4b99-9ed6-2ffc4ed68d30",
+            "video": "lYZbkKlvDeI"
+        },
+        {
             "endt": 12991,
             "length": "full",
             "name": "国道二号線",
@@ -6906,6 +6962,15 @@
             "t": 8723,
             "uuid": "32998fce-42b5-4420-b85f-11897edd33f0",
             "video": "CfhKFBDp9OU"
+        },
+        {
+            "endt": 2065,
+            "length": "full",
+            "name": "祭りの準備",
+            "singType": "known",
+            "t": 1751,
+            "uuid": "0cb64865-7918-4c1d-9d26-6d68e3f2afa9",
+            "video": "lYZbkKlvDeI"
         },
         {
             "endt": null,
@@ -8964,6 +9029,15 @@
             "t": 4920,
             "uuid": "097c660d-d3d3-499e-ba8d-54e03cc61819",
             "video": "G40t4f3Y0i4"
+        },
+        {
+            "endt": 8041,
+            "length": "full",
+            "name": "さようなら",
+            "singType": "known",
+            "t": 7906,
+            "uuid": "bf4f5776-ea6c-48a5-ab8c-69c9d92ac887",
+            "video": "lYZbkKlvDeI"
         },
         {
             "endt": 481,
@@ -12148,6 +12222,15 @@
             "video": "tGojUirBGR4"
         },
         {
+            "endt": 6262,
+            "length": "full",
+            "name": "なにが悪い",
+            "singType": "known",
+            "t": 6039,
+            "uuid": "c6fc9d4b-889b-4e80-be2d-9f2c68db527c",
+            "video": "lYZbkKlvDeI"
+        },
+        {
             "endt": 6378,
             "length": "short",
             "name": "ギターと孤独と青い惑星",
@@ -12583,6 +12666,15 @@
             "video": "wQaaITAy2aM"
         },
         {
+            "endt": 4164,
+            "length": "full",
+            "name": "あの娘に1ミリでもちょっかいかけたら殺す",
+            "singType": "known",
+            "t": 3892,
+            "uuid": "1a72bdf4-df1c-4913-975d-bfa6d40dc5f3",
+            "video": "lYZbkKlvDeI"
+        },
+        {
             "endt": 2058,
             "length": "full",
             "name": "なんとなく僕たちは大人になるんだ",
@@ -12797,6 +12889,15 @@
             "t": 2264,
             "uuid": "8af0dfa9-49ba-437b-b9e1-eabeba176d14",
             "video": "DaV6YRDGbMs"
+        },
+        {
+            "endt": 3404,
+            "length": "full",
+            "name": "夢で逢えたら",
+            "singType": "known",
+            "t": 3107,
+            "uuid": "9c9abab5-b2db-459a-b375-c8ee4eab7110",
+            "video": "lYZbkKlvDeI"
         },
         {
             "endt": 7531,
