@@ -698,7 +698,7 @@
             "video": "NjbveAjFVao"
         },
         {
-            "endt": 2011,
+            "endt": 2012,
             "length": "full",
             "name": "新世界",
             "singType": "live",
@@ -3112,7 +3112,7 @@
         {
             "endt": null,
             "length": null,
-            "name": "いいんですか",
+            "name": "いいんですか?",
             "singType": null,
             "t": 622,
             "uuid": "cead139b-47e0-4739-ab51-11fda2d94e4f",
@@ -3121,7 +3121,7 @@
         {
             "endt": 4798,
             "length": "full",
-            "name": "いいんですか",
+            "name": "いいんですか?",
             "singType": "known",
             "t": 4572,
             "uuid": "fe65fe1c-9b4b-4863-9b0d-a8334cb05c6f",
@@ -3130,7 +3130,7 @@
         {
             "endt": 3342,
             "length": "full",
-            "name": "いいんですか",
+            "name": "いいんですか?",
             "singType": "known",
             "t": 3109,
             "uuid": "4738e6fe-5612-4217-b02c-bd783fdb352d",
@@ -3139,7 +3139,7 @@
         {
             "endt": 898,
             "length": "full",
-            "name": "いいんですか",
+            "name": "いいんですか?",
             "singType": "known",
             "t": 684,
             "uuid": "d83a5430-863f-40ad-8a1a-82e096d73333",
@@ -3148,7 +3148,7 @@
         {
             "endt": 2528,
             "length": "full",
-            "name": "いいんですか",
+            "name": "いいんですか?",
             "singType": "known",
             "t": 2297,
             "uuid": "f4745354-52cd-48e6-9e69-ce9bcdc2c131",
@@ -3157,7 +3157,7 @@
         {
             "endt": 5884,
             "length": "full",
-            "name": "いいんですか",
+            "name": "いいんですか?",
             "singType": "known",
             "t": 5663,
             "uuid": "673659d1-419d-40f7-bc29-0f3c5a9b8aec",
@@ -3374,7 +3374,7 @@
             "length": "full",
             "name": "RPG",
             "singType": "known",
-            "t": 1732,
+            "t": 1733,
             "uuid": "5a096546-2eb2-4552-a4ae-1891bd739ee5",
             "video": "5NJW_6ylZaE"
         }
@@ -4083,10 +4083,10 @@
             "video": "xBwOc_0dnSQ"
         },
         {
-            "endt": null,
-            "length": null,
+            "endt": 3902,
+            "length": "full",
             "name": "終わらない歌",
-            "singType": null,
+            "singType": "known",
             "t": 3678,
             "uuid": "c806dd2a-0f9d-4999-9d10-c9d9fcb47d3b",
             "video": "nt99sMlq34U"
@@ -6484,20 +6484,20 @@
             "video": "mPUzyxcD_BU"
         },
         {
-            "endt": 4083,
-            "length": "full",
-            "name": "夏色",
-            "singType": "known",
-            "t": 3879,
-            "uuid": "aa15ac32-f19e-4782-9acc-5a21a9eb4389",
-            "video": "FINKwpp4QI0"
-        },
-        {
             "endt": 6183,
             "length": "full",
             "name": "夏色",
             "singType": "known",
             "t": 5988,
+            "uuid": "aa15ac32-f19e-4782-9acc-5a21a9eb4389",
+            "video": "FINKwpp4QI0"
+        },
+        {
+            "endt": 4083,
+            "length": "full",
+            "name": "夏色",
+            "singType": "known",
+            "t": 3879,
             "uuid": "acc4ef99-64f7-470e-89cd-1da9fd136c3f",
             "video": "BZylTh8n9Uw"
         },
@@ -8673,10 +8673,10 @@
             "video": "1byyvPl_xuE"
         },
         {
-            "endt": null,
-            "length": null,
+            "endt": 745,
+            "length": "full",
             "name": "粉雪",
-            "singType": null,
+            "singType": "live",
             "t": 409,
             "uuid": "0690c1a4-4afb-482e-b0ed-fccd0eff7240",
             "video": "esHHMezfp8Q"
@@ -12745,11 +12745,11 @@
             "video": "ITin9vCGYA0"
         },
         {
-            "endt": 5702,
+            "endt": 6306,
             "length": "full",
             "name": "春風",
             "singType": "known",
-            "t": 5455,
+            "t": 6028,
             "uuid": "f4e68440-7549-4455-b6ce-e56c4caf0910",
             "video": "Bqk1okPs1w8"
         }
@@ -12886,11 +12886,11 @@
             "video": "8-Axz3BGJ0w"
         },
         {
-            "endt": null,
-            "length": null,
+            "endt": 4538,
+            "length": "full",
             "name": "SKOOL KILL",
-            "singType": null,
-            "t": 6650,
+            "singType": "known",
+            "t": 4250,
             "uuid": "7d7973aa-441f-42d2-9d69-e35d9cc3b8e3",
             "video": "3Vx8BIGWUUc"
         },
@@ -13165,10 +13165,10 @@
             "video": "FINKwpp4QI0"
         },
         {
-            "endt": null,
-            "length": null,
+            "endt": 3522,
+            "length": "full",
             "name": "惑星基地ベオウルフ",
-            "singType": null,
+            "singType": "live",
             "t": 3194,
             "uuid": "21a2d86c-319c-4ff3-98ad-18a758fa1c98",
             "video": "nxzhrq4bEyU"
@@ -13309,7 +13309,7 @@
             "video": "ImpqHhZXF1s"
         },
         {
-            "endt": 5696,
+            "endt": 5697,
             "length": "full",
             "name": "漂流教室",
             "singType": "known",
